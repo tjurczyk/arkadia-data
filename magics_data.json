@@ -1049,7 +1049,7 @@
     },
     "stary matowy pancerz": {
       "type": [
-        "ciezka zbroja"
+        "srednia zbroja"
       ],
       "regexps": [
         "stare matowe pancerze",
