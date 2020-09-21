@@ -225,6 +225,7 @@
         "plaszcz"
       ],
       "regexps": [
+        "dlugie czarne szaty",
         "dluga czarna szata",
         "dluga czarna szate",
         "dlugiej czarnej szacie",
@@ -272,6 +273,7 @@
         "jednoreczny mlot"
       ],
       "regexps": [
+        "foremne iskrzace mloty",
         "foremnego iskrzacego mlota",
         "foremnemu iskrzacemu mlotowi",
         "foremny iskrzacy mlot",
@@ -381,6 +383,7 @@
         "helm"
       ],
       "regexps": [
+        "krasnoludzkie starozytne korony",
         "krasnoludzka starozytna korona",
         "krasnoludzka starozytna korone",
         "krasnoludzkiej starozytnej koronie",
@@ -490,6 +493,7 @@
         "naszyjnik"
       ],
       "regexps": [
+        "lsniace krysztalowe wisiory",
         "lsniacy krysztalowy wisior",
         "lsniacym krysztalowyn wisiorze"
       ]
@@ -671,6 +675,7 @@
         "dwureczny topor"
       ],
       "regexps": [
+        "obosieczne gwiezdne topory",
         "obosiecznego gwiezdnego topora",
         "obosiecznemu gwiezdnemu toporowi",
         "obosieczny gwiezdny topor",
@@ -750,6 +755,7 @@
         "helm"
       ],
       "regexps": [
+        "owadzioksztaltne brazowe helmy",
         "owadzioksztaltnego brazowego helmu",
         "owadzioksztaltnemu brazowemu helmowi",
         "owadzioksztaltny brazowy helm",
@@ -996,6 +1002,7 @@
         "srednia zbroja"
       ],
       "regexps": [
+        "srebrnozlote paskowe pancerze",
         "srebrnozlotego paskowego pancerza",
         "srebrnozlotemu paskowemu pancerzowi",
         "srebrnozloty paskowy pancerz",
@@ -1045,6 +1052,7 @@
         "ciezka zbroja"
       ],
       "regexps": [
+        "stare matowe pancerze",
         "stary matowy pancerz",
         "starym matowym pancerzu"
       ]
@@ -1054,12 +1062,20 @@
         "helm"
       ],
       "regexps": [
-        "strzelisty zasniedzialy helm",
         "strzeliste zlociste helmy",
         "strzelisty zlocisty helm",
-        "strzelistym zasniedzialym helmie",
         "strzelistym zlocistym helmem",
         "strzelistym zlocistym helmie"
+      ]
+    },
+    "strzelisty zasniedzialy helm": {
+      "type": [
+        "helm"
+      ],
+      "regexps": [
+        "strzelisty zasniedzialy helm",
+        "strzeliste zasniedziale helmy",
+        "strzelistym zasniedzialym helmie"
       ]
     },
     "szara wygodna para butow": {
@@ -1137,6 +1153,7 @@
         "dwureczna bron drzewcowa"
       ],
       "regexps": [
+        "upiorne ciemne wlocznie",
         "upiorna ciemna wlocznia",
         "upiorna ciemna wlocznie",
         "upiornej ciemnej wloczni"
@@ -1148,6 +1165,7 @@
         "dwureczny miecz"
       ],
       "regexps": [
+        "upiorne ciemne chepesze",
         "upiornego ciemnego chepesza",
         "upiornemu ciemnemu chepeszowi",
         "upiorny ciemny chepesz",
