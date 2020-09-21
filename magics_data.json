@@ -5,7 +5,7 @@
       "type": [
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "adamantytowa szpiczasta partyzana",
         "adamantytowa szpiczasta partyzane",
         "adamantytowe szpiczaste partyzany",
@@ -18,7 +18,7 @@
         "jednoreczny mlot",
         "dwureczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "adamantytowego mlota bojowego",
         "adamantytowe mloty bojowe",
         "adamantytowy mlot bojowy",
@@ -30,7 +30,7 @@
       "type": [
         "sztylet"
       ],
-      "regexp": [
+      "regexps": [
         "antyczne zdobione sztylety",
         "antycznego zdobionego sztyletu",
         "antyczny zdobiony sztylet",
@@ -42,7 +42,7 @@
       "type": [
         "jendoreczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "archaiczne zdobione topory",
         "archaicznego zdobionego topora",
         "archaiczny zdobiony topor",
@@ -54,7 +54,7 @@
       "type": [
         "jednoreczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "asymetryczne wulkaniczne mloty",
         "asymetrycznego wulkanicznego mlota",
         "asymetryczny wulkaniczny mlot",
@@ -66,7 +66,7 @@
       "type": [
         "naszyjnik"
       ],
-      "regexp": [
+      "regexps": [
         "azurowe koscistobiale amulety",
         "azurowego koscistobialego amuletu",
         "azurowemu koscistobialemu amuletowi",
@@ -79,7 +79,7 @@
       "type": [
         "naszyjnik"
       ],
-      "regexp": [
+      "regexps": [
         "azurowe polyskujace amulety z wielobarwnego koralu",
         "azurowego polyskujacego amuletu z wielobarwnego koralu",
         "azurowy polyskujacy amulet z wielobarwnego koralu",
@@ -91,7 +91,7 @@
       "type": [
         "srednia zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "bialoblekitna smocza zbroja",
         "bialoblekitna smocza zbroje",
         "bialoblekitne smocze zbroje",
@@ -102,7 +102,7 @@
       "type": [
         "tarcza"
       ],
-      "regexp": [
+      "regexps": [
         "blekitno-srebrna trojkatna tarcza",
         "blekitno-srebrna trojkatna tarcze",
         "blekitno-srebrne trojkatne tarcze",
@@ -113,7 +113,7 @@
       "type": [
         "inne"
       ],
-      "regexp": [
+      "regexps": [
         "ciemna owalna maska",
         "ciemne owalne maski",
         "ciemnej owalnej masce"
@@ -123,7 +123,7 @@
       "type": [
         "helm"
       ],
-      "regexp": [
+      "regexps": [
         "ciemnogranatowe smukle helmy",
         "ciemnogranatowy smukly helm",
         "ciemnogranatowym smuklym helmem",
@@ -134,7 +134,7 @@
       "type": [
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "ciernista kobaltowa halabarda",
         "ciernista kobaltowa halabarde",
         "cierniste kobaltowe halabardy",
@@ -146,7 +146,7 @@
       "type": [
         "naszyjnik"
       ],
-      "regexp": [
+      "regexps": [
         "ciezki krwisty amulet",
         "ciezkie krwiste amulety",
         "ciezkim krwistym amulecie"
@@ -156,7 +156,7 @@
       "type": [
         "kolczyk"
       ],
-      "regexp": [
+      "regexps": [
         "czarne blyszczace kolczyki",
         "czarny blyszczacy kolczyk",
         "czarnym blyszczacym kolczyku"
@@ -166,7 +166,7 @@
       "type": [
         "helm"
       ],
-      "regexp": [
+      "regexps": [
         "czarne proste diademy",
         "czarnego prostego diademu",
         "czarny prosty diadem",
@@ -178,7 +178,7 @@
       "type": [
         "naszyjnik"
       ],
-      "regexp": [
+      "regexps": [
         "czarne zdobione amulety",
         "czarny zdobiony amulet",
         "czarnym zdobionym amulecie"
@@ -188,7 +188,7 @@
       "type": [
         "helm"
       ],
-      "regexp": [
+      "regexps": [
         "czarne zdobione helmy",
         "czarny zdobiony helm",
         "czarnym zdobionym helmem",
@@ -199,7 +199,7 @@
       "type": [
         "jednoreczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "czarnoblekitne pulsujace morgensterny",
         "czarnoblekitnego pulsujacego morgensterna",
         "czarnoblekitny pulsujacy morgenstern",
@@ -211,7 +211,7 @@
       "type": [
         "naramienniki"
       ],
-      "regexp": [
+      "regexps": [
         "czerwona skrzydlata para nareczakow",
         "czerwona skrzydlata pare nareczakow",
         "czerwone skrzydlate pary nareczakow",
@@ -224,7 +224,7 @@
       "type": [
         "plaszcz"
       ],
-      "regexp": [
+      "regexps": [
         "dluga czarna szata",
         "dluga czarna szate",
         "dlugiej czarnej szacie",
@@ -235,7 +235,7 @@
       "type": [
         "srednia zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "dluga krasnoludzka bajdana",
         "dluga krasnoludzka bajdane",
         "dlugiej krasnoludzkiej bajdanie",
@@ -246,7 +246,7 @@
       "type": [
         "dwureczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "dlugi runiczny korbacz",
         "dlugie runiczne korbacze",
         "dlugiego runicznego korbacza",
@@ -259,7 +259,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "egzotyczne jadeitowe palasze",
         "egzotycznego jadeitowego palasza",
         "egzotyczny jadeitowy palasz",
@@ -271,7 +271,7 @@
       "type": [
         "jednoreczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "foremnego iskrzacego mlota",
         "foremnemu iskrzacemu mlotowi",
         "foremny iskrzacy mlot",
@@ -283,7 +283,7 @@
       "type": [
         "dwureczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "gigantyczne granitowe mloty",
         "gigantycznego granitowego mlota",
         "gigantyczny granitowy mlot",
@@ -295,7 +295,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "gorejace dlugie talwary",
         "gorejacego dlugiego talwara",
         "gorejacy dlugi talwar",
@@ -307,7 +307,7 @@
       "type": [
         "pojemnik"
       ],
-      "regexp": [
+      "regexps": [
         "grawerowane podluzne pudelko",
         "grawerowanego podluznego pudelka",
         "grawerowanemu podluznemu pudelku",
@@ -319,7 +319,7 @@
       "type": [
         "opaska"
       ],
-      "regexp": [
+      "regexps": [
         "gruba czarna opaska z kolcami",
         "gruba czarna opaske z kolcami",
         "gruba czarne opaski z kolcami",
@@ -332,7 +332,7 @@
       "type": [
         "pierscien"
       ],
-      "regexp": [
+      "regexps": [
         "grube zlociste pierscienie z hiacyntem",
         "grubego zlocistego pierscienia z hiacyntem",
         "gruby zlocisty pierscien z hiacyntem",
@@ -344,7 +344,7 @@
       "type": [
         "jednoreczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "iskrzaca zdobiona bulawa",
         "iskrzaca zdobiona bulawe",
         "iskrzace zdobione bulawy",
@@ -356,7 +356,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "jasniejace zdobione jatagany",
         "jasniejacego zdobionego jatagana",
         "jasniejacy zdobiony jatagan",
@@ -368,7 +368,7 @@
       "type": [
         "dwureczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "kosciane kilofy",
         "koscianego kilofa",
         "kosciany kilof",
@@ -380,7 +380,7 @@
       "type": [
         "helm"
       ],
-      "regexp": [
+      "regexps": [
         "krasnoludzka starozytna korona",
         "krasnoludzka starozytna korone",
         "krasnoludzkiej starozytnej koronie",
@@ -391,7 +391,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "kruczoczarne misterne miecze",
         "kruczoczarnego misternego miecza",
         "kruczoczarny misterny miecz",
@@ -404,7 +404,7 @@
         "jednoreczna maczuga",
         "dwureczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "krysztalowe swietliste korbacze",
         "krysztalowego swietlistego korbacza",
         "krysztalowy swietlisty korbacz",
@@ -416,7 +416,7 @@
       "type": [
         "lekka zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "kunsztowne lekkie pancerze",
         "kunsztowny lekki pancerz",
         "kunsztownym lekkim pancerzem",
@@ -428,7 +428,7 @@
       "type": [
         "jednoreczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "kunsztowne mithrylowe topory bojowe",
         "kunsztownego mithrylowego topora bojowego",
         "kunsztowny mithrylowy topor bojowy",
@@ -440,7 +440,7 @@
       "type": [
         "bransoleta"
       ],
-      "regexp": [
+      "regexps": [
         "lekka lsniaca bransoleta",
         "lekka lsniaca bransolete",
         "lekka lsniaca para bransolet",
@@ -453,7 +453,7 @@
       "type": [
         "dwureczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "lodowata dluga maczuga",
         "lodowata dluga maczuge",
         "lodowate dlugie maczugi",
@@ -465,7 +465,7 @@
       "type": [
         "sztylet"
       ],
-      "regexp": [
+      "regexps": [
         "lodowe lsniace sztylety",
         "lodowego lsniacego sztyletu",
         "lodowy lsniacy sztylet",
@@ -477,7 +477,7 @@
       "type": [
         "tarcza"
       ],
-      "regexp": [
+      "regexps": [
         "lsniaca plomienista tarcza",
         "lsniaca plomienista tarcze",
         "lsniace krysztalowe wisiory",
@@ -489,7 +489,7 @@
       "type": [
         "naszyjnik"
       ],
-      "regexp": [
+      "regexps": [
         "lsniacy krysztalowy wisior",
         "lsniacym krysztalowyn wisiorze"
       ]
@@ -498,7 +498,7 @@
       "type": [
         "naszyjnik"
       ],
-      "regexp": [
+      "regexps": [
         "masywne amulety z czarnym opalem",
         "masywny amulet z czarnym opalem",
         "masywnym amulecie z czarnym opalem"
@@ -508,7 +508,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "masywnego wyszczerbionego tasaka",
         "masywne wyszczerbione tasaki",
         "masywnym wyszczerbionym tasakiem",
@@ -520,7 +520,7 @@
       "type": [
         "pas"
       ],
-      "regexp": [
+      "regexps": [
         "masywne oksydowane pasy",
         "masywnego oksydowanego pasa",
         "masywny oksydowany pas",
@@ -533,7 +533,7 @@
       "type": [
         "tarcza"
       ],
-      "regexp": [
+      "regexps": [
         "misterna spizowa pawez",
         "misterna spizowa paweza",
         "misterne spizowe paweze",
@@ -544,7 +544,7 @@
       "type": [
         "jednoreczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "misterne obosieczne topory",
         "misternego obosiecznego topora",
         "misternemu obosiecznemu toporowi",
@@ -558,7 +558,7 @@
         "jednoreczna bron drzewcowa",
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "misterny snieznobialy harpun",
         "misterne snieznobiale harpuny",
         "misternego snieznobialego harpuna",
@@ -570,7 +570,7 @@
       "type": [
         "srednia zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "mithrylowa mahakamska kolczuga",
         "mithrylowa mahakamska kolczuge",
         "mithrylowe mahakamskie kolczugi",
@@ -581,7 +581,7 @@
       "type": [
         "naszyjnik"
       ],
-      "regexp": [
+      "regexps": [
         "mithrylowe lsniace amulety",
         "mithrylowy lsniacy amulet",
         "mithrylowym lsniacym amulecie"
@@ -591,7 +591,7 @@
       "type": [
         "broszka"
       ],
-      "regexp": [
+      "regexps": [
         "mosiezna duza broszka w ksztalcie liscia debu",
         "mosiezna duza broszke w ksztalcie liscia debu",
         "mosiezne duze broszki w ksztalcie liscia debu",
@@ -603,7 +603,7 @@
       "type": [
         "jednoreczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "niebieskawa zdobiona bulawa",
         "niebieskawa zdobiona bulawe",
         "niebieskawe zdobione bulawy",
@@ -615,7 +615,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "niematerialne ulotne szamsziry",
         "niematerialnego ulotnego szamszira",
         "niematerialny ulotny szamszir",
@@ -627,7 +627,7 @@
       "type": [
         "pierscien"
       ],
-      "regexp": [
+      "regexps": [
         "niepozorne barwne pierscienie",
         "niepozorny barwny pierscien",
         "niepozornym barwnym pierscieniu"
@@ -637,7 +637,7 @@
       "type": [
         "pierscien"
       ],
-      "regexp": [
+      "regexps": [
         "niewielki zmatowialy pierscien",
         "niewielkie zmatowiale pierscienie",
         "niewielkim zmatowialym pierscieniu"
@@ -647,7 +647,7 @@
       "type": [
         "pierscien"
       ],
-      "regexp": [
+      "regexps": [
         "niewielki krwawnikowy pierscien",
         "niewielkie krwawnikowe pierscienie",
         "niewielkim krwawnikowym pierscieniu"
@@ -657,7 +657,7 @@
       "type": [
         "jednoreczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "niezwykle kosciane topory",
         "niezwyklego koscianego topora",
         "niezwykly kosciany topor",
@@ -670,7 +670,7 @@
         "jednoreczny topor",
         "dwureczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "obosiecznego gwiezdnego topora",
         "obosiecznemu gwiezdnemu toporowi",
         "obosieczny gwiezdny topor",
@@ -682,7 +682,7 @@
       "type": [
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "ogromne ogniste trojzeby",
         "ogromnego ognistego trojzebu",
         "ogromny ognisty trojzab",
@@ -695,7 +695,7 @@
         "jednoreczny topor",
         "dwureczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "opalizujace runiczne topory obosieczne",
         "opalizujacego runicznego topora obosiecznego",
         "opalizujacy runiczny topor obosieczny",
@@ -707,7 +707,7 @@
       "type": [
         "helm"
       ],
-      "regexp": [
+      "regexps": [
         "ornamentowane kruczoczarne helmy wielke",
         "ornamentowany kruczoczarny helm wielki",
         "ornamentowanym kruczoczarnym helmie wielkim"
@@ -717,7 +717,7 @@
       "type": [
         "pierscien"
       ],
-      "regexp": [
+      "regexps": [
         "osobliwe szklane pierscienie",
         "osobliwego szklanego pierscienia",
         "osobliwemu szklanemu pierscieniowi",
@@ -731,7 +731,7 @@
       "type": [
         "plecak"
       ],
-      "regexp": [
+      "regexps": [
         "otwartego ozdobnego skorzanego plecaka",
         "otwartemu ozdobnemu skorzanemu plecakowi",
         "otwarty ozdobny skorzany plecak",
@@ -749,7 +749,7 @@
       "type": [
         "helm"
       ],
-      "regexp": [
+      "regexps": [
         "owadzioksztaltnego brazowego helmu",
         "owadzioksztaltnemu brazowemu helmowi",
         "owadzioksztaltny brazowy helm",
@@ -761,7 +761,7 @@
       "type": [
         "ciezka zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "starozytna runiczna zbroja plytowa",
         "starozytna zbroja plytowa pokryta runami",
         "starozytna zbroji plytowej pokrytej runami",
@@ -778,7 +778,7 @@
         "jednoreczna maczuga",
         "dwureczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "polprzezroczysta migotliwa maczuga",
         "polprzezroczysta migotliwa maczuge",
         "polprzezroczyste migotliwe maczugi",
@@ -790,7 +790,7 @@
         "jednoreczna bron drzewcowa",
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "polprzezroczysta migotliwa wlocznia",
         "polprzezroczysta migotliwa wlocznie",
         "polprzezroczyste migotliwe wlocznie",
@@ -802,7 +802,7 @@
         "jednoreczny miecz",
         "dwureczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "polprzezroczyste migotliwe miecze",
         "polprzezroczystego migotliwego miecza",
         "polprzezroczystym migotliwym mieczem",
@@ -814,7 +814,7 @@
         "jednoreczny mlot",
         "dwureczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "polprzezroczystym migotliwym mlocie",
         "polprzezroczystym migotliwym mlotem",
         "polprzezroczystego migotliwego mlota",
@@ -826,7 +826,7 @@
       "type": [
         "sztylet"
       ],
-      "regexp": [
+      "regexps": [
         "polprzezroczyste migotliwe sztylety",
         "polprzezroczysty migotliwy sztylet",
         "polprzezroczystym migotliwym sztyletem",
@@ -839,7 +839,7 @@
         "jednoreczny topor",
         "dwureczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "polprzezroczystego migotliwego topora",
         "polprzezroczystym migotliwym toporem",
         "polprzezroczyste migotliwe topory",
@@ -860,7 +860,7 @@
         "jednoreczna bron drzewcowa",
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "polprzezroczystego migotliwego draga",
         "polprzezroczyste migotliwe dragi",
         "polprzezroczysty migotliwy drag",
@@ -872,7 +872,7 @@
       "type": [
         "miecz dwureczny"
       ],
-      "regexp": [
+      "regexps": [
         "polyskliwe smukle espadony",
         "polyskliwego smuklego espadona",
         "polyskliwy smukly espadon",
@@ -884,7 +884,7 @@
       "type": [
         "miecz dwureczny"
       ],
-      "regexp": [
+      "regexps": [
         "poszczerbione obureczne miecze",
         "poszczerbionego oburecznego miecza",
         "poszczerbiony obureczny miecz",
@@ -896,7 +896,7 @@
       "type": [
         "inne"
       ],
-      "regexp": [
+      "regexps": [
         "pozlacane okulary z niebieskawych szkielek",
         "pozlacanych okularach z niebieskawych szkielek"
       ]
@@ -905,7 +905,7 @@
       "type": [
         "jednoreczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "rezonujace krysztalowe mloty",
         "rezonujacego krysztalowego mlota",
         "rezonujacy krysztalowy mlot",
@@ -917,7 +917,7 @@
       "type": [
         "pojemnik"
       ],
-      "regexp": [
+      "regexps": [
         "smocza szkatulka",
         "smocza szkatulke",
         "smocze szkatulki",
@@ -930,7 +930,7 @@
       "type": [
         "miecz jednoreczny"
       ],
-      "regexp": [
+      "regexps": [
         "smukle demoniczne miecze",
         "smuklego demonicznego miecza",
         "smukly demoniczny miecz",
@@ -942,7 +942,7 @@
       "type": [
         "miecz jednoreczny"
       ],
-      "regexp": [
+      "regexps": [
         "smuklego zmiennoksztaltnego miecza",
         "smukle zmiennoksztaltne miecze",
         "smukly zmiennoksztaltny miecz",
@@ -954,7 +954,7 @@
       "type": [
         "srednia zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "snieznobiala luskowa kolczuga",
         "snieznobiala luskowa kolczuge",
         "snieznobiale luskowe kolczugi",
@@ -966,7 +966,7 @@
       "type": [
         "srednia zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "snieznobiale lsniace pancerze",
         "snieznobiale luskowe pancerze",
         "snieznobialego lsniacego pancerza",
@@ -983,7 +983,7 @@
       "type": [
         "sztylet"
       ],
-      "regexp": [
+      "regexps": [
         "snieznobiale lsniace sztylety",
         "snieznobialego lsniacego sztyletu",
         "snieznobialy lsniacy sztylet",
@@ -995,7 +995,7 @@
       "type": [
         "srednia zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "srebrnozlotego paskowego pancerza",
         "srebrnozlotemu paskowemu pancerzowi",
         "srebrnozloty paskowy pancerz",
@@ -1007,7 +1007,7 @@
       "type": [
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "srebrzysta kosa bojowa",
         "srebrzysta kose bojowa",
         "srebrzyste kosy bojowe",
@@ -1019,7 +1019,7 @@
       "type": [
         "sztylet"
       ],
-      "regexp": [
+      "regexps": [
         "srebrzyste wulkaniczne kindzale",
         "srebrzystego wulkanicznego kindzala",
         "srebrzystego wulkanicznego kindzalu",
@@ -1032,7 +1032,7 @@
       "type": [
         "jednoreczna maczuga"
       ],
-      "regexp": [
+      "regexps": [
         "starozytne kosciane berla",
         "starozytne kosciane berlo",
         "starozytnego koscianego berla",
@@ -1044,7 +1044,7 @@
       "type": [
         "ciezka zbroja"
       ],
-      "regexp": [
+      "regexps": [
         "stary matowy pancerz",
         "starym matowym pancerzu"
       ]
@@ -1053,7 +1053,7 @@
       "type": [
         "helm"
       ],
-      "regexp": [
+      "regexps": [
         "strzelisty zasniedzialy helm",
         "strzeliste zlociste helmy",
         "strzelisty zlocisty helm",
@@ -1066,7 +1066,7 @@
       "type": [
         "buty"
       ],
-      "regexp": [
+      "regexps": [
         "szara wygodna para butow",
         "szara wygodna pare butow",
         "szarej wygodnej pary butow",
@@ -1077,7 +1077,7 @@
       "type": [
         "tarcza"
       ],
-      "regexp": [
+      "regexps": [
         "szkarlatna rogata tarcza",
         "szkarlatna rogata tarcze",
         "szkarlatne rogate tarcze",
@@ -1088,7 +1088,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "szkarlatne dlugie talwary",
         "szkarlatnego dlugiego talwara",
         "szkarlatny dlugi talwar",
@@ -1100,7 +1100,7 @@
       "type": [
         "pierscien"
       ],
-      "regexp": [
+      "regexps": [
         "szkarlatne cierniste pierscienie",
         "szkarlatny ciernisty pierscien",
         "szkarlatnym ciernistym pierscieniu"
@@ -1110,7 +1110,7 @@
       "type": [
         "plaszcz"
       ],
-      "regexp": [
+      "regexps": [
         "szmaragdowozielone misterne plaszcze",
         "szmaragdowozielonego misternego plaszcza",
         "szmaragdowozielonemu misternemu plaszczowi",
@@ -1123,7 +1123,7 @@
       "type": [
         "sztylet"
       ],
-      "regexp": [
+      "regexps": [
         "szylkretowe faliste sztylety",
         "szylkretowego falistego sztyletu",
         "szylkretowy falisty sztylet",
@@ -1136,7 +1136,7 @@
         "jednoreczna bron drzewcowa",
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "upiorna ciemna wlocznia",
         "upiorna ciemna wlocznie",
         "upiornej ciemnej wloczni"
@@ -1147,7 +1147,7 @@
         "jednoreczny miecz",
         "dwureczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "upiornego ciemnego chepesza",
         "upiornemu ciemnemu chepeszowi",
         "upiorny ciemny chepesz",
@@ -1160,7 +1160,7 @@
         "jednoreczny mlot",
         "dwureczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "upiornego ciemnego mlota",
         "upiorny ciemny mlot",
         "upiorne ciemne mloty",
@@ -1172,7 +1172,7 @@
       "type": [
         "jednoreczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "waski kunsztowny sihill",
         "waskie kunsztowne sihille",
         "waskiego kunsztownego sihilla",
@@ -1184,7 +1184,7 @@
       "type": [
         "dwureczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "wielki runiczny mlot wojenny",
         "wielkich runicznych mlotach wojennych",
         "wielkie runiczne mloty wojenne",
@@ -1199,7 +1199,7 @@
         "jednoreczny topor",
         "dwureczny topor"
       ],
-      "regexp": [
+      "regexps": [
         "zasniedziale obosieczne topory",
         "zasniedzialego obosiecznego topora",
         "zasniedzialemu obosiecznemu toporowi",
@@ -1217,7 +1217,7 @@
         "jednoreczna bron drzewcowa",
         "dwureczna bron drzewcowa"
       ],
-      "regexp": [
+      "regexps": [
         "zdobiona jasniejaca wlocznia",
         "zdobiona jasniejaca wlocznie",
         "zdobione jasniejace wlocznie",
@@ -1229,7 +1229,7 @@
         "jednoreczny miecz",
         "dwureczny miecz"
       ],
-      "regexp": [
+      "regexps": [
         "zdobione jasniejace chepesze",
         "zdobionego jasniejacego chepesza",
         "zdobiony jasniejacy chepesz",
@@ -1243,7 +1243,7 @@
         "jednoreczny mlot",
         "dwureczny mlot"
       ],
-      "regexp": [
+      "regexps": [
         "zdobione jasniejace mloty",
         "zdobiony jasniejacy mlot",
         "zdobionego jasniejacego mlota",
@@ -1255,7 +1255,7 @@
       "type": [
         "sztylet"
       ],
-      "regexp": [
+      "regexps": [
         "zdobionego dlugiego lewaka",
         "zdobione dlugie lewaki",
         "zdobiony dlugi lewak",
@@ -1267,7 +1267,7 @@
       "type": [
         "piescien"
       ],
-      "regexp": [
+      "regexps": [
         "zdobione zlote pierscienie",
         "zdobionego zlotego pierscienia",
         "zdobiony zloty pierscien",
@@ -1279,7 +1279,7 @@
       "type": [
         "plaszcz"
       ],
-      "regexp": [
+      "regexps": [
         "zielone luskowate plaszcze",
         "zielonego luskowatego plaszcza",
         "zielonemu luskowatemu plaszczowi",
