@@ -1170,7 +1170,7 @@
     },
     "waski kunsztowny sihill": {
       "type": [
-        "dwureczny miecz"
+        "jednoreczny miecz"
       ],
       "regexp": [
         "waski kunsztowny sihill",
@@ -1182,7 +1182,7 @@
     },
     "wielki runiczny mlot wojenny": {
       "type": [
-        "dwureczny miecz"
+        "dwureczny mlot"
       ],
       "regexp": [
         "wielki runiczny mlot wojenny",
