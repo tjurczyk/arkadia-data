@@ -763,11 +763,12 @@
         "owadzioksztaltnym brazowym helmie"
       ]
     },
-    "starozytna runiczna zbroje plytowa": {
+    "starozytna runiczna zbroja plytowa": {
       "type": [
         "ciezka zbroja"
       ],
       "regexps": [
+        "starozytna runiczna zbroje plytowa",
         "starozytna runiczna zbroja plytowa",
         "starozytna zbroja plytowa pokryta runami",
         "starozytna zbroji plytowej pokrytej runami",
