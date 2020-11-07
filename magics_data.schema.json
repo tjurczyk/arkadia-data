@@ -5,25 +5,6 @@
     "title": "The root schema",
     "description": "Magics schema.",
     "default": {},
-    "examples": [
-        {
-            "version": 2,
-            "magics": {
-                "adamantytowa szpiczasta partyzana": {
-                    "type": [
-                        "dwureczna bron drzewcowa"
-                    ],
-                    "regexps": [
-                        "adamantytowa szpiczasta partyzana",
-                        "adamantytowa szpiczasta partyzane",
-                        "adamantytowe szpiczaste partyzany",
-                        "adamantytowej szpiczastej partyzanie",
-                        "adamantytowej szpiczastej partyzany"
-                    ]
-                }
-            }
-        }
-    ],
     "required": [
         "version",
         "magics"
@@ -43,7 +24,32 @@
             "default": {},
             "required": [],
             "title": "The magics schema",
-            "additionalProperties": true
+            "additionalProperties": true,
+            "patternProperties": {
+                "^.*$": {
+                    "type": "object",
+                    "required": [
+                        "type",
+                        "regexps"
+                    ],
+                    "properties": {
+                        "type": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            },
+                            "minItems": 1
+                        },
+                        "regexps": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            },
+                            "minItems": 1
+                        }
+                    }
+                }
+            }
         }
     },
     "additionalProperties": true
