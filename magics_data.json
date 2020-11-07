@@ -241,7 +241,9 @@
         "dluga krasnoludzka bajdana",
         "dluga krasnoludzka bajdane",
         "dlugiej krasnoludzkiej bajdanie",
-        "dlugiej krasnoludzkiej bajdany"
+        "dlugiej krasnoludzkiej bajdany",
+        "dlugich krasnoludzkich bajdan",
+        "dlugie krasnoludzkie bajdany"
       ]
     },
     "dlugi runiczny korbacz": {
@@ -748,7 +750,14 @@
         "zamknietemu ozdobnemu skorzanemu plecakowi",
         "zamkniety ozdobny skorzany plecak",
         "zamknietym ozdobnym skorzanym plecakiem",
-        "zamknietym ozdobnym skorzanym plecaku"
+        "zamknietym ozdobnym skorzanym plecaku",
+        "ozdobnego skorzanego plecaka",
+        "ozdobnemu skorzanemu plecakowi",
+        "ozdobny skorzany plecak",
+        "ozdobnych skorzanych plecakach",
+        "ozdobnych skorzanych plecakow",
+        "ozdobnym skorzanym plecakiem",
+        "ozdobnym skorzanym plecaku"
       ]
     },
     "owadzioksztaltny brazowy helm": {
@@ -1319,7 +1328,24 @@
         "okraglemu migotliwemu puklerzowi",
         "okragly migotliwy puklerz",
         "okraglym migotliwym puklerzem",
-        "okraglym migotliwym puklerzu"
+        "okraglym migotliwym puklerzu",
+        "okragle migotliwe puklerze",
+        "okraglych migotliwych puklerzow",
+        "okraglych migotliwych puklerzy"
+      ]
+    },
+    "star zawile zapiski": {
+      "type": [
+        "zapiski"
+      ],
+      "regexps": [
+        "stare zawile zapiski",
+        "starych zawilych zapiskach",
+        "starych zawilych zapiskow",
+        "starym zawilym zapiskom",
+        "starymi zawilymi zapiskami",
+        "stron starych zawilych zapiskow",
+        "strony starych zawilych zapiskow"
       ]
     }
   }
