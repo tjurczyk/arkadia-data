@@ -1,6 +1,6 @@
 name: Validate JSONs
 
-on: "[push]"
+on: [push]
 
 jobs:
   verify-json-validation:
