@@ -13,8 +13,7 @@
         "version": {
             "$id": "#/properties/version",
             "type": "integer",
-            "title": "The version schema",
-            "description": "An explanation about the purpose of this instance.",
+            "title": "The version of schema",
             "default": 0,
             "examples": [
                 2

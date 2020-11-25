@@ -1,0 +1,2066 @@
+{
+  "herb_id_to_odmiana": {
+    "aralia": {
+      "mianownik": "szary kolczasty korzen",
+      "dopelniacz": "szarego kolczastego korzenia",
+      "biernik": "szarego kolczastego korzenia",
+      "mnoga_mianownik": "szare kolczaste korzenie",
+      "mnoga_dopelniacz": "szarych kolczastych korzeni",
+      "mnoga_biernik": "szare kolczaste korzenie"
+    },
+    "arnika": {
+      "mianownik": "zlocistopomaranczowy duzy kwiat",
+      "dopelniacz": "zlocistopomaranczowego duzego kwiatu",
+      "biernik": "zlocistopomaranczowy duzy kwiat",
+      "mnoga_mianownik": "zlocistopomaranczowe duze kwiaty",
+      "mnoga_dopelniacz": "zlocistopomaranczowych duzych kwiatow",
+      "mnoga_biernik": "zlocistopomaranczowe duze kwiaty"
+    },
+    "babka": {
+      "mianownik": "rozetkowaty lancetowaty lisc",
+      "dopelniacz": "rozetkowatego lancetowatego liscia",
+      "biernik": "rozetkowaty lancetowaty lisc",
+      "mnoga_mianownik": "rozetkowate lancetowate liscie",
+      "mnoga_dopelniacz": "rozetkowatych lancetowatych lisci",
+      "mnoga_biernik": "rozetkowate lancetowate liscie"
+    },
+    "bagno": {
+      "mianownik": "brudnobrazowa cuchnaca galazka",
+      "dopelniacz": "brudnobrazowawej cuchnacej galazki",
+      "biernik": "brudnobrazowa cuchnaca galazke",
+      "mnoga_mianownik": "brudnobrazowe cuchnace galazki",
+      "mnoga_dopelniacz": "brudnobrazowawych cuchnacych galazek",
+      "mnoga_biernik": "brudnobrazowe cuchnace galazki"
+    },
+    "barwinka": {
+      "mianownik": "fioletowy lejkowaty kwiat",
+      "dopelniacz": "fioletowego lejkowatego kwiatu",
+      "biernik": "fioletowy lejkowaty kwiat",
+      "mnoga_mianownik": "fioletowe lejkowate kwiaty",
+      "mnoga_dopelniacz": "fioletowych lejkowatych kwiatow",
+      "mnoga_biernik": "fioletowe lejkowate kwiaty"
+    },
+    "bez": {
+      "mianownik": "jasnobrunatna popekana galazka",
+      "dopelniacz": "jasnobrunatnej popekanej galazki",
+      "biernik": "jasnobrunatna popekana galazke",
+      "mnoga_mianownik": "jasnobrunatne popekane galazki",
+      "mnoga_dopelniacz": "jasnobrunatnych popekanych galazek",
+      "mnoga_biernik": "jasnobrunatne popekane galazki"
+    },
+    "bielun": {
+      "mianownik": "duzy bialy kwiat",
+      "dopelniacz": "duzego bialego kwiatu",
+      "biernik": "duzy bialy kwiat",
+      "mnoga_mianownik": "duze biale kwiaty",
+      "mnoga_dopelniacz": "duzych bialych kwiatow",
+      "mnoga_biernik": "duze biale kwiaty"
+    },
+    "bobotrutka": {
+      "mianownik": "czarna blyszczaca fasolka",
+      "dopelniacz": "czarnej blyszczacej fasolki",
+      "biernik": "czarna blyszczaca fasolke",
+      "mnoga_mianownik": "czarne blyszczace fasolki",
+      "mnoga_dopelniacz": "czarnych blyszczacych fasolek",
+      "mnoga_biernik": "czarne blyszczace fasolki"
+    },
+    "boldoa": {
+      "mianownik": "szarozielony szorstki lisc",
+      "dopelniacz": "szarozielonego szorstkiego liscia",
+      "biernik": "szarozielony szorstki lisc",
+      "mnoga_mianownik": "szarozielone szorstkie liscie",
+      "mnoga_dopelniacz": "szarozielonych szorstkich lisci",
+      "mnoga_biernik": "szarozielone szorstkie liscie"
+    },
+    "borowik_krolewski": {
+      "mianownik": "gruby brazowy grzyb",
+      "dopelniacz": "grubego brazowego grzyba",
+      "biernik": "gruby brazowy grzyb",
+      "mnoga_mianownik": "grube brazowe grzyby",
+      "mnoga_dopelniacz": "grubych brazowych grzybow",
+      "mnoga_biernik": "grube brazowe grzyby"
+    },
+    "borowik_szatanski": {
+      "mianownik": "gruby szarawy grzyb",
+      "dopelniacz": "grubego szarawego grzyba",
+      "biernik": "gruby szarawy grzyb",
+      "mnoga_mianownik": "grube szarawe grzyby",
+      "mnoga_dopelniacz": "grubych szarawych grzybow",
+      "mnoga_biernik": "grube szarawe grzyby"
+    },
+    "borowik_szlachetny": {
+      "mianownik": "wysoki jasnobrazowy grzyb",
+      "dopelniacz": "wysokiego jasnobrazowego grzyba",
+      "biernik": "wysoki jasnobrazowy grzyb",
+      "mnoga_mianownik": "wysokie jasnobrazowe grzyby",
+      "mnoga_dopelniacz": "wysokich jasnobrazowych grzybow",
+      "mnoga_biernik": "wysokie jasnobrazowe grzyby"
+    },
+    "borowka": {
+      "mianownik": "twardy czerwony owoc",
+      "dopelniacz": "twardego czerwonego owoca",
+      "biernik": "twardy czerwony owoc",
+      "mnoga_mianownik": "twarde czerwone owoce",
+      "mnoga_dopelniacz": "twardych czerwonych owocow",
+      "mnoga_biernik": "twarde czerwone owoce"
+    },
+    "bulawinka": {
+      "mianownik": "czarne aromatyczne ziarenko",
+      "dopelniacz": "czarnego aromatycznego ziarenka",
+      "biernik": "czarne aromatyczne ziarenko",
+      "mnoga_mianownik": "czarne aromatyczne ziarenka",
+      "mnoga_dopelniacz": "czarnych aromatycznych ziarenek",
+      "mnoga_biernik": "czarne aromatyczne ziarenka"
+    },
+    "bylica_cytwarowa": {
+      "mianownik": "rurkowaty oliwkowobrunatny kwiat",
+      "dopelniacz": "rurkowatego oliwkowobrunatnego kwiatu",
+      "biernik": "rurkowaty oliwkowobrunatny kwiat",
+      "mnoga_mianownik": "rurkowate oliwkowobrunatne kwiaty",
+      "mnoga_dopelniacz": "rurkowatych oliwkowobrunatnych kwiatow",
+      "mnoga_biernik": "rurkowate oliwkowobrunatne kwiaty"
+    },
+    "bylica_piolun": {
+      "mianownik": "galeziasta szaroowlosiona lodyga",
+      "dopelniacz": "galeziastej szaroowlosionej lodygi",
+      "biernik": "galeziasta szaroowlosiona lodyge",
+      "mnoga_mianownik": "galeziaste szaroowlosione lodygi",
+      "mnoga_dopelniacz": "galeziastych szaroowlosionych lodyg",
+      "mnoga_biernik": "galeziaste szaroowlosione lodygi"
+    },
+    "bylica_pospolita": {
+      "mianownik": "kanciasta rozgaleziona lodyga",
+      "dopelniacz": "kanciastej rozgalezionej lodygi",
+      "biernik": "kanciasta rozgaleziona lodyge",
+      "mnoga_mianownik": "kanciaste rozgalezione lodygi",
+      "mnoga_dopelniacz": "kanciastych rozgalezionych lodyg",
+      "mnoga_biernik": "kanciaste rozgalezione lodygi"
+    },
+    "casur": {
+      "mianownik": "mazisty bulwiasty grzyb",
+      "dopelniacz": "mazistego bulwiastego grzyba",
+      "biernik": "mazisty bulwiasty grzyb",
+      "mnoga_mianownik": "maziste bulwiaste grzyby",
+      "mnoga_dopelniacz": "mazistych bulwiastych grzybow",
+      "mnoga_biernik": "maziste bulwiaste grzyby"
+    },
+    "cebula": {
+      "mianownik": "zlociste spore ziolo",
+      "dopelniacz": "zlocistego sporego ziola",
+      "biernik": "zlociste spore ziolo",
+      "mnoga_mianownik": "zlociste spore ziola",
+      "mnoga_dopelniacz": "zlocistych sporych ziol",
+      "mnoga_biernik": "zlociste spore ziola"
+    },
+    "centuria": {
+      "mianownik": "smukla jasnozielona lodyga",
+      "dopelniacz": "smuklej jasnozielonej lodygi",
+      "biernik": "smukla jasnozielona lodyge",
+      "mnoga_mianownik": "smukle jasnozielone lodygi",
+      "mnoga_dopelniacz": "smuklych jasnozielonych lodyg",
+      "mnoga_biernik": "smukle jasnozielone lodygi"
+    },
+    "chaber": {
+      "mianownik": "wysoki blekitny kwiat",
+      "dopelniacz": "wysokiego blekitnego kwiatu",
+      "biernik": "wysoki blekitny kwiat",
+      "mnoga_mianownik": "wysokie blekitne kwiaty",
+      "mnoga_dopelniacz": "wysokich blekitnych kwiatow",
+      "mnoga_biernik": "wysokie blekitne kwiaty"
+    },
+    "ciemiernik": {
+      "mianownik": "ciemny splatany korzen",
+      "dopelniacz": "ciemnego splatanego korzenia",
+      "biernik": "ciemny splatany korzen",
+      "mnoga_mianownik": "ciemne splatane korzenie",
+      "mnoga_dopelniacz": "ciemnych splatanych korzeni",
+      "mnoga_biernik": "ciemne splatane korzenie"
+    },
+    "ciemiezyca": {
+      "mianownik": "zielony miesisty kwiat",
+      "dopelniacz": "zielonego miesistego kwiatu",
+      "biernik": "zielony miesisty kwiat",
+      "mnoga_mianownik": "zielone miesiste kwiaty",
+      "mnoga_dopelniacz": "zielonych miesistych kwiatow",
+      "mnoga_biernik": "zielone miesiste kwiaty"
+    },
+    "czeremcha": {
+      "mianownik": "ulistniona aromatyczna galazka",
+      "dopelniacz": "ulistnionej aromatycznej galazki",
+      "biernik": "ulistniona aromatyczna galazke",
+      "mnoga_mianownik": "ulistnione aromatyczne galazki",
+      "mnoga_dopelniacz": "ulistnionych aromatycznych galazek",
+      "mnoga_biernik": "ulistnione aromatyczne galazki"
+    },
+    "czosnek": {
+      "mianownik": "biala pachnaca cebulka",
+      "dopelniacz": "bialego pachnacej cebulki",
+      "biernik": "biala pachnaca cebulke",
+      "mnoga_mianownik": "biale pachnace cebulki",
+      "mnoga_dopelniacz": "bialych pachnacych cebulek",
+      "mnoga_biernik": "biale pachnace cebulki"
+    },
+    "deliona": {
+      "mianownik": "zolty jasny kwiat",
+      "dopelniacz": "zoltego jasnego kwiata",
+      "biernik": "zolty jasny kwiat",
+      "mnoga_mianownik": "zolte jasne kwiaty",
+      "mnoga_dopelniacz": "zoltych jasnych kwiatow",
+      "mnoga_biernik": "zolte jasne kwiaty"
+    },
+    "deren": {
+      "mianownik": "lsniacy czerwony owoc",
+      "dopelniacz": "lsniacego czerwonego owoca",
+      "biernik": "lsniacy czerwony owoc",
+      "mnoga_mianownik": "lsniace czerwone owoce",
+      "mnoga_dopelniacz": "lsniacych czerwonych owocow",
+      "mnoga_biernik": "lsniace czerwone owoce"
+    },
+    "drabik": {
+      "mianownik": "zielona postrzepiona galazka",
+      "dopelniacz": "zielonej postrzepionej galazki",
+      "biernik": "zielona postrzepiona galazke",
+      "mnoga_mianownik": "zielone postrzepione galazki",
+      "mnoga_dopelniacz": "zielonych postrzepionych galazek",
+      "mnoga_biernik": "zielone postrzepione galazki"
+    },
+    "drath": {
+      "mianownik": "soczysty karminowy mech",
+      "dopelniacz": "soczystego karminowego mechu",
+      "biernik": "soczysty karminowy mech",
+      "mnoga_mianownik": "soczyste karminowe mchy",
+      "mnoga_dopelniacz": "soczystych karminowych mchow",
+      "mnoga_biernik": "soczyste karminowe mchy"
+    },
+    "dziurawiec": {
+      "mianownik": "czterokanciasta rozgaleziona lodyga",
+      "dopelniacz": "czterokanciastej rozgalezionej lodygi",
+      "biernik": "czterokanciasta rozgaleziona lodyge",
+      "mnoga_mianownik": "czterokanciaste rozgalezione lodygi",
+      "mnoga_dopelniacz": "czterokanciastych rozgalezionych lodyg",
+      "mnoga_biernik": "czterokanciaste rozgalezione lodygi"
+    },
+    "glog": {
+      "mianownik": "bialy maly kwiat",
+      "dopelniacz": "bialego malego kwiatu",
+      "biernik": "bialy maly kwiat",
+      "mnoga_mianownik": "biale male kwiaty",
+      "mnoga_dopelniacz": "bialych malych kwiatow",
+      "mnoga_biernik": "biale male kwiaty"
+    },
+    "grabiorog": {
+      "mianownik": "brazowawy fosforyzujacy mech",
+      "dopelniacz": "brazowawego fosforyzujacego mchu",
+      "biernik": "brazowawy fosforyzujacy mech",
+      "mnoga_mianownik": "brazowawe fosforyzujace mchy",
+      "mnoga_dopelniacz": "brazowawych fosforyzujacych mchow",
+      "mnoga_biernik": "brazowawe fosforyzujace mchy"
+    },
+    "grzybien": {
+      "mianownik": "pachnacy snieznobialy kwiat",
+      "dopelniacz": "pachnacego snieznobialego kwiatu",
+      "biernik": "pachnacy snieznobialy kwiat",
+      "mnoga_mianownik": "pachnace snieznobiale kwiaty",
+      "mnoga_dopelniacz": "pachnacych snieznobialych kwiatow",
+      "mnoga_biernik": "pachnace snieznobiale kwiaty"
+    },
+    "hubka": {
+      "mianownik": "grzybi suchy kapelusz",
+      "dopelniacz": "grzybiego suchego kapelusza",
+      "biernik": "grzybi suchy kapelusz",
+      "mnoga_mianownik": "grzybie suche kapelusze",
+      "mnoga_dopelniacz": "grzybich suchych kapeluszy",
+      "mnoga_biernik": "grzybie suche kapelusze"
+    },
+    "hyzop": {
+      "mianownik": "zielona kwitnaca krzewinka",
+      "dopelniacz": "zielonej kwitnacej krzewinki",
+      "biernik": "zielona kwitnaca krzewinke",
+      "mnoga_mianownik": "zielone kwitnace krzewinki",
+      "mnoga_dopelniacz": "zielonych kwitnacych krzewinek",
+      "mnoga_biernik": "zielone kwitnace krzewinki"
+    },
+    "jagoda": {
+      "mianownik": "maly fioletowy owoc",
+      "dopelniacz": "malego fioletowego owocu",
+      "biernik": "maly fioletowy owoc",
+      "mnoga_mianownik": "male fioletowe owoce",
+      "mnoga_dopelniacz": "malych fioletowych owocow",
+      "mnoga_biernik": "male fioletowe owoce"
+    },
+    "janowiec": {
+      "mianownik": "wiotka kwitnaca galazka",
+      "dopelniacz": "wiotkiej kwitnacej galazki",
+      "biernik": "wiotka kwitnaca galazke",
+      "mnoga_mianownik": "wiotkie kwitnace galazki",
+      "mnoga_dopelniacz": "wiotkich kwitnacych galazek",
+      "mnoga_biernik": "wiotkie kwitnace galazki"
+    },
+    "jaskier": {
+      "mianownik": "rozgaleziona wzniesiona lodyga",
+      "dopelniacz": "rozgalezionej wzniesionej lodygi",
+      "biernik": "rozgaleziona wzniesiona lodyge",
+      "mnoga_mianownik": "rozgalezione wzniesione lodygi",
+      "mnoga_dopelniacz": "rozgalezionych wzniesionych lodyg",
+      "mnoga_biernik": "rozgalezione wzniesione lodygi"
+    },
+    "jemiola": {
+      "mianownik": "oliwkowozielona gietka galazka",
+      "dopelniacz": "oliwkowozielonej gietkiej galazki",
+      "biernik": "oliwkowozielona gietka galazke",
+      "mnoga_mianownik": "oliwkowozielone gietkie galazki",
+      "mnoga_dopelniacz": "oliwkowozielonych gietkich galazek",
+      "mnoga_biernik": "oliwkowozielone gietkie galazki"
+    },
+    "jezyna": {
+      "mianownik": "maly czarny owoc",
+      "dopelniacz": "malego czarnego owocu",
+      "biernik": "maly czarny owoc",
+      "mnoga_mianownik": "male czarne owoce",
+      "mnoga_dopelniacz": "malych czarnych owocow",
+      "mnoga_biernik": "male czarne owoce"
+    },
+    "kakol": {
+      "mianownik": "liliowy lejkowaty kwiat",
+      "dopelniacz": "liliowego lejkowatego kwiatu",
+      "biernik": "liliowy lejkowaty kwiat",
+      "mnoga_mianownik": "liliowe lejkowate kwiaty",
+      "mnoga_dopelniacz": "liliowych lejkowatych kwiatow",
+      "mnoga_biernik": "liliowe lejkowate kwiaty"
+    },
+    "kasztan": {
+      "mianownik": "brazowy duzy owoc",
+      "dopelniacz": "brazowego duzego owocu",
+      "biernik": "brazowy duzy owoc",
+      "mnoga_mianownik": "brazowe duze owoce",
+      "mnoga_dopelniacz": "brazowych duzych owocow",
+      "mnoga_biernik": "brazowe duze owoce"
+    },
+    "kasztanowiec": {
+      "mianownik": "kosmatoowlosiony kwiatostan",
+      "dopelniacz": "kosmatoowlosionego kwiatostanu",
+      "biernik": "kosmatoowlosiony kwiatostan",
+      "mnoga_mianownik": "kosmatoowlosione kwiatostany",
+      "mnoga_dopelniacz": "kosmatoowlosionych kwiatostanow",
+      "mnoga_biernik": "kosmatoowlosione kwiatostany"
+    },
+    "kocimietka": {
+      "mianownik": "wzniesiona owlosiona lodyga",
+      "dopelniacz": "wzniesionej owlosionej lodygi",
+      "biernik": "wzniesiona owlosiona lodyge",
+      "mnoga_mianownik": "wzniesione owlosione lodygi",
+      "mnoga_dopelniacz": "wzniesionych owlosionych lodyg",
+      "mnoga_biernik": "wzniesione owlosione lodygi"
+    },
+    "kola": {
+      "mianownik": "brazowe okragle nasionko",
+      "dopelniacz": "brazowego okraglego nasionka",
+      "biernik": "brazowe okragle nasionko",
+      "mnoga_mianownik": "brazowe okragle nasionka",
+      "mnoga_dopelniacz": "brazowych okraglych nasionek",
+      "mnoga_biernik": "brazowe okragle nasionka"
+    },
+    "komosa": {
+      "mianownik": "macznistoowlosiona szarawa roslina",
+      "dopelniacz": "macznistoowlosionej szarawej rosliny",
+      "biernik": "macznistoowlosiona szarawa rosline",
+      "mnoga_mianownik": "macznistoowlosione szarawe rosliny",
+      "mnoga_dopelniacz": "macznistoowlosionych szarawych roslin",
+      "mnoga_biernik": "macznistoowlosione szarawe rosliny"
+    },
+    "konopie": {
+      "mianownik": "dluga lodyga",
+      "dopelniacz": "dlugiej lodygi",
+      "biernik": "dluga lodyge",
+      "mnoga_mianownik": "dlugie lodygi",
+      "mnoga_dopelniacz": "dlugich lodyg",
+      "mnoga_biernik": "dlugie lodygi"
+    },
+    "konwalia": {
+      "mianownik": "wonny dzwonkowaty kwiatek",
+      "dopelniacz": "wonnego dzwonkowatego kwiatka",
+      "biernik": "wonny dzwonkowaty kwiatek",
+      "mnoga_mianownik": "wonne dzwonkowate kwiatki",
+      "mnoga_dopelniacz": "wonnych dzwonkowatych kwiatkow",
+      "mnoga_biernik": "wonne dzwonkowate kwiatki"
+    },
+    "kozlarz": {
+      "mianownik": "wysoki czerwonawy grzyb",
+      "dopelniacz": "wysokiego czerwonawego grzyba",
+      "biernik": "wysoki czerwonawy grzyb",
+      "mnoga_mianownik": "wysokie czerwonawe grzyby",
+      "mnoga_dopelniacz": "wysokich czerwonawych grzybow",
+      "mnoga_biernik": "wysokie czerwonawe grzyby"
+    },
+    "krasnodrzew": {
+      "mianownik": "pachnacy jasnozielony lisc",
+      "dopelniacz": "pachnacego jasnozielonego liscia",
+      "biernik": "pachnacy jasnozielony lisc",
+      "mnoga_mianownik": "pachnace jasnozielone liscie",
+      "mnoga_dopelniacz": "pachnacych jasnozielonych lisci",
+      "mnoga_biernik": "pachnace jasnozielone liscie"
+    },
+    "kruszyna": {
+      "mianownik": "zdrewniala zwinieta rurka",
+      "dopelniacz": "zdrewnialej zwinietej rurki",
+      "biernik": "zdrewniala zwinieta rurke",
+      "mnoga_mianownik": "zdrewniale zwiniete rurki",
+      "mnoga_dopelniacz": "zdrewnialych zwinietych rurek",
+      "mnoga_biernik": "zdrewniale zwiniete rurki"
+    },
+    "krzyzownica": {
+      "mianownik": "zoltawy powyginany korzen",
+      "dopelniacz": "zoltawego powyginanego korzenia",
+      "biernik": "zoltawy powyginany korzen",
+      "mnoga_mianownik": "zoltawe powyginane korzenie",
+      "mnoga_dopelniacz": "zoltawych powyginanych korzeni",
+      "mnoga_biernik": "zoltawe powyginane korzenie"
+    },
+    "kulczyba": {
+      "mianownik": "dziwne zoltoszare nasionko",
+      "dopelniacz": "dziwnego zoltoszarego nasionka",
+      "biernik": "dziwne zoltoszare nasionko",
+      "mnoga_mianownik": "dziwne zoltoszare nasionka",
+      "mnoga_dopelniacz": "dziwnych zoltoszarych nasionek",
+      "mnoga_biernik": "dziwne zoltoszare nasionka"
+    },
+    "kurzyslad": {
+      "mianownik": "wiotka drobna lodyzka",
+      "dopelniacz": "wiotkiej drobnej lodyzki",
+      "biernik": "wiotka drobna lodyzke",
+      "mnoga_mianownik": "wiotkie drobne lodyzki",
+      "mnoga_dopelniacz": "wiotkich drobnych lodyzek",
+      "mnoga_biernik": "wiotkie drobne lodyzki"
+    },
+    "lak": {
+      "mianownik": "sztywna smukla lodyga",
+      "dopelniacz": "sztywnej smuklej lodygi",
+      "biernik": "sztywna smukla lodyge",
+      "mnoga_mianownik": "sztywne smukle lodygi",
+      "mnoga_dopelniacz": "sztywnych smuklych lodyg",
+      "mnoga_biernik": "sztywne smukle lodygi"
+    },
+    "lawenda": {
+      "mianownik": "fioletowy zwarty kwiatostan",
+      "dopelniacz": "fioletowego zwartego kwiatostanu",
+      "biernik": "fioletowy zwarty kwiatostan",
+      "mnoga_mianownik": "fioletowe zwarte kwiatostany",
+      "mnoga_dopelniacz": "fioletowych zwartych kwiatostanow",
+      "mnoga_biernik": "fioletowe zwarte kwiatostany"
+    },
+    "lubczyk": {
+      "mianownik": "szary aromatyczny korzen",
+      "dopelniacz": "szarego aromatycznego korzenia",
+      "biernik": "szary aromatyczny korzen",
+      "mnoga_mianownik": "szare aromatyczne korzenie",
+      "mnoga_dopelniacz": "szarych aromatycznych korzeni",
+      "mnoga_biernik": "szare aromatyczne korzenie"
+    },
+    "lukrecja": {
+      "mianownik": "sztywny rozgaleziony korzen",
+      "dopelniacz": "sztywnego rozgalezionego korzenia",
+      "biernik": "sztywny rozgaleziony korzen",
+      "mnoga_mianownik": "sztywne rozgalezione korzenie",
+      "mnoga_dopelniacz": "sztywnych rozgalezionych korzeni",
+      "mnoga_biernik": "sztywne rozgalezione korzenie"
+    },
+    "lulecznica": {
+      "mianownik": "jasnozielona nieowlosiona lodyga",
+      "dopelniacz": "jasnozielonej nieowlosionej lodygi",
+      "biernik": "jasnozielona nieowlosiona lodyge",
+      "mnoga_mianownik": "jasnozielone nieowlosione lodygi",
+      "mnoga_dopelniacz": "jasnozielonych nieowlosionych lodyg",
+      "mnoga_biernik": "jasnozielone nieowlosione lodygi"
+    },
+    "lulek": {
+      "mianownik": "brudnozolty fioletowo-zylkowany kwiat",
+      "dopelniacz": "brudnozoltego fioletowo-zylkowanego kwiatu",
+      "biernik": "brudnozolty fioletowo-zylkowany kwiat",
+      "mnoga_mianownik": "brudnozolte fioletowo-zylkowane kwiaty",
+      "mnoga_dopelniacz": "brudnozoltych fioletowo-zylkowanych kwiatow",
+      "mnoga_biernik": "brudnozolte fioletowo-zylkowane kwiaty"
+    },
+    "machorka": {
+      "mianownik": "aromatyczne ziele",
+      "dopelniacz": "aromatycznego ziela",
+      "biernik": "aromatyczne ziele",
+      "mnoga_mianownik": "aromatyczne ziola",
+      "mnoga_dopelniacz": "aromatycznych ziol",
+      "mnoga_biernik": "aromatyczne ziola"
+    },
+    "macznica": {
+      "mianownik": "zdrewniala rozgaleziona krzewinka",
+      "dopelniacz": "zdrewnialej rozgalezionej krzewinki",
+      "biernik": "zdrewniala rozgaleziona krzewinke",
+      "mnoga_mianownik": "zdrewniale rozgalezione krzewinki",
+      "mnoga_dopelniacz": "zdrewnialych rozgalezionych krzewinek",
+      "mnoga_biernik": "zdrewniale rozgalezione krzewinki"
+    },
+    "mak_lekarski": {
+      "mianownik": "okazaly pachnacy kwiat",
+      "dopelniacz": "okazalego pachnacego kwiatu",
+      "biernik": "okazaly pachnacy kwiat",
+      "mnoga_mianownik": "okazale pachnace kwiaty",
+      "mnoga_dopelniacz": "okazalych pachnacych kwiatow",
+      "mnoga_biernik": "okazale pachnace kwiaty"
+    },
+    "mak_polny": {
+      "mianownik": "piekny czerwony kwiat",
+      "dopelniacz": "pieknego czerwonego kwiatu",
+      "biernik": "piekny czerwony kwiat",
+      "mnoga_mianownik": "piekne czerwone kwiaty",
+      "mnoga_dopelniacz": "pieknych czerwonych kwiatow",
+      "mnoga_biernik": "piekne czerwone kwiaty"
+    },
+    "makownik": {
+      "mianownik": "niewielki fioletowy kwiat",
+      "dopelniacz": "niewielkego fioletowego kwiatu",
+      "biernik": "niewielki fioletowy kwiat",
+      "mnoga_mianownik": "niewielkie fioletowe kwiaty",
+      "mnoga_dopelniacz": "niewielkich fioletowych kwiatow",
+      "mnoga_biernik": "niewielkie fioletowe kwiaty"
+    },
+    "malina": {
+      "mianownik": "maly czerwony owoc",
+      "dopelniacz": "malego czerwonego owocu",
+      "biernik": "maly czerwony owoc",
+      "mnoga_mianownik": "male czerwone owoce",
+      "mnoga_dopelniacz": "malych czerwonych owocow",
+      "mnoga_biernik": "male czerwone owoce"
+    },
+    "mandragora": {
+      "mianownik": "bialy rozgaleziony korzen",
+      "dopelniacz": "bialego rozgalezionego korzenia",
+      "biernik": "bialy rozgaleziony korzen",
+      "mnoga_mianownik": "biale rozgalezione korzenie",
+      "mnoga_dopelniacz": "bialych rozgalezionych korzeni",
+      "mnoga_biernik": "biale rozgalezione korzenie"
+    },
+    "marzanna": {
+      "mianownik": "rozwiniety korzen",
+      "dopelniacz": "rozwinietego korzenia",
+      "biernik": "rozwiniety korzen",
+      "mnoga_mianownik": "rozwiniete korzenie",
+      "mnoga_dopelniacz": "rozwinietych korzeni",
+      "mnoga_biernik": "rozwiniete korzenie"
+    },
+    "maslak": {
+      "mianownik": "nieduzy brazowy grzyb",
+      "dopelniacz": "nieduzego brazowego grzyba",
+      "biernik": "nieduzy brazowy grzyb",
+      "mnoga_mianownik": "nieduze brazowe grzyby",
+      "mnoga_dopelniacz": "nieduzych brazowych grzybow",
+      "mnoga_biernik": "nieduze brazowe grzyby"
+    },
+    "melisa": {
+      "mianownik": "owlosiony aromatyczny lisc",
+      "dopelniacz": "owlosionego aromatycznego liscia",
+      "biernik": "owlosiony aromatyczny lisc",
+      "mnoga_mianownik": "owlosione aromatyczne liscie",
+      "mnoga_dopelniacz": "owlosionych aromatycznych lisci",
+      "mnoga_biernik": "owlosione aromatyczne liscie"
+    },
+    "mieta": {
+      "mianownik": "okraglawy aromatyczny lisc",
+      "dopelniacz": "okraglawego aromatycznego liscia",
+      "biernik": "okraglawy aromatyczny lisc",
+      "mnoga_mianownik": "okraglawe aromatyczne liscie",
+      "mnoga_dopelniacz": "okraglawych aromatycznych lisci",
+      "mnoga_biernik": "okraglawe aromatyczne liscie"
+    },
+    "mniszek": {
+      "mianownik": "zlocistozolty kwiat",
+      "dopelniacz": "zlocistozoltego kwiatu",
+      "biernik": "zlocistozolty kwiat",
+      "mnoga_mianownik": "zlocistozolte kwiaty",
+      "mnoga_dopelniacz": "zlocistozoltych kwiatow",
+      "mnoga_biernik": "zlocistozolte kwiaty"
+    },
+    "muchomor_cesarski": {
+      "mianownik": "miedzianozielony fosforyzujacy grzyb",
+      "dopelniacz": "miedzianozielonego fosforyzujacego grzyba",
+      "biernik": "miedzianozielony fosforyzujacy grzyb",
+      "mnoga_mianownik": "miedzianozielone fosforyzujace grzyby",
+      "mnoga_dopelniacz": "miedzianozielonych fosforyzujacych grzybow",
+      "mnoga_biernik": "miedzianozielone fosforyzujace grzyby"
+    },
+    "muchomor_czerwony": {
+      "mianownik": "delikatny czerwony grzyb",
+      "dopelniacz": "delikatnego czerwona grzyba",
+      "biernik": "delikatny czerwony grzyb",
+      "mnoga_mianownik": "delikatne jasne grzyby",
+      "mnoga_dopelniacz": "delikatnych jasnych grzybow",
+      "mnoga_biernik": "delikatne jasne grzyby"
+    },
+    "muchomor_sromotnikowy": {
+      "mianownik": "delikatny jasny grzyb",
+      "dopelniacz": "delikatnego jasnego grzyba",
+      "biernik": "delikatny jasny grzyb",
+      "mnoga_mianownik": "delikatne jasne grzyby",
+      "mnoga_dopelniacz": "delikatnych jasnych grzybow",
+      "mnoga_biernik": "delikatne jasne grzyby"
+    },
+    "nagietek": {
+      "mianownik": "jasnopomaranczowy kwiat",
+      "dopelniacz": "jasnopomaranczowego kwiatu",
+      "biernik": "jasnopomaranczowy kwiat",
+      "mnoga_mianownik": "jasnopomaranczowe kwiaty",
+      "mnoga_dopelniacz": "jasnopomaranczowych kwiatow",
+      "mnoga_biernik": "jasnopomaranczowe kwiaty"
+    },
+    "naparstnica": {
+      "mianownik": "srebrzystoszary owlosiony lisc",
+      "dopelniacz": "srebrzystoszarego owlosionego liscia",
+      "biernik": "srebrzystoszary owlosiony lisc",
+      "mnoga_mianownik": "srebrzystoszare owlosione liscie",
+      "mnoga_dopelniacz": "srebrzystoszarych owlosionych lisci",
+      "mnoga_biernik": "srebrzystoszare owlosione liscie"
+    },
+    "nawloc": {
+      "mianownik": "jasnobrazowa ulistniona lodyga",
+      "dopelniacz": "jasnobrazowej ulistnionej lodygi",
+      "biernik": "jasnobrazowa ulistniona lodyge",
+      "mnoga_mianownik": "jasnobrazowe ulistnione lodygi",
+      "mnoga_dopelniacz": "jasnobrazowych ulistnionych lodyg",
+      "mnoga_biernik": "jasnobrazowe ulistnione lodygi"
+    },
+    "nostrzyk": {
+      "mianownik": "smukla zielona lodyga",
+      "dopelniacz": "smuklej zielonej lodygi",
+      "biernik": "smukla zielona lodyge",
+      "mnoga_mianownik": "smukle zielone lodygi",
+      "mnoga_dopelniacz": "smuklych zielonych lodyg",
+      "mnoga_biernik": "smukle zielone lodygi"
+    },
+    "ogorecznik": {
+      "mianownik": "eliptyczny zaostrzony lisc",
+      "dopelniacz": "eliptycznego zaostrzonego liscia",
+      "biernik": "eliptyczny zaostrzony lisc",
+      "mnoga_mianownik": "eliptyczne zaostrzone liscie",
+      "mnoga_dopelniacz": "eliptycznych zaostrzonych lisci",
+      "mnoga_biernik": "eliptyczne zaostrzone liscie"
+    },
+    "oset": {
+      "mianownik": "kolczasta wysuszona roslina",
+      "dopelniacz": "kolczastej wysuszonej rosliny",
+      "biernik": "kolczasta wysuszona rosline",
+      "mnoga_mianownik": "kolczaste wysuszone rosliny",
+      "mnoga_dopelniacz": "kolczastych wysuszonych roslin",
+      "mnoga_biernik": "kolczaste wysuszone rosliny"
+    },
+    "ostrozeczka": {
+      "mianownik": "duzy fioletowy kwiat",
+      "dopelniacz": "duzego fioletowego kwiatu",
+      "biernik": "duzy fioletowy kwiat",
+      "mnoga_mianownik": "duze fioletowe kwiaty",
+      "mnoga_dopelniacz": "duzych fioletowych kwiatow",
+      "mnoga_biernik": "duze fioletowe kwiaty"
+    },
+    "ostrozen": {
+      "mianownik": "galezista sinozielona lodyga",
+      "dopelniacz": "galezistej sinozielonej lodygi",
+      "biernik": "galezista sinozielona lodyge",
+      "mnoga_mianownik": "galeziste sinozielone lodygi",
+      "mnoga_dopelniacz": "galezistych sinozielonych lodyg",
+      "mnoga_biernik": "galeziste sinozielone lodygi"
+    },
+    "perelkowiec": {
+      "mianownik": "dlugi zielonobrunatny strak",
+      "dopelniacz": "dlugiego zielonobrunatnego straka",
+      "biernik": "dlugi zielonobrunatny strak",
+      "mnoga_mianownik": "dlugie zielonobrunatne straki",
+      "mnoga_dopelniacz": "dlugich zielonobrunatnych strakow",
+      "mnoga_biernik": "dlugie zielonobrunatne straki"
+    },
+    "pieciornik": {
+      "mianownik": "ciemne poskrecane klacze",
+      "dopelniacz": "ciemnego poskrecanego klacza",
+      "biernik": "ciemne poskrecane klacze",
+      "mnoga_mianownik": "ciemne poskrecane klacza",
+      "mnoga_dopelniacz": "ciemnych poskrecanych klaczy",
+      "mnoga_biernik": "ciemne poskrecane klacza"
+    },
+    "pierscieniak": {
+      "mianownik": "ciemnoniebieski sluzowaty grzyb",
+      "dopelniacz": "ciemnoniebieskiego sluzowatego grzyba",
+      "biernik": "ciemnoniebieski sluzowaty grzyb",
+      "mnoga_mianownik": "ciemnoniebieskie sluzowate grzyby",
+      "mnoga_dopelniacz": "ciemnoniebieskich sluzowatych grzybow",
+      "mnoga_biernik": "ciemnoniebieskie sluzowate grzyby"
+    },
+    "pierscieniak_gryn": {
+      "mianownik": "jasnozielony sluzowaty grzyb",
+      "dopelniacz": "jasnozielonego sluzowatego grzyba",
+      "biernik": "jasnozielony sluzowaty grzyb",
+      "mnoga_mianownik": "jasnozielone sluzowate grzyby",
+      "mnoga_dopelniacz": "jasnozielonych sluzowatych grzybow",
+      "mnoga_biernik": "jasnozielone sluzowate grzyby"
+    },
+    "plucnica": {
+      "mianownik": "szarozielony gabczasty porost",
+      "dopelniacz": "szarozielonego gabczastego porostu",
+      "biernik": "szarozielony gabczasty porost",
+      "mnoga_mianownik": "szarozielone gabczaste porosty",
+      "mnoga_dopelniacz": "szarozielonych gabczastych porostow",
+      "mnoga_biernik": "szarozielone gabczaste porosty"
+    },
+    "podbial": {
+      "mianownik": "zolty jaskrawy kwiat",
+      "dopelniacz": "zoltego jaskrawego kwiatu",
+      "biernik": "zolty jaskrawy kwiat",
+      "mnoga_mianownik": "zolte jaskrawe kwiaty",
+      "mnoga_dopelniacz": "zoltych jaskrawych kwiatow",
+      "mnoga_biernik": "zolte jaskrawe kwiaty"
+    },
+    "podgrzybek": {
+      "mianownik": "sredni kasztanowobrazowy grzyb",
+      "dopelniacz": "sredniego kasztanowobrazowego grzyba",
+      "biernik": "sredni kasztanowobrazowy grzyb",
+      "mnoga_mianownik": "srednie kasztanowobrazowe grzyby",
+      "mnoga_dopelniacz": "srednich kasztanowobrazowych grzybow",
+      "mnoga_biernik": "srednie kasztanowobrazowe grzyby"
+    },
+    "pokrzyk": {
+      "mianownik": "grube walcowate klacze",
+      "dopelniacz": "grubego walcowategi klacza",
+      "biernik": "grube walcowate klacze",
+      "mnoga_mianownik": "grube walcowate klacza",
+      "mnoga_dopelniacz": "grubych walcowatych klacz",
+      "mnoga_biernik": "grube walcowate klacza"
+    },
+    "pokrzywa": {
+      "mianownik": "kanciasta parzaca lodyga",
+      "dopelniacz": "kanciastej parzacej lodygi",
+      "biernik": "kanciasta parzaca lodyge",
+      "mnoga_mianownik": "kanciaste parzace lodygi",
+      "mnoga_dopelniacz": "kanciastych parzacych lodyg",
+      "mnoga_biernik": "kanciaste parzace lodygi"
+    },
+    "potoslin": {
+      "mianownik": "pierzasty ogonkowy lisc",
+      "dopelniacz": "pierzastego ogonkowego liscia",
+      "biernik": "pierzasty ogonkowy lisc",
+      "mnoga_mianownik": "pierzaste ogonkowe liscie",
+      "mnoga_dopelniacz": "pierzastych ogonkowych lisci",
+      "mnoga_biernik": "pierzaste ogonkowe liscie"
+    },
+    "poziewnik": {
+      "mianownik": "szorstka ciemnozielona galazka",
+      "dopelniacz": "szorstkiej ciemnozielonej galazki",
+      "biernik": "szorstka ciemnozielona galazke",
+      "mnoga_mianownik": "szorstkie ciemnozielone galazki",
+      "mnoga_dopelniacz": "szorstkich ciemnozielonych galazek",
+      "mnoga_biernik": "szorstkie ciemnozielone galazki"
+    },
+    "poziomka": {
+      "mianownik": "niewielki czerwony owoc",
+      "dopelniacz": "niewielkiego czerwonego owocu",
+      "biernik": "niewielki czerwony owoc",
+      "mnoga_mianownik": "niewielkie czerwone owoce",
+      "mnoga_dopelniacz": "niewielkich czerwonych owocow",
+      "mnoga_biernik": "niewielkie czerwone owoce"
+    },
+    "przelot": {
+      "mianownik": "kremowy owlosiony kwiat",
+      "dopelniacz": "kremowego owlosionego kwiatu",
+      "biernik": "kremowy owlosiony kwiat",
+      "mnoga_mianownik": "kremowe owlosione kwiaty",
+      "mnoga_dopelniacz": "kremowych owlosionych kwiatow",
+      "mnoga_biernik": "kremowe owlosione kwiaty"
+    },
+    "przesl": {
+      "mianownik": "rozgowata zoltozielona galazka",
+      "dopelniacz": "rozgowatej zoltozielonej galazki",
+      "biernik": "rozgowata zoltozielona galazke",
+      "mnoga_mianownik": "rozgowate zoltozielone galazki",
+      "mnoga_dopelniacz": "rozgowatych zoltozielonych galazek",
+      "mnoga_biernik": "rozgowate zoltozielone galazki"
+    },
+    "rabarbar": {
+      "mianownik": "czerwonawy duzy lisc",
+      "dopelniacz": "czerwonawego duzego liscia",
+      "biernik": "czerwonawy duzy lisc",
+      "mnoga_mianownik": "czerwonawe duze liscie",
+      "mnoga_dopelniacz": "czerwonawych duzych lisci",
+      "mnoga_biernik": "czerwonawe duze liscie"
+    },
+    "ranog": {
+      "mianownik": "zoltoszary niepozorny korzen",
+      "dopelniacz": "zoltoszarego niepozornego korzenia",
+      "biernik": "zoltoszary niepozorny korzen",
+      "mnoga_mianownik": "zoltoszare niepozorne korzenie",
+      "mnoga_dopelniacz": "zoltoszarych niepozornych korzeni",
+      "mnoga_biernik": "zoltoszare niepozorne korzenie"
+    },
+    "rauwolfia": {
+      "mianownik": "szarawe pogiete klacze",
+      "dopelniacz": "szarawego pogietego klacza",
+      "biernik": "szarawe pogiete klacze",
+      "mnoga_mianownik": "szarawe pogiete klacza",
+      "mnoga_dopelniacz": "szarawych pogietych klacz",
+      "mnoga_biernik": "szarawe pogiete klacza"
+    },
+    "rdest_ptasi": {
+      "mianownik": "zielony galezisty ped",
+      "dopelniacz": "zielonego galezistego pedu",
+      "biernik": "zielony galezisty ped",
+      "mnoga_mianownik": "zielone galeziste pedy",
+      "mnoga_dopelniacz": "zielonych galezistych pedow",
+      "mnoga_biernik": "zielone galeziste pedy"
+    },
+    "rdest_wezownik": {
+      "mianownik": "grube wygiete klacze",
+      "dopelniacz": "grubego wygietego klacza",
+      "biernik": "grube wygiete klacze",
+      "mnoga_mianownik": "grube wygiete klacza",
+      "mnoga_dopelniacz": "grubych wygietych klacz",
+      "mnoga_biernik": "grube wygiete klacza"
+    },
+    "rojnik": {
+      "mianownik": "ciemnozielona rozwarta rozyczka",
+      "dopelniacz": "ciemnozielonej rozwartej rozyczki",
+      "biernik": "ciemnozielona rozwarta rozyczke",
+      "mnoga_mianownik": "ciemnozielone rozwarte rozyczki",
+      "mnoga_dopelniacz": "ciemnozielonych rozwartych rozyczek",
+      "mnoga_biernik": "ciemnozielone rozwarte rozyczki"
+    },
+    "rosiczka": {
+      "mianownik": "bialokwitnaca drobna roslinka",
+      "dopelniacz": "bialokwitnacej drobnej roslinki",
+      "biernik": "bialokwitnaca drobna roslinke",
+      "mnoga_mianownik": "bialokwitnace drobne roslinki",
+      "mnoga_dopelniacz": "bialokwitnacych drobnych roslinek",
+      "mnoga_biernik": "bialokwitnace drobne roslinki"
+    },
+    "roza_ogrodowa": {
+      "mianownik": "rozowy pachnacy kwiat",
+      "dopelniacz": "rozowego pachnacego kwiatu",
+      "biernik": "rozowy pachnacy kwiat",
+      "mnoga_mianownik": "rozowe pachnace kwiaty",
+      "mnoga_dopelniacz": "rozowych pachnacych kwiatow",
+      "mnoga_biernik": "rozowe pachnace kwiaty"
+    },
+    "rumianek": {
+      "mianownik": "drobny bialy kwiatek",
+      "dopelniacz": "drobnego bialego kwiatka",
+      "biernik": "drobny bialy kwiatek",
+      "mnoga_mianownik": "drobne biale kwiatki",
+      "mnoga_dopelniacz": "drobnych bialych kwiatkow",
+      "mnoga_biernik": "drobne biale kwiatki"
+    },
+    "serce_kapitana": {
+      "mianownik": "maly czerwony kwiat",
+      "dopelniacz": "malego czerwonego kwiatu",
+      "biernik": "maly czerwony kwiat",
+      "mnoga_mianownik": "male czerwone kwiaty",
+      "mnoga_dopelniacz": "malych czerwonych kwiatow",
+      "mnoga_biernik": "male czerwone kwiaty"
+    },
+    "siezygron": {
+      "mianownik": "duza granatowa jagoda",
+      "dopelniacz": "duzej granatowej jagody",
+      "biernik": "duza granatowa jagode",
+      "mnoga_mianownik": "duze granatowe jagody",
+      "mnoga_dopelniacz": "duzych granatowych jagod",
+      "mnoga_biernik": "duze granatowe jagody"
+    },
+    "skedar": {
+      "mianownik": "ciemny gruzlowaty grzyb",
+      "dopelniacz": "ciemnego gruzlowatego grzyba",
+      "biernik": "ciemny gruzlowaty grzyb",
+      "mnoga_mianownik": "ciemne gruzlowate grzyby",
+      "mnoga_dopelniacz": "ciemnych gruzlowatych grzybow",
+      "mnoga_biernik": "ciemne gruzlowate grzyby"
+    },
+    "skrzyp": {
+      "mianownik": "zielona trzeszczaca galazka",
+      "dopelniacz": "zielonej trzeszczacej galazki",
+      "biernik": "zielona trzeszczaca galazke",
+      "mnoga_mianownik": "zielone trzeszczace galazki",
+      "mnoga_dopelniacz": "zielonych trzeszczacych galazek",
+      "mnoga_biernik": "zielone trzeszczace galazki"
+    },
+    "sliwa": {
+      "mianownik": "czarny niewielki owoc",
+      "dopelniacz": "czarnego niewielkego owocu",
+      "biernik": "czarny niewielki owoc",
+      "mnoga_mianownik": "czarne niewielkie owoce",
+      "mnoga_dopelniacz": "czarnych niewielkich owocow",
+      "mnoga_biernik": "czarne niewielkie owoce"
+    },
+    "starzec": {
+      "mianownik": "wysoki zolty kwiat",
+      "dopelniacz": "wysokiego zoltego kwiatu",
+      "biernik": "wysoki zolty kwiat",
+      "mnoga_mianownik": "wysokie zolte kwiaty",
+      "mnoga_dopelniacz": "wysokich zoltych kwiatow",
+      "mnoga_biernik": "wysokie zolte kwiaty"
+    },
+    "stroczek": {
+      "mianownik": "bialy zmutowany grzybek",
+      "dopelniacz": "bialego zmutowanego grzybka",
+      "biernik": "bialy zmutowany grzybek",
+      "mnoga_mianownik": "biale zmutowane grzybki",
+      "mnoga_dopelniacz": "bialych zmutowanych grzybkow",
+      "mnoga_biernik": "biale zmutowane grzybki"
+    },
+    "stroiczka": {
+      "mianownik": "rozgaleziona owlosiona lodyga",
+      "dopelniacz": "rozgalezionej owlosionej lodygi",
+      "biernik": "rozgaleziona owlosiona lodyge",
+      "mnoga_mianownik": "rozgalezione owlosione lodygi",
+      "mnoga_dopelniacz": "rozgalezionych owlosionych lodyg",
+      "mnoga_biernik": "rozgalezione owlosione lodygi"
+    },
+    "stulicha": {
+      "mianownik": "jaskrawozolty drobny kwiat",
+      "dopelniacz": "jaskrawozoltego drobnego kwiatu",
+      "biernik": "jaskrawozolty drobny kwiat",
+      "mnoga_mianownik": "jaskrawozolte drobne kwiaty",
+      "mnoga_dopelniacz": "jaskrawozoltych drobnych kwiatow",
+      "mnoga_biernik": "jaskrawozolte drobne kwiaty"
+    },
+    "swietlik": {
+      "mianownik": "drobna ukwiecona galazka",
+      "dopelniacz": "drobnej ukwieconej galazki",
+      "biernik": "drobna ukwiecona galazke",
+      "mnoga_mianownik": "drobne ukwiecone galazki",
+      "mnoga_dopelniacz": "drobnych ukwieconych galazek",
+      "mnoga_biernik": "drobne ukwiecone galazki"
+    },
+    "szafran": {
+      "mianownik": "jasnofioletowy delikatny kwiat",
+      "dopelniacz": "jasnofioletowego delikatnego kwiatu",
+      "biernik": "jasnofioletowy delikatny kwiat",
+      "mnoga_mianownik": "jasnofioletowe delikatne kwiaty",
+      "mnoga_dopelniacz": "jasnofioletowych delikatnych kwiatow",
+      "mnoga_biernik": "jasnofioletowe delikatne kwiaty"
+    },
+    "szalej": {
+      "mianownik": "pomaranczowy maly korzen",
+      "dopelniacz": "pomaranczowego malego korzenia",
+      "biernik": "pomaranczowy maly korzen",
+      "mnoga_mianownik": "pomaranczowe male korzenie",
+      "mnoga_dopelniacz": "pomaranczowych malych korzeni",
+      "mnoga_biernik": "pomaranczowe male korzenie"
+    },
+    "szalwia": {
+      "mianownik": "zaostrzony podluzny lisc",
+      "dopelniacz": "zaostrzonego podluznego liscia",
+      "biernik": "zaostrzony podluzny lisc",
+      "mnoga_mianownik": "zaostrzone podluzne liscie",
+      "mnoga_dopelniacz": "zaostrzonych podluznych lisci",
+      "mnoga_biernik": "zaostrzone podluzne liscie"
+    },
+    "szczaw": {
+      "mianownik": "strzalkowaty aromatyczny lisc",
+      "dopelniacz": "strzalkowatego aromatycznego liscia",
+      "biernik": "strzalkowaty aromatyczny lisc",
+      "mnoga_mianownik": "strzalkowate aromatyczne liscie",
+      "mnoga_dopelniacz": "strzalkowatych aromatycznych lisci",
+      "mnoga_biernik": "strzalkowate aromatyczne liscie"
+    },
+    "szczwol": {
+      "mianownik": "rozdeta aromatyczna lodyga",
+      "dopelniacz": "rozdetej aromatycznej lodygi",
+      "biernik": "rozdeta aromatyczna lodyge",
+      "mnoga_mianownik": "rozdete aromatyczne lodygi",
+      "mnoga_dopelniacz": "rozdetych aromatycznych lodyg",
+      "mnoga_biernik": "rozdete aromatyczne lodygi"
+    },
+    "tatarak": {
+      "mianownik": "aromatyczne klacze",
+      "dopelniacz": "aromatycznego klacza",
+      "biernik": "aromatyczne klacze",
+      "mnoga_mianownik": "aromatyczne klacza",
+      "mnoga_dopelniacz": "aromatycznych klacz",
+      "mnoga_biernik": "aromatyczne klacza"
+    },
+    "tojad": {
+      "mianownik": "wzniesiona ukwiecona lodyga",
+      "dopelniacz": "wzniesionej ukwieconej lodygi",
+      "biernik": "wzniesiona ukwiecona lodyge",
+      "mnoga_mianownik": "wzniesione ukwiecone lodygi",
+      "mnoga_dopelniacz": "wzniesionych ukwieconych lodyg",
+      "mnoga_biernik": "wzniesione ukwiecone lodygi"
+    },
+    "trawa": {
+      "mianownik": "zielone lancetowate liscie",
+      "dopelniacz": "zielonych lancetowatych lisci",
+      "biernik": "zielone lancetowate liscie",
+      "mnoga_mianownik": "zielone lancetowate liscie",
+      "mnoga_dopelniacz": "zielonych lancetowatych lisci",
+      "mnoga_biernik": "zielone lancetowate liscie"
+    },
+    "tyton": {
+      "mianownik": "duze pomarszczone liscie",
+      "dopelniacz": "duzego pomarszczonego liscia",
+      "biernik": "duze pomarszczone liscie",
+      "mnoga_mianownik": "duze pomarszczone liscie",
+      "mnoga_dopelniacz": "duzych pomarszczonych lisci",
+      "mnoga_biernik": "duze pomarszczone liscie"
+    },
+    "urzet": {
+      "mianownik": "niepozorna sinozielona roslinka",
+      "dopelniacz": "niepozornej sinozielonej roslinki",
+      "biernik": "niepozorna sinozielona roslinke",
+      "mnoga_mianownik": "niepozorne sinozielone roslinki",
+      "mnoga_dopelniacz": "niepozornych sinozielonych roslinek",
+      "mnoga_biernik": "niepozorne sinozielone roslinki"
+    },
+    "ususzona_konopia": {
+      "mianownik": "dluga ususzona lodyga",
+      "dopelniacz": "dlugiej ususzonej lodygi",
+      "biernik": "dluga ususzona lodyge",
+      "mnoga_mianownik": "dlugie ususzone lodygi",
+      "mnoga_dopelniacz": "dlugich ususzonych lodyg",
+      "mnoga_biernik": "dlugie ususzone lodygi"
+    },
+    "ususzona_macznica": {
+      "mianownik": "zdrewniala rozgaleziona ususzona krzewinka",
+      "dopelniacz": "zdrewnialej rozgalezionej ususzonej krzewinki",
+      "biernik": "zdrewniala rozgaleziona ususzona krzewinke",
+      "mnoga_mianownik": "zdrewniale rozgalezione ususzone krzewinki",
+      "mnoga_dopelniacz": "zdrewnialych rozgalezionych ususzonych krzewinek",
+      "mnoga_biernik": "zdrewniale rozgalezione ususzone krzewinki"
+    },
+    "ususzona_mandragora": {
+      "mianownik": "bialy rozgaleziony ususzony korzen",
+      "dopelniacz": "bialego rozgalezionego ususzonego korzenia",
+      "biernik": "bialy rozgaleziony ususzony korzen",
+      "mnoga_mianownik": "biale rozgalezione ususzone korzenie",
+      "mnoga_dopelniacz": "bialych rozgalezionych ususzonych korzeni",
+      "mnoga_biernik": "biale rozgalezione ususzone korzenie"
+    },
+    "ususzona_melisa": {
+      "mianownik": "owlosiony aromatyczny ususzony lisc",
+      "dopelniacz": "owlosionego aromatycznego ususzonego liscia",
+      "biernik": "owlosiony aromatyczny ususzony lisc",
+      "mnoga_mianownik": "owlosione aromatyczne ususzone liscie",
+      "mnoga_dopelniacz": "owlosionych aromatycznych ususzonych lisci",
+      "mnoga_biernik": "owlosione aromatyczne ususzone liscie"
+    },
+    "ususzona_stroiczka": {
+      "mianownik": "rozgaleziona owlosiona ususzona lodyga",
+      "dopelniacz": "rozgalezionej owlosionej ususzonej lodygi",
+      "biernik": "rozgaleziona owlosiona ususzona lodyge",
+      "mnoga_mianownik": "rozgalezione owlosione ususzone lodygi",
+      "mnoga_dopelniacz": "rozgalezionych owlosionych ususzonych lodyg",
+      "mnoga_biernik": "rozgalezione owlosione ususzone lodygi"
+    },
+    "ususzony_przelot": {
+      "mianownik": "kremowy owlosiony ususzony kwiat",
+      "dopelniacz": "kremowego owlosionego ususzonego kwiatu",
+      "biernik": "kremowy owlosiony ususzony kwiat",
+      "mnoga_mianownik": "kremowe owlosione ususzone kwiaty",
+      "mnoga_dopelniacz": "kremowych owlosionych ususzonych kwiatow",
+      "mnoga_biernik": "kremowe owlosione ususzone kwiaty"
+    },
+    "ususzony_ranog": {
+      "mianownik": "zoltoszary niepozorny ususzony korzen",
+      "dopelniacz": "zoltoszarego niepozornego ususzonego korzenia",
+      "biernik": "zoltoszary niepozorny ususzony korzen",
+      "mnoga_mianownik": "zoltoszare niepozorne ususzone korzenie",
+      "mnoga_dopelniacz": "zoltoszarych niepozornych ususzonych korzeni",
+      "mnoga_biernik": "zoltoszare niepozorne ususzone korzenie"
+    },
+    "ususzony_szafran": {
+      "mianownik": "jasnofioletowy delikatny ususzony kwiat",
+      "dopelniacz": "jasnofioletowego delikatnego ususzonego kwiatu",
+      "biernik": "jasnofioletowy delikatny ususzony kwiat",
+      "mnoga_mianownik": "jasnofioletowe delikatne ususzone kwiaty",
+      "mnoga_dopelniacz": "jasnofioletowych delikatnych ususzonych kwiatow",
+      "mnoga_biernik": "jasnofioletowe delikatne ususzone kwiaty"
+    },
+    "wrotycz": {
+      "mianownik": "zolty rurkowaty kwiat",
+      "dopelniacz": "zoltego rurkowatego kwiatu",
+      "biernik": "zolty rurkowaty kwiat",
+      "mnoga_mianownik": "zolte rurkowate kwiaty",
+      "mnoga_dopelniacz": "zoltych rurkowatych kwiatow",
+      "mnoga_biernik": "zolte rurkowate kwiaty"
+    }
+  },
+  "version": 4,
+  "herb_id_to_use": {
+    "aralia": [
+      {
+        "action": "przezuj",
+        "effect": "+odp <olive_drab>-zmc <grey> trj",
+        "dont_bind": true
+      }
+    ],
+    "arnika": [
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey>"
+      }
+    ],
+    "babka": [
+      {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      },
+      {
+        "action": "zjedz",
+        "effect": "odtruwa"
+      }
+    ],
+    "bagno": [
+      {
+        "action": "zjedz",
+        "effect": "-wyt"
+      }
+    ],
+    "barwinka": [
+      {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "odtruwa"
+      }
+    ],
+    "bez": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      },
+      {
+        "action": "przezuj",
+        "effect": "odtruwa"
+      }
+    ],
+    "bielun": [
+      {
+        "action": "powachaj",
+        "effect": "+wyt"
+      },
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "bobotrutka": [
+      {
+        "action": "rozgryz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "boldoa": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      }
+    ],
+    "borowik_krolewski": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "borowik_szatanski": [
+      {
+        "action": "zjedz",
+        "effect": "trujacy",
+        "dont_bind": true
+      }
+    ],
+    "borowik_szlachetny": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "borowka": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "bulawinka": [
+      {
+        "action": "przezuj",
+        "effect": "<medium_turquoise>+man<grey>"
+      }
+    ],
+    "bylica_cytwarowa": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "bylica_piolun": [
+      {
+        "action": "rozgryz",
+        "effect": "+sil +gld"
+      }
+    ],
+    "bylica_pospolita": [
+      {
+        "action": "przyloz",
+        "effect": "<olive_drab>-zmc <grey>"
+      }
+    ],
+    "casur": [
+      {
+        "action": "zjedz",
+        "effect": "+sil"
+      }
+    ],
+    "cebula": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "centuria": [
+      {
+        "action": "zjedz",
+        "effect": "-trj"
+      }
+    ],
+    "chaber": [
+      {
+        "action": "zjedz",
+        "effect": "+prg",
+        "dont_bind": true
+      },
+      {
+        "action": "przezuj",
+        "effect": "odtruwa"
+      },
+      {
+        "action": "wdychnij",
+        "effect": "odtruwa"
+      }
+    ],
+    "ciemiernik": [
+      {
+        "action": "zjedz",
+        "effect": "-sil -zrc -kon trj"
+      }
+    ],
+    "ciemiezyca": [
+      {
+        "action": "zjedz",
+        "effect": "-spo",
+        "dont_bind": true
+      }
+    ],
+    "czeremcha": [
+      {
+        "action": "przezuj",
+        "effect": "3x odp"
+      }
+    ],
+    "czosnek": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "deliona": [
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc <grey>"
+      }
+    ],
+    "deren": [
+      {
+        "action": "zjedz",
+        "effect": "+wyt +prg"
+      }
+    ],
+    "drabik": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "drath": [
+      {
+        "action": "przezuj",
+        "effect": "+wyt"
+      }
+    ],
+    "dziurawiec": [
+      {
+        "action": "rozgryz",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      }
+    ],
+    "glog": [
+      {
+        "action": "przezuj",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      },
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey>"
+      }
+    ],
+    "grabiorog": [
+      {
+        "action": "zjedz",
+        "effect": "-man"
+      }
+    ],
+    "grzybien": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "hubka": [
+      {
+        "action": "",
+        "effect": "rozpalenie ognia"
+      }
+    ],
+    "hyzop": [
+      {
+        "action": "zjedz",
+        "effect": "<medium_turquoise>+man<grey> +gld"
+      }
+    ],
+    "jagoda": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      }
+    ],
+    "janowiec": [
+      {
+        "action": "zjedz",
+        "effect": "+prg",
+        "dont_bind": true
+      }
+    ],
+    "jaskier": [
+      {
+        "action": "rozgryz",
+        "effect": "odtruwa"
+      },
+      {
+        "action": "przezuj",
+        "effect": "oslepienie",
+        "dont_bind": true
+      }
+    ],
+    "jemiola": [
+      {
+        "action": "zjedz",
+        "effect": "-wyt -sil",
+        "dont_bind": true
+      }
+    ],
+    "jezyna": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "kakol": [
+      {
+        "action": "zjedz",
+        "effect": "+gld trujacy",
+        "dont_bind": true
+      }
+    ],
+    "kasztan": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "kasztanowiec": [
+      {
+        "action": "przyloz",
+        "effect": "<olive_drab>-zmc<grey>"
+      }
+    ],
+    "kocimietka": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      }
+    ],
+    "kola": [
+      {
+        "action": "rozgryz",
+        "effect": "+wyt <olive_drab>-zmc <grey> -gld"
+      },
+      {
+        "action": "zjedz",
+        "effect": "-gld",
+        "dont_bind": true
+      }
+    ],
+    "komosa": [
+      {
+        "action": "przezuj",
+        "effect": "+wyt <olive_drab>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey>"
+      }
+    ],
+    "konopie": [
+      {
+        "action": "spal",
+        "effect": "odp na magie"
+      }
+    ],
+    "konwalia": [
+      {
+        "action": "powachaj",
+        "effect": "-prg -panika"
+      },
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "kozlarz": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "krasnodrzew": [
+      {
+        "action": "powachaj",
+        "effect": "-prg -gld"
+      }
+    ],
+    "kruszyna": [
+      {
+        "action": "zjedz",
+        "effect": "+gld",
+        "dont_bind": true
+      }
+    ],
+    "krzyzownica": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      },
+      {
+        "action": "przezuj",
+        "effect": "odtruwa"
+      }
+    ],
+    "kulczyba": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "kurzyslad": [
+      {
+        "action": "zjedz",
+        "effect": "-spo",
+        "dont_bind": true
+      }
+    ],
+    "lak": [
+      {
+        "action": "przezuj",
+        "effect": "<olive_drab>-zmc<grey>"
+      },
+      {
+        "action": "rozgryz",
+        "effect": "+wyt"
+      }
+    ],
+    "lawenda": [
+      {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      },
+      {
+        "action": "zjedz",
+        "effect": "+odp"
+      }
+    ],
+    "lubczyk": [
+      {
+        "action": "zjedz",
+        "effect": "+gld",
+        "dont_bind": true
+      }
+    ],
+    "lukrecja": [
+      {
+        "action": "przezuj",
+        "effect": "+prg",
+        "dont_bind": true
+      },
+      {
+        "action": "rozgryz",
+        "effect": "odtruwa"
+      }
+    ],
+    "lulecznica": [
+      {
+        "action": "przezuj",
+        "effect": "<olive_drab>-zmc<grey>"
+      },
+      {
+        "action": "przyloz",
+        "effect": "-panika"
+      }
+    ],
+    "lulek": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "machorka": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "macznica": [
+      {
+        "action": "rozgryz",
+        "effect": "<LimeGreen>+kon<grey>"
+      }
+    ],
+    "mak_lekarski": [
+      {
+        "action": "zjedz",
+        "effect": "-zrc -spo"
+      }
+    ],
+    "mak_polny": [
+      {
+        "action": "zjedz",
+        "effect": "<LimeGreen>+kon<grey> +zme -zrc"
+      }
+    ],
+    "makownik": [
+      {
+        "action": "zjedz",
+        "effect": "<LimeGreen>+kon<grey>"
+      }
+    ],
+    "malina": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      }
+    ],
+    "mandragora": [
+      {
+        "action": "przezuj",
+        "effect": "<medium_turquoise>+man<grey>"
+      },
+      {
+        "action": "rozgryz",
+        "effect": "odtruwa"
+      }
+    ],
+    "marzanna": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      }
+    ],
+    "maslak": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "melisa": [
+      {
+        "action": "zjedz",
+        "effect": "-zmc"
+      }
+    ],
+    "mieta": [
+      {
+        "action": "rozetrzyj",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      },
+      {
+        "action": "powachaj",
+        "effect": "<olive_drab>-zmc<grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "+gld",
+        "dont_bind": true
+      }
+    ],
+    "mniszek": [
+      {
+        "action": "przezuj",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      }
+    ],
+    "muchomor_cesarski": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "muchomor_czerwony": [
+      {
+        "action": "zjedz",
+        "effect": "!trj",
+        "dont_bind": true
+      }
+    ],
+    "muchomor_sromotnikowy": [
+      {
+        "action": "zjedz",
+        "effect": "!trj",
+        "dont_bind": true
+      }
+    ],
+    "nagietek": [
+      {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      }
+    ],
+    "naparstnica": [
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey>"
+      }
+    ],
+    "nawloc": [
+      {
+        "action": "rozgryz",
+        "effect": "odtruwa"
+      },
+      {
+        "action": "zjedz",
+        "effect": "odtruwa"
+      }
+    ],
+    "nostrzyk": [
+      {
+        "action": "przezuj",
+        "effect": "<olive_drab>-zmc<grey> -trj"
+      },
+      {
+        "action": "rozgryz",
+        "effect": "-kon +gld",
+        "dont_bind": true
+      }
+    ],
+    "ogorecznik": [
+      {
+        "action": "przezuj",
+        "effect": "+odw"
+      }
+    ],
+    "oset": [
+      {
+        "action": "przezuj",
+        "effect": "-kon",
+        "dont_bind": true
+      }
+    ],
+    "ostrozeczka": [
+      {
+        "action": "zjedz",
+        "effect": "+prg",
+        "dont_bind": true
+      }
+    ],
+    "ostrozen": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "perelkowiec": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "pieciornik": [
+      {
+        "action": "rozgryz",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
+      }
+    ],
+    "pierscieniak": [
+      {
+        "action": "zjedz",
+        "effect": "--"
+      }
+    ],
+    "pierscieniak_gryn": [
+      {
+        "action": "zjedz",
+        "effect": "niejadalny",
+        "dont_bind": true
+      }
+    ],
+    "plucnica": [
+      {
+        "action": "sproszkuj",
+        "effect": "-trj"
+      }
+    ],
+    "podbial": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "podgrzybek": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "pokrzyk": [
+      {
+        "action": "zjedz",
+        "effect": "-spo"
+      }
+    ],
+    "pokrzywa": [
+      {
+        "action": "zjedz",
+        "effect": "+prg +gld"
+      }
+    ],
+    "potoslin": [
+      {
+        "action": "zjedz",
+        "effect": "-sil -dis -kon trj",
+        "dont_bind": true
+      }
+    ],
+    "poziewnik": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "poziomka": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      }
+    ],
+    "przelot": [
+      {
+        "action": "sproszkuj",
+        "effect": "odtruwa"
+      }
+    ],
+    "przesl": [
+      {
+        "action": "przezuj",
+        "effect": "+wyt"
+      }
+    ],
+    "rabarbar": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "ranog": [
+      {
+        "action": "przezuj",
+        "effect": "-trj <LimeGreen>+kon<grey>"
+      }
+    ],
+    "rauwolfia": [
+      {
+        "action": "przezuj",
+        "effect": "odtruwa"
+      },
+      {
+        "action": "zjedz",
+        "effect": "trujaca",
+        "dont_bind": true
+      }
+    ],
+    "rdest_ptasi": [
+      {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey>"
+      }
+    ],
+    "rdest_wezownik": [
+      {
+        "action": "przezuj",
+        "effect": "odtruwa"
+      }
+    ],
+    "rojnik": [
+      {
+        "action": "zjedz",
+        "effect": "+pij"
+      }
+    ],
+    "rosiczka": [
+      {
+        "action": "polknij",
+        "effect": "<medium_turquoise>+int<grey>"
+      }
+    ],
+    "roza_ogrodowa": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "rumianek": [
+      {
+        "action": "wdychnij",
+        "effect": "odtruwa"
+      }
+    ],
+    "serce_kapitana": [
+      {
+        "action": "przezuj",
+        "effect": "<LimeGreen>+kon<grey> -zrc -int"
+      }
+    ],
+    "siezygron": [
+      {
+        "action": "rozgryz",
+        "effect": "-trj"
+      }
+    ],
+    "skedar": [
+      {
+        "action": "zjedz",
+        "effect": "<LimeGreen>telepatia (pomysl do ...)"
+      }
+    ],
+    "skrzyp": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "sliwa": [
+      {
+        "action": "zjedz",
+        "effect": "jadalna",
+        "dont_bind": true
+      }
+    ],
+    "starzec": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "stroczek": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "stroiczka": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "stulicha": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "swietlik": [
+      {
+        "action": "rozgryz",
+        "effect": "<medium_turquoise>+spo<grey>"
+      }
+    ],
+    "szafran": [
+      {
+        "action": "zjedz",
+        "effect": "+wyt"
+      }
+    ],
+    "szalej": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "szalwia": [
+      {
+        "action": "zjedz",
+        "effect": "<medium_turquoise>+man<grey>"
+      }
+    ],
+    "szczaw": [
+      {
+        "action": "przezuj",
+        "effect": "<LimeGreen>+kon<grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "szczwol": [
+      {
+        "action": "zjedz",
+        "effect": "-kon trj",
+        "dont_bind": true
+      }
+    ],
+    "tatarak": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "tojad": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      },
+      {
+        "action": "przezuj",
+        "effect": "odtruwa, -kac"
+      }
+    ],
+    "trawa": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "tyton": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "urzet": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      }
+    ],
+    "ususzona_konopia": [
+      {
+        "action": "spal",
+        "effect": "odp na magie"
+      }
+    ],
+    "ususzona_macznica": [
+      {
+        "action": "",
+        "effect": "--"
+      }
+    ],
+    "ususzona_mandragora": [
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
+      },
+      {
+        "action": "przezuj",
+        "effect": "<medium_turquoise>+int<grey>"
+      },
+      {
+        "action": "rozgryz",
+        "effect": "+<medium_turquoise>man"
+      }
+    ],
+    "ususzona_melisa": [
+      {
+        "action": "zjedz",
+        "effect": "+odp"
+      }
+    ],
+    "ususzona_stroiczka": [
+      {
+        "action": "zjedz",
+        "effect": "trj",
+        "dont_bind": true
+      }
+    ],
+    "ususzony_przelot": [
+      {
+        "action": "sproszkuj",
+        "effect": "<olive_drab>-zmc<grey> -man"
+      }
+    ],
+    "ususzony_ranog": [
+      {
+        "action": "przezuj",
+        "effect": "-trj <LimeGreen>+kon<grey>"
+      }
+    ],
+    "ususzony_szafran": [
+      {
+        "action": "zjedz",
+        "effect": "<LimeGreen>+kon<grey>"
+      }
+    ],
+    "wrotycz": [
+      {
+        "action": "powachaj",
+        "effect": "+odp na trucizne"
+      }
+    ]
+  }
+}

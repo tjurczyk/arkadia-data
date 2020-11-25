@@ -7,8 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Validate JSON
+      - name: Validate Magics JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: magics_data.schema.json
           INPUT_JSONS: magics_data.json
+      - uses: actions/checkout@v1
+      - name: Validate Herbs JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: herbs_data.schema.json
+          INPUT_JSONS: herbs_data.json

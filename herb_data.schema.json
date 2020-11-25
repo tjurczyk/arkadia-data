@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://github.com/tjurczyk/arkadia-data/herbs_data.schema.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "Herb schema.",
+  "default": {},
+  "required": ["herb_id_to_odmiana", "herb_id_to_use", "version"],
+  "properties": {
+    "version": {
+      "$id": "#/properties/version",
+      "type": "integer",
+      "title": "The version of schema",
+      "default": 0,
+      "examples": [2]
+    },
+    "herb_id_to_odmiana": {
+      "default": {},
+      "required": [],
+      "title": "Herbs declination",
+      "additionalProperties": true,
+      "patternProperties": {
+        "^.*$": {
+          "type": "object",
+          "required": [
+            "mianownik",
+            "dopelniacz",
+            "biernik",
+            "mnoga_mianownik",
+            "mnoga_dopelniacz",
+            "mnoga_biernik"
+          ],
+          "properties": {
+            "mianownik": {
+              "type": "string"
+            },
+            "dopelniacz": {
+              "type": "string"
+            },
+            "biernik": {
+              "type": "string"
+            },
+            "mnoga_mianownik": {
+              "type": "string"
+            },
+            "mnoga_dopelniacz": {
+              "type": "string"
+            },
+            "mnoga_biernik": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "herb_id_to_use": {
+      "default": {},
+      "required": [],
+      "title": "Herbs usage",
+      "additionalProperties": true,
+      "patternProperties": {
+        "^.*$": {
+          "type": "array",
+          "items": {
+            "required": ["action", "effect"],
+            "properties": {
+              "action": {
+                "type": "string"
+              },
+              "effect": {
+                "type": "string"
+              },
+              "dont_bind": {
+                "type": "boolean"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}
