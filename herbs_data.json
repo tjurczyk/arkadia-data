@@ -3,7 +3,7 @@
     "aralia": {
       "mianownik": "szary kolczasty korzen",
       "dopelniacz": "szarego kolczastego korzenia",
-      "biernik": "szarego kolczastego korzenia",
+      "biernik": "szary kolczasty korzen",
       "mnoga_mianownik": "szare kolczaste korzenie",
       "mnoga_dopelniacz": "szarych kolczastych korzeni",
       "mnoga_biernik": "szare kolczaste korzenie"
@@ -32,7 +32,7 @@
       "mnoga_dopelniacz": "brudnobrazowawych cuchnacych galazek",
       "mnoga_biernik": "brudnobrazowe cuchnace galazki"
     },
-    "barwinka": {
+    "barwinek": {
       "mianownik": "fioletowy lejkowaty kwiat",
       "dopelniacz": "fioletowego lejkowatego kwiatu",
       "biernik": "fioletowy lejkowaty kwiat",
@@ -665,12 +665,12 @@
       "mnoga_biernik": "galeziste sinozielone lodygi"
     },
     "perelkowiec": {
-      "mianownik": "dlugi zielonobrunatny strak",
-      "dopelniacz": "dlugiego zielonobrunatnego straka",
-      "biernik": "dlugi zielonobrunatny strak",
-      "mnoga_mianownik": "dlugie zielonobrunatne straki",
-      "mnoga_dopelniacz": "dlugich zielonobrunatnych strakow",
-      "mnoga_biernik": "dlugie zielonobrunatne straki"
+      "mianownik": "zdlugi zielonobrunatny strak",
+      "dopelniacz": "zdlugiego zielonobrunatnego straka",
+      "biernik": "zdlugi zielonobrunatny strak",
+      "mnoga_mianownik": "zdlugie zielonobrunatne straki",
+      "mnoga_dopelniacz": "zdlugich zielonobrunatnych strakow",
+      "mnoga_biernik": "zdlugie zielonobrunatne straki"
     },
     "pieciornik": {
       "mianownik": "ciemne poskrecane klacze",
@@ -899,7 +899,7 @@
     "stroczek": {
       "mianownik": "bialy zmutowany grzybek",
       "dopelniacz": "bialego zmutowanego grzybka",
-      "biernik": "bialy zmutowany grzybek",
+      "biernik": "bialego zmutowanego grzybka",
       "mnoga_mianownik": "biale zmutowane grzybki",
       "mnoga_dopelniacz": "bialych zmutowanych grzybkow",
       "mnoga_biernik": "biale zmutowane grzybki"
@@ -1008,6 +1008,14 @@
       "mnoga_dopelniacz": "niepozornych sinozielonych roslinek",
       "mnoga_biernik": "niepozorne sinozielone roslinki"
     },
+    "ususzona_boldoa": {
+      "mianownik": "szarozielony szorstki ususzony lisc",
+      "dopelniacz": "szarozielonego szorstkiego ususzonego liscia",
+      "biernik": "szarozielony szorstki ususzony lisc",
+      "mnoga_mianownik": "szarozielone szorstkie ususzone liscie",
+      "mnoga_dopelniacz": "szarozielonych szorstkich ususzonych lisci",
+      "mnoga_biernik": "szarozielone szorstkie ususzone liscie"
+    },
     "ususzona_konopia": {
       "mianownik": "dluga ususzona lodyga",
       "dopelniacz": "dlugiej ususzonej lodygi",
@@ -1040,6 +1048,14 @@
       "mnoga_dopelniacz": "owlosionych aromatycznych ususzonych lisci",
       "mnoga_biernik": "owlosione aromatyczne ususzone liscie"
     },
+    "ususzona_rosiczka": {
+      "mianownik": "bialokwitnaca drobna ususzona roslinka",
+      "dopelniacz": "bialokwitnacej drobnej ususzonej roslinki",
+      "biernik": "bialokwitnaca drobna ususzona roslinke",
+      "mnoga_mianownik": "bialokwitnace drobne ususzone roslinki",
+      "mnoga_dopelniacz": "bialokwitnacych drobnych ususzonych roslinek",
+      "mnoga_biernik": "bialokwitnace drobne ususzone roslinki"
+    },
     "ususzona_stroiczka": {
       "mianownik": "rozgaleziona owlosiona ususzona lodyga",
       "dopelniacz": "rozgalezionej owlosionej ususzonej lodygi",
@@ -1047,6 +1063,30 @@
       "mnoga_mianownik": "rozgalezione owlosione ususzone lodygi",
       "mnoga_dopelniacz": "rozgalezionych owlosionych ususzonych lodyg",
       "mnoga_biernik": "rozgalezione owlosione ususzone lodygi"
+    },
+    "ususzony_czosnek": {
+      "mianownik": "biala pachnaca ususzona cebulka",
+      "dopelniacz": "bialego pachnacej ususzonej cebulki",
+      "biernik": "biala pachnaca ususzona cebulke",
+      "mnoga_mianownik": "biale pachnace ususzone cebulki",
+      "mnoga_dopelniacz": "bialych pachnacych ususzonych cebulek",
+      "mnoga_biernik": "biale pachnace ususzone cebulki"
+    },
+    "ususzony_jaskier": {
+      "mianownik": "rozgaleziona wzniesiona ususzona lodyga",
+      "dopelniacz": "rozgalezionej wzniesionej ususzonej lodygi",
+      "biernik": "rozgaleziona wzniesiona ususzona lodyge",
+      "mnoga_mianownik": "rozgalezione wzniesione ususzone lodygi",
+      "mnoga_dopelniacz": "rozgalezionych wzniesionych ususzonych lodyg",
+      "mnoga_biernik": "rozgalezione wzniesione ususzone lodygi"
+    },
+    "ususzony_lulek": {
+      "mianownik": "brudnozolty fioletowo-zylkowany ususzony kwiat",
+      "dopelniacz": "brudnozoltego fioletowo-zylkowanego ususzonego kwiatu",
+      "biernik": "brudnozolty fioletowo-zylkowany ususzony kwiat",
+      "mnoga_mianownik": "brudnozolte fioletowo-zylkowane ususzone kwiaty",
+      "mnoga_dopelniacz": "brudnozoltych fioletowo-zylkowanych ususzonych kwiatow",
+      "mnoga_biernik": "brudnozolte fioletowo-zylkowane ususzone kwiaty"
     },
     "ususzony_przelot": {
       "mianownik": "kremowy owlosiony ususzony kwiat",
@@ -1063,6 +1103,14 @@
       "mnoga_mianownik": "zoltoszare niepozorne ususzone korzenie",
       "mnoga_dopelniacz": "zoltoszarych niepozornych ususzonych korzeni",
       "mnoga_biernik": "zoltoszare niepozorne ususzone korzenie"
+    },
+    "ususzony_starzec": {
+      "mianownik": "wysoki zolty ususzony kwiat",
+      "dopelniacz": "wysokiego zoltego ususzonego kwiatu",
+      "biernik": "wysoki zolty ususzony kwiat",
+      "mnoga_mianownik": "wysokie zolte ususzone kwiaty",
+      "mnoga_dopelniacz": "wysokich zoltych ususzonych kwiatow",
+      "mnoga_biernik": "wysokie zolte ususzone kwiaty"
     },
     "ususzony_szafran": {
       "mianownik": "jasnofioletowy delikatny ususzony kwiat",
@@ -1085,9 +1133,12 @@
   "herb_id_to_use": {
     "aralia": [
       {
+        "action": "zjedz",
+        "effect": "+odp <olive_drab>-zmc <grey> +kac"
+      },
+      {
         "action": "przezuj",
-        "effect": "+odp <olive_drab>-zmc <grey> trj",
-        "dont_bind": true
+        "effect": "+zrc"
       }
     ],
     "arnika": [
@@ -1099,27 +1150,27 @@
     "babka": [
       {
         "action": "przyloz",
-        "effect": "<LimeGreen>+kon<grey> +zmc"
-      },
-      {
-        "action": "zjedz",
-        "effect": "odtruwa"
+        "effect": "<LimeGreen>+kon<grey>"
       }
     ],
     "bagno": [
       {
         "action": "zjedz",
-        "effect": "-wyt"
+        "effect": "odtr?"
+      },
+      {
+        "action": "przyloz",
+        "effect": "???"
       }
     ],
-    "barwinka": [
+    "barwinek": [
       {
         "action": "przyloz",
         "effect": "<LimeGreen>+kon<grey>"
       },
       {
         "action": "zjedz",
-        "effect": "odtruwa"
+        "effect": "odtr"
       }
     ],
     "bez": [
@@ -1130,31 +1181,35 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtruwa"
+        "effect": "odtr?"
       }
     ],
     "bielun": [
       {
         "action": "powachaj",
-        "effect": "+wyt"
+        "effect": "+zrc"
       },
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "bobotrutka": [
       {
-        "action": "rozgryz",
-        "effect": "trj",
+        "action": "zjedz",
+        "effect": "tr",
         "dont_bind": true
+      },
+      {
+        "action": "polknij",
+        "effect": "--?"
       }
     ],
     "boldoa": [
       {
         "action": "zjedz",
-        "effect": "jadalna",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1168,7 +1223,7 @@
     "borowik_szatanski": [
       {
         "action": "zjedz",
-        "effect": "trujacy",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
@@ -1189,32 +1244,56 @@
     "bulawinka": [
       {
         "action": "przezuj",
-        "effect": "<medium_turquoise>+man<grey>"
+        "effect": "<medium_turquoise>+mana -kac<grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "bylica_cytwarowa": [
       {
+        "action": "wetrzyj",
+        "effect": "odtr"
+      },
+      {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "<tomato>+glod<grey>",
         "dont_bind": true
       }
     ],
     "bylica_piolun": [
       {
+        "action": "wetrzyj",
+        "effect": "odtr"
+      },
+      {
         "action": "rozgryz",
-        "effect": "+sil +gld"
+        "effect": "tr",
+        "dont_bind": true
+      },
+      {
+        "action": "zjedz",
+        "effect": "<tomato>+glod<grey",
+        "dont_bind": true
       }
     ],
     "bylica_pospolita": [
       {
         "action": "przyloz",
         "effect": "<olive_drab>-zmc <grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "<tomato>+glod<grey>",
+        "dont_bind": true
       }
     ],
     "casur": [
       {
         "action": "zjedz",
-        "effect": "+sil"
+        "effect": "+sila"
       }
     ],
     "cebula": [
@@ -1227,41 +1306,42 @@
     "centuria": [
       {
         "action": "zjedz",
-        "effect": "-trj"
+        "effect": "odtr"
       }
     ],
     "chaber": [
       {
-        "action": "zjedz",
-        "effect": "+prg",
-        "dont_bind": true
-      },
-      {
         "action": "przezuj",
-        "effect": "odtruwa"
+        "effect": "odtr"
       },
       {
         "action": "wdychnij",
-        "effect": "odtruwa"
+        "effect": "odtr"
+      },
+      {
+        "action": "zjedz",
+        "effect": "<tomato>+prg<grey",
+        "dont_bind": true
       }
     ],
     "ciemiernik": [
       {
         "action": "zjedz",
-        "effect": "-sil -zrc -kon trj"
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "ciemiezyca": [
       {
         "action": "zjedz",
-        "effect": "-spo",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "czeremcha": [
       {
         "action": "przezuj",
-        "effect": "3x odp"
+        "effect": "+odp"
       }
     ],
     "czosnek": [
@@ -1280,13 +1360,18 @@
     "deren": [
       {
         "action": "zjedz",
-        "effect": "+wyt +prg"
+        "effect": "<tomato>+prg<grey",
+        "dont_bind": true
+      },
+      {
+        "action": "przezuj",
+        "effect": "odtr"
       }
     ],
     "drabik": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
+        "effect": "--",
         "dont_bind": true
       }
     ],
@@ -1305,7 +1390,8 @@
     "glog": [
       {
         "action": "przezuj",
-        "effect": "<LimeGreen>+kon<grey> +zmc"
+        "effect": "--",
+        "dont_bind": true
       },
       {
         "action": "zjedz",
@@ -1315,7 +1401,8 @@
     "grabiorog": [
       {
         "action": "zjedz",
-        "effect": "-man"
+        "effect": "-mana",
+        "dont_bind": true
       }
     ],
     "grzybien": [
@@ -1327,14 +1414,15 @@
     ],
     "hubka": [
       {
-        "action": "",
-        "effect": "rozpalenie ognia"
+        "action": ".",
+        "effect": "rozpalenie ognia",
+        "dont_bind": true
       }
     ],
     "hyzop": [
       {
         "action": "zjedz",
-        "effect": "<medium_turquoise>+man<grey> +gld"
+        "effect": "<medium_turquoise>+mana<grey> <tomato>+glod<grey"
       }
     ],
     "jagoda": [
@@ -1347,26 +1435,30 @@
     "janowiec": [
       {
         "action": "zjedz",
-        "effect": "+prg",
+        "effect": "<tomato>+prg<grey",
         "dont_bind": true
       }
     ],
     "jaskier": [
       {
-        "action": "rozgryz",
-        "effect": "odtruwa"
+        "action": "rozkrusz",
+        "effect": "odtr"
       },
       {
         "action": "przezuj",
-        "effect": "oslepienie",
+        "effect": "tr",
+        "dont_bind": true
+      },
+      {
+        "action": "zjedz",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "jemiola": [
       {
         "action": "zjedz",
-        "effect": "-wyt -sil",
-        "dont_bind": true
+        "effect": "+odp"
       }
     ],
     "jezyna": [
@@ -1379,20 +1471,26 @@
     "kakol": [
       {
         "action": "zjedz",
-        "effect": "+gld trujacy",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "kasztan": [
       {
-        "action": "",
-        "effect": "--"
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "kasztanowiec": [
       {
         "action": "przyloz",
-        "effect": "<olive_drab>-zmc<grey>"
+        "effect": "<olive_drab>-zmc <grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "kocimietka": [
@@ -1405,38 +1503,39 @@
     "kola": [
       {
         "action": "rozgryz",
-        "effect": "+wyt <olive_drab>-zmc <grey> -gld"
+        "effect": "<tomato>+glod<grey> +panika"
       },
       {
         "action": "zjedz",
-        "effect": "-gld",
+        "effect": "<tomato>+glod<grey>",
         "dont_bind": true
       }
     ],
     "komosa": [
       {
-        "action": "przezuj",
-        "effect": "+wyt <olive_drab>"
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc <grey>"
       },
       {
-        "action": "zjedz",
-        "effect": "<olive_drab>-zmc<grey>"
+        "action": "przezuj",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "konopie": [
       {
         "action": "spal",
-        "effect": "odp na magie"
+        "effect": "+odp"
       }
     ],
     "konwalia": [
       {
         "action": "powachaj",
-        "effect": "-prg -panika"
+        "effect": "-pan <tomato>+prg<grey>"
       },
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
@@ -1450,38 +1549,42 @@
     "krasnodrzew": [
       {
         "action": "powachaj",
-        "effect": "-prg -gld"
+        "effect": "+wyt"
       }
     ],
     "kruszyna": [
       {
         "action": "zjedz",
-        "effect": "+gld",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "krzyzownica": [
       {
+        "action": "przezuj",
+        "effect": "odtr"
+      },
+      {
         "action": "zjedz",
         "effect": "jadalna",
         "dont_bind": true
-      },
-      {
-        "action": "przezuj",
-        "effect": "odtruwa"
       }
     ],
     "kulczyba": [
       {
+        "action": "przezuj",
+        "effect": "+sila"
+      },
+      {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "kurzyslad": [
       {
         "action": "zjedz",
-        "effect": "-spo",
+        "effect": "-sp",
         "dont_bind": true
       }
     ],
@@ -1489,79 +1592,77 @@
       {
         "action": "przezuj",
         "effect": "<olive_drab>-zmc<grey>"
-      },
-      {
-        "action": "rozgryz",
-        "effect": "+wyt"
       }
     ],
     "lawenda": [
       {
-        "action": "przyloz",
-        "effect": "<LimeGreen>+kon<grey> +zmc"
+        "action": "zjedz",
+        "effect": "<LimeGreen>+kon<grey>"
       },
       {
-        "action": "zjedz",
+        "action": "przyloz",
         "effect": "+odp"
       }
+
     ],
     "lubczyk": [
       {
         "action": "zjedz",
-        "effect": "+gld",
+        "effect": "<tomato>+glod<grey>",
         "dont_bind": true
       }
     ],
     "lukrecja": [
       {
-        "action": "przezuj",
-        "effect": "+prg",
-        "dont_bind": true
+        "action": "przyloz",
+        "effect": "odtr"
       },
       {
-        "action": "rozgryz",
-        "effect": "odtruwa"
+        "action": "przezuj",
+        "effect": "<tomato>+prg<grey>",
+        "dont_bind": true
       }
     ],
     "lulecznica": [
       {
         "action": "przezuj",
         "effect": "<olive_drab>-zmc<grey>"
-      },
-      {
-        "action": "przyloz",
-        "effect": "-panika"
       }
     ],
     "lulek": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "machorka": [
       {
-        "action": "",
+        "action": ".",
         "effect": "--"
       }
     ],
     "macznica": [
       {
         "action": "rozgryz",
-        "effect": "<LimeGreen>+kon<grey>"
+        "effect": "<LimeGreen>+kon<grey> +pan"
       }
     ],
     "mak_lekarski": [
       {
+        "action": "powachaj",
+        "effect": "tr +odp"
+      },
+      {
         "action": "zjedz",
-        "effect": "-zrc -spo"
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "mak_polny": [
       {
         "action": "zjedz",
-        "effect": "<LimeGreen>+kon<grey> +zme -zrc"
+        "effect": "<LimeGreen>+kon<grey> tr"
       }
     ],
     "makownik": [
@@ -1580,11 +1681,11 @@
     "mandragora": [
       {
         "action": "przezuj",
-        "effect": "<medium_turquoise>+man<grey>"
+        "effect": "<medium_turquoise>+int -man<grey>"
       },
       {
         "action": "rozgryz",
-        "effect": "odtruwa"
+        "effect": "<medium_turquoise>+man<grey>"
       }
     ],
     "marzanna": [
@@ -1604,48 +1705,55 @@
     "melisa": [
       {
         "action": "zjedz",
-        "effect": "-zmc"
+        "effect": "<olive_drab>-zmc<grey>"
+      },
+      {
+        "action": "powachaj",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "mieta": [
       {
+        "action": "przezuj",
+        "effect": "<tomato>+glod<grey>",
+        "don_bind": true
+      },
+      {
         "action": "rozetrzyj",
-        "effect": "<LimeGreen>+kon<grey> +zmc"
+        "effect": "--",
+        "don_bind": true
       },
       {
         "action": "powachaj",
-        "effect": "<olive_drab>-zmc<grey>"
-      },
-      {
-        "action": "zjedz",
-        "effect": "+gld",
-        "dont_bind": true
+        "effect": "--",
+        "don_bind": true
       }
     ],
     "mniszek": [
       {
         "action": "przezuj",
-        "effect": "<LimeGreen>+kon<grey> +zmc"
+        "effect": "<LimeGreen>+kon<grey>"
       }
     ],
     "muchomor_cesarski": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "--",
         "dont_bind": true
       }
     ],
     "muchomor_czerwony": [
       {
         "action": "zjedz",
-        "effect": "!trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "muchomor_sromotnikowy": [
       {
         "action": "zjedz",
-        "effect": "!trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
@@ -1664,21 +1772,25 @@
     "nawloc": [
       {
         "action": "rozgryz",
-        "effect": "odtruwa"
+        "effect": "odtr"
       },
       {
         "action": "zjedz",
-        "effect": "odtruwa"
+        "effect": "odtr"
+      },
+      {
+        "action": "przyloz",
+        "effect": "odtr"
       }
     ],
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> -trj"
+        "effect": "<olive_drab>-zmc<grey>"
       },
       {
         "action": "rozgryz",
-        "effect": "-kon +gld",
+        "effect": "-kon <tomato>+glod<grey>",
         "dont_bind": true
       }
     ],
@@ -1691,56 +1803,64 @@
     "oset": [
       {
         "action": "przezuj",
-        "effect": "-kon",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "ostrozeczka": [
       {
         "action": "zjedz",
-        "effect": "+prg",
+        "effect": "<tomato>+glod<grey>",
         "dont_bind": true
       }
     ],
     "ostrozen": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
-        "dont_bind": true
+        "effect": "+odp"
       }
     ],
     "perelkowiec": [
       {
-        "action": "",
+        "action": ".",
         "effect": "--"
       }
     ],
     "pieciornik": [
       {
         "action": "rozgryz",
-        "effect": "<LimeGreen>+kon<grey> +zmc"
+        "effect": "<LimeGreen>+kon<grey> +kac"
+      },
+      {
+        "action": "przezuj",
+        "effect": "odtr"
       }
     ],
     "pierscieniak": [
       {
         "action": "zjedz",
-        "effect": "--"
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "pierscieniak_gryn": [
       {
         "action": "zjedz",
-        "effect": "niejadalny",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "plucnica": [
       {
         "action": "sproszkuj",
-        "effect": "-trj"
+        "effect": "odtr"
       }
     ],
     "podbial": [
+      {
+        "action": "powachaj",
+        "effect": "<olive_drab>-zmc<grey>"
+      },
       {
         "action": "zjedz",
         "effect": "jadalny",
@@ -1757,19 +1877,20 @@
     "pokrzyk": [
       {
         "action": "zjedz",
-        "effect": "-spo"
+        "effect": " tr",
+        "dont_bind": true
       }
     ],
     "pokrzywa": [
       {
         "action": "zjedz",
-        "effect": "+prg +gld"
+        "effect": "-upicie <tomato>+prg +glod<grey>"
       }
     ],
     "potoslin": [
       {
         "action": "zjedz",
-        "effect": "-sil -dis -kon trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
@@ -1790,13 +1911,13 @@
     "przelot": [
       {
         "action": "sproszkuj",
-        "effect": "odtruwa"
+        "effect": "odtr"
       }
     ],
     "przesl": [
       {
         "action": "przezuj",
-        "effect": "+wyt"
+        "effect": "<olive_drab>-zmc<grey> -pij"
       }
     ],
     "rabarbar": [
@@ -1809,17 +1930,17 @@
     "ranog": [
       {
         "action": "przezuj",
-        "effect": "-trj <LimeGreen>+kon<grey>"
+        "effect": "odtr <LimeGreen>+kon<grey>"
       }
     ],
     "rauwolfia": [
       {
         "action": "przezuj",
-        "effect": "odtruwa"
+        "effect": "odtr"
       },
       {
         "action": "zjedz",
-        "effect": "trujaca",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
@@ -1827,54 +1948,65 @@
       {
         "action": "przyloz",
         "effect": "<LimeGreen>+kon<grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "rdest_wezownik": [
       {
         "action": "przezuj",
-        "effect": "odtruwa"
+        "effect": "odtr"
       }
     ],
     "rojnik": [
       {
         "action": "zjedz",
-        "effect": "+pij"
+        "effect": "+pij",
+        "dont_bind": true
       }
     ],
     "rosiczka": [
       {
         "action": "polknij",
-        "effect": "<medium_turquoise>+int<grey>"
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "roza_ogrodowa": [
       {
-        "action": "",
+        "action": ".",
         "effect": "--"
       }
     ],
     "rumianek": [
       {
-        "action": "wdychnij",
-        "effect": "odtruwa"
+        "action": "powachaj",
+        "effect": "odtr"
+      },
+      {
+        "action": "przyloz",
+        "effect": "odtr"
       }
     ],
     "serce_kapitana": [
       {
         "action": "przezuj",
-        "effect": "<LimeGreen>+kon<grey> -zrc -int"
+        "effect": "<LimeGreen>+kon<grey> -int"
       }
     ],
     "siezygron": [
       {
         "action": "rozgryz",
-        "effect": "-trj"
+        "effect": "odtr"
       }
     ],
     "skedar": [
       {
-        "action": "zjedz",
-        "effect": "<LimeGreen>telepatia (pomysl do ...)"
+        "action": "przezuj",
+        "effect": "<LimeGreen>telepatia"
       }
     ],
     "skrzyp": [
@@ -1894,28 +2026,28 @@
     "starzec": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "stroczek": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "stroiczka": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "--",
         "dont_bind": true
       }
     ],
     "stulicha": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
@@ -1928,20 +2060,21 @@
     "szafran": [
       {
         "action": "zjedz",
-        "effect": "+wyt"
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "szalej": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "tr",
         "dont_bind": true
       }
     ],
     "szalwia": [
       {
-        "action": "zjedz",
-        "effect": "<medium_turquoise>+man<grey>"
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey> +zmc"
       }
     ],
     "szczaw": [
@@ -1950,104 +2083,179 @@
         "effect": "<LimeGreen>+kon<grey>"
       },
       {
-        "action": "zjedz",
-        "effect": "jadalny",
+        "action": "rozgryz",
+        "effect": "--",
         "dont_bind": true
       }
     ],
     "szczwol": [
       {
         "action": "zjedz",
-        "effect": "-kon trj",
+        "effect": "tr",
+        "dont_bind": true
+      },
+      {
+        "action": "przyloz",
+        "effect": "--",
         "dont_bind": true
       }
     ],
     "tatarak": [
       {
-        "action": "",
-        "effect": "--"
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "tojad": [
       {
-        "action": "zjedz",
-        "effect": "trj",
-        "dont_bind": true
+        "action": "przezuj",
+        "effect": "-kac odtr"
       },
       {
-        "action": "przezuj",
-        "effect": "odtruwa, -kac"
+        "action": "zjedz",
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "trawa": [
       {
-        "action": "",
-        "effect": "--"
+        "action": "zjedz",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "tyton": [
       {
-        "action": "",
-        "effect": "--"
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true
       }
     ],
     "urzet": [
       {
+        "action": "wetrzyj",
+        "effect": "+odw"
+      },
+      {
         "action": "zjedz",
         "effect": "jadalny",
         "dont_bind": true
+      }
+    ],
+    "ususzona_boldoa": [
+      {
+        "action": "rozkrusz",
+        "effect": "odtr <tomato>+glod<grey>"
+
       }
     ],
     "ususzona_konopia": [
       {
         "action": "spal",
-        "effect": "odp na magie"
+        "effect": "+odp"
       }
     ],
     "ususzona_macznica": [
       {
-        "action": "",
-        "effect": "--"
+        "action": "rozgryz",
+        "effect": "+panika"
       }
     ],
     "ususzona_mandragora": [
-      {
-        "action": "zjedz",
-        "effect": "jadalny",
-        "dont_bind": true
-      },
       {
         "action": "przezuj",
         "effect": "<medium_turquoise>+int<grey>"
       },
       {
         "action": "rozgryz",
-        "effect": "+<medium_turquoise>man"
+        "effect": "<medium_turquoise>+mana<grey>"
+      },
+      {
+        "action": "zjedz",
+        "effect": "jadalny",
+        "dont_bind": true
       }
     ],
     "ususzona_melisa": [
       {
-        "action": "zjedz",
+        "action": "przezuj",
         "effect": "+odp"
+      },
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey>"
+      },
+      {
+        "action": "powachaj",
+        "effect": "--"
+      }
+    ],
+    "ususzona_rosiczka": [
+      {
+        "action": "rozkrusz",
+        "effect": "<medium_turquoise>+mana<grey>"
+      },
+      {
+        "action": "polnij",
+        "effect": "odtr"
       }
     ],
     "ususzona_stroiczka": [
       {
         "action": "zjedz",
-        "effect": "trj",
+        "effect": "--",
         "dont_bind": true
+      },
+      {
+        "action": "sproszkuj",
+        "effect": "tr",
+        "dont_bind": true
+      }
+    ],
+    "ususzony_czosnek": [
+      {
+        "action": "wetrzyj",
+        "effect": "+odp"
+      }
+    ],
+    "ususzony_jaskier": [
+      {
+        "action": "zjedz",
+        "effect": "???"
+      },
+      {
+        "action": "rozkrusz",
+        "effect": "???"
+      }
+    ],
+    "ususzony_lulek": [
+      {
+        "action": "rozgryz",
+        "effect": "<medium_turquoise>+int<grey>"
       }
     ],
     "ususzony_przelot": [
       {
         "action": "sproszkuj",
-        "effect": "<olive_drab>-zmc<grey> -man"
+        "effect": "???"
       }
     ],
     "ususzony_ranog": [
       {
         "action": "przezuj",
-        "effect": "-trj <LimeGreen>+kon<grey>"
+        "effect": "odtr <LimeGreen>+kon<grey>"
+      }
+    ],
+    "ususzony_starzec": [
+      {
+        "action": "sproszkuj",
+        "effect": "odtr"
+      },
+      {
+        "action": "zjedz",
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "ususzony_szafran": [
@@ -2059,7 +2267,11 @@
     "wrotycz": [
       {
         "action": "powachaj",
-        "effect": "+odp na trucizne"
+        "effect": "odtr"
+      },
+      {
+        "action": "przyloz",
+        "effect": "odtr"
       }
     ]
   }
