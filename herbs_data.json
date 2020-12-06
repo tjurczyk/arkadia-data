@@ -1275,7 +1275,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "<tomato>+glod<grey",
+        "effect": "<tomato>+glod<grey>",
         "dont_bind": true
       }
     ],
@@ -1320,7 +1320,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "<tomato>+prg<grey",
+        "effect": "<tomato>+prg<grey>",
         "dont_bind": true
       }
     ],
@@ -1360,7 +1360,7 @@
     "deren": [
       {
         "action": "zjedz",
-        "effect": "<tomato>+prg<grey",
+        "effect": "<tomato>+prg<grey>",
         "dont_bind": true
       },
       {
@@ -1422,7 +1422,7 @@
     "hyzop": [
       {
         "action": "zjedz",
-        "effect": "<medium_turquoise>+mana<grey> <tomato>+glod<grey"
+        "effect": "<medium_turquoise>+mana<grey> <tomato>+glod<grey>"
       }
     ],
     "jagoda": [
@@ -1435,7 +1435,7 @@
     "janowiec": [
       {
         "action": "zjedz",
-        "effect": "<tomato>+prg<grey",
+        "effect": "<tomato>+prg<grey>",
         "dont_bind": true
       }
     ],
