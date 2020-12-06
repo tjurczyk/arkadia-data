@@ -665,12 +665,12 @@
       "mnoga_biernik": "galeziste sinozielone lodygi"
     },
     "perelkowiec": {
-      "mianownik": "zdlugi zielonobrunatny strak",
-      "dopelniacz": "zdlugiego zielonobrunatnego straka",
-      "biernik": "zdlugi zielonobrunatny strak",
-      "mnoga_mianownik": "zdlugie zielonobrunatne straki",
-      "mnoga_dopelniacz": "zdlugich zielonobrunatnych strakow",
-      "mnoga_biernik": "zdlugie zielonobrunatne straki"
+      "mianownik": "dlugi zielonobrunatny strak",
+      "dopelniacz": "dlugiego zielonobrunatnego straku",
+      "biernik": "dlugi zielonobrunatny strak",
+      "mnoga_mianownik": "dlugie zielonobrunatne straki",
+      "mnoga_dopelniacz": "dlugich zielonobrunatnych strakow",
+      "mnoga_biernik": "dlugie zielonobrunatne straki"
     },
     "pieciornik": {
       "mianownik": "ciemne poskrecane klacze",
@@ -1047,6 +1047,14 @@
       "mnoga_mianownik": "owlosione aromatyczne ususzone liscie",
       "mnoga_dopelniacz": "owlosionych aromatycznych ususzonych lisci",
       "mnoga_biernik": "owlosione aromatyczne ususzone liscie"
+    },
+    "ususzony_perelkowiec": {
+      "mianownik": "dlugi zielonobrunatny ususzony strak",
+      "dopelniacz": "dlugiego zielonobrunatnego ususzonego straku",
+      "biernik": "dlugi zielonobrunatny ususzony strak",
+      "mnoga_mianownik": "dlugie zielonobrunatne  ususzonestraki",
+      "mnoga_dopelniacz": "dlugich zielonobrunatnych ususzonych strakow",
+      "mnoga_biernik": "dlugie zielonobrunatne ususzone straki"
     },
     "ususzona_rosiczka": {
       "mianownik": "bialokwitnaca drobna ususzona roslinka",
@@ -1824,6 +1832,13 @@
       {
         "action": ".",
         "effect": "--"
+      }
+    ],
+    "ususzony_perelkowiec": [
+      {
+        "action": "zjedz",
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "pieciornik": [
