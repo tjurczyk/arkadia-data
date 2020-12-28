@@ -1742,8 +1742,7 @@
       },
       {
         "action": "powachaj",
-        "effect": "--",
-        "don_bind": true
+        "effect": "<olive_drab>-zmc<grey>"
       }
     ],
     "mniszek": [
