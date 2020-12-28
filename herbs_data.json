@@ -1135,6 +1135,14 @@
       "mnoga_mianownik": "zolte rurkowate kwiaty",
       "mnoga_dopelniacz": "zoltych rurkowatych kwiatow",
       "mnoga_biernik": "zolte rurkowate kwiaty"
+    },
+    "ususzona_aralia": {
+      "mianownik": "szary kolczasty ususzony korzen",
+      "dopelniacz": "szarego kolczastego ususzonego korzenia",
+      "biernik": "szary kolczasty ususzony korzen",
+      "mnoga_mianownik": "szare kolczaste ususzone korzenie",
+      "mnoga_dopelniacz": "szarych kolczastych ususzonych korzeni",
+      "mnoga_biernik": "szare kolczaste ususzone korzenie"
     }
   },
   "version": 4,
@@ -2287,6 +2295,20 @@
       {
         "action": "przyloz",
         "effect": "odtr"
+      }
+    ],
+    "ususzona_aralia": [
+      {
+        "action": "polknij",
+        "effect": "+odp"
+      },
+      {
+        "action": "zjedz",
+        "effect": "<olive_drab>-zmc<grey> +kac"
+      },
+      {
+        "action": "przezuj",
+        "effect": "+zrc"
       }
     ]
   }
