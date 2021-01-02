@@ -1424,7 +1424,7 @@
     "grzybien": [
       {
         "action": "zjedz",
-        "effect": "-pan",
+        "effect": "-pan"
       }
     ],
     "hubka": [
@@ -1991,7 +1991,7 @@
       },
       {
         "action": "przyloz",
-        "effect": "<LimeGreen>+kon<grey>",
+        "effect": "<LimeGreen>+kon<grey>"
       }
     ],
     "rosiczka": [
