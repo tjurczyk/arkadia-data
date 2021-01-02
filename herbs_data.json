@@ -1219,7 +1219,7 @@
       },
       {
         "action": "polknij",
-        "effect": "--?"
+        "effect": "<olive_drab>-zmc<grey>"
       }
     ],
     "boldoa": [
@@ -1424,8 +1424,7 @@
     "grzybien": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
-        "dont_bind": true
+        "effect": "-pan",
       }
     ],
     "hubka": [
@@ -1837,8 +1836,9 @@
     ],
     "perelkowiec": [
       {
-        "action": ".",
-        "effect": "--"
+        "action": "zjedz",
+        "effect": "tr",
+        "dont_bind": true
       }
     ],
     "ususzony_perelkowiec": [
@@ -1988,6 +1988,10 @@
         "action": "zjedz",
         "effect": "+pij",
         "dont_bind": true
+      },
+      {
+        "action": "przyloz",
+        "effect": "<LimeGreen>+kon<grey>",
       }
     ],
     "rosiczka": [
@@ -2118,8 +2122,7 @@
       },
       {
         "action": "przyloz",
-        "effect": "--",
-        "dont_bind": true
+        "effect": "<olive_drab>-zmc<grey>"
       }
     ],
     "tatarak": [
