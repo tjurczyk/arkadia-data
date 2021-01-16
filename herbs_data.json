@@ -1143,6 +1143,22 @@
       "mnoga_mianownik": "szare kolczaste ususzone korzenie",
       "mnoga_dopelniacz": "szarych kolczastych ususzonych korzeni",
       "mnoga_biernik": "szare kolczaste ususzone korzenie"
+    },
+    "dziewanna": {
+      "mianownik": "zolty wielokwiatowy klos",
+      "dopelniacz": "zoltego wielokwiatowego klosu",
+      "biernik": "zolty wielokwiatowy klos",
+      "mnoga_mianownik": "zolte wielokwiatowe klosy",
+      "mnoga_dopelniacz": "zoltych wielokwiatowych klosow",
+      "mnoga_biernik": "zolte wielokwiatowe klosy"
+    },
+    "poslonek": {
+      "mianownik": "cienka kosmata lodyzka",
+      "dopelniacz": "cienkiej kosmatej lodyzki",
+      "biernik": "cienka kosmata lodyzke",
+      "mnoga_mianownik": "cienkie kosmate lodyzki",
+      "mnoga_dopelniacz": "cienkich kosmatych lodyzek",
+      "mnoga_biernik": "cienkie kosmate lodyzki"
     }
   },
   "version": 4,
@@ -1618,7 +1634,6 @@
         "action": "przyloz",
         "effect": "+odp"
       }
-
     ],
     "lubczyk": [
       {
@@ -2172,7 +2187,6 @@
       {
         "action": "rozkrusz",
         "effect": "odtr <tomato>+glod<grey>"
-
       }
     ],
     "ususzona_konopia": [
@@ -2311,6 +2325,18 @@
       {
         "action": "przezuj",
         "effect": "+zrc"
+      }
+    ],
+    "dziewanna": [
+      {
+        "action": "zjedz",
+        "effect": "odtr"
+      }
+    ],
+    "poslonek": [
+      {
+        "action": "zjedz",
+        "effect": "<LimeGreen>+kon<grey>"
       }
     ]
   }
