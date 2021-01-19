@@ -313,11 +313,16 @@
         "pojemnik"
       ],
       "regexps": [
-        "grawerowane podluzne pudelko",
-        "grawerowanego podluznego pudelka",
-        "grawerowanemu podluznemu pudelku",
-        "grawerowanym podluznym pudelkiem",
-        "grawerowanym podluznym pudelku"
+        "zamkniete grawerowane podluzne pudelko",
+        "zamkniete grawerowanego podluznego pudelka",
+        "zamkniete grawerowanemu podluznemu pudelku",
+        "zamkniete grawerowanym podluznym pudelkiem",
+        "zamkniete grawerowanym podluznym pudelku",
+        "otwarte grawerowane podluzne pudelko",
+        "otwarte grawerowanego podluznego pudelka",
+        "otwarte grawerowanemu podluznemu pudelku",
+        "otwarte grawerowanym podluznym pudelkiem",
+        "otwarte grawerowanym podluznym pudelku"
       ]
     },
     "gruba czarna opaska z kolcami": {
