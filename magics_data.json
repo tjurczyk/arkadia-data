@@ -314,15 +314,15 @@
       ],
       "regexps": [
         "zamkniete grawerowane podluzne pudelko",
-        "zamkniete grawerowanego podluznego pudelka",
-        "zamkniete grawerowanemu podluznemu pudelku",
-        "zamkniete grawerowanym podluznym pudelkiem",
-        "zamkniete grawerowanym podluznym pudelku",
+        "zamknietego grawerowanego podluznego pudelka",
+        "zamknietemu grawerowanemu podluznemu pudelku",
+        "zamknietym grawerowanym podluznym pudelkiem",
+        "zamknietym grawerowanym podluznym pudelku",
         "otwarte grawerowane podluzne pudelko",
-        "otwarte grawerowanego podluznego pudelka",
-        "otwarte grawerowanemu podluznemu pudelku",
-        "otwarte grawerowanym podluznym pudelkiem",
-        "otwarte grawerowanym podluznym pudelku"
+        "otwartego grawerowanego podluznego pudelka",
+        "otwartemu grawerowanemu podluznemu pudelku",
+        "otwartym grawerowanym podluznym pudelkiem",
+        "otwartym grawerowanym podluznym pudelku"
       ]
     },
     "gruba czarna opaska z kolcami": {
@@ -940,12 +940,21 @@
         "pojemnik"
       ],
       "regexps": [
-        "smocza szkatulka",
-        "smocza szkatulke",
-        "smocze szkatulki",
-        "smoczej szkatulce",
-        "smoczej szkatulki",
-        "smoczych szkatulkach"
+        "zamknieta smocza szkatulka",
+        "zamknietej smoczej szkatulki",
+        "zamknietej smoczej szkatulce",
+        "zamknieta smocza szkatulke",
+        "zamknieta smocza szkatulka",
+        "zamknietej smoczej szkatulce",
+        "zamkniete smocze szkatulki",
+        "zamknietych smoczych szkatulkach",
+        "otwarta smocza szkatulka",
+        "otwarta smocza szkatulke",
+        "otwarte smocze szkatulki",
+        "otwartej smoczej szkatulce",
+        "otwartej smoczej szkatulki",
+        "otwartych smoczych szkatulkach",
+        "otwarta smocza szkatulka"
       ]
     },
     "smukly demoniczny miecz": {
