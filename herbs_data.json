@@ -2236,7 +2236,7 @@
         "effect": "<medium_turquoise>+mana<grey>"
       },
       {
-        "action": "polnij",
+        "action": "polknij",
         "effect": "odtr"
       }
     ],
