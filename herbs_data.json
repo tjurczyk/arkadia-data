@@ -2012,8 +2012,7 @@
     "rosiczka": [
       {
         "action": "polknij",
-        "effect": "--",
-        "dont_bind": true
+        "effect": "-kac"
       }
     ],
     "roza_ogrodowa": [
