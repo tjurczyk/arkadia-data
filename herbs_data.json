@@ -1166,7 +1166,7 @@
     "aralia": [
       {
         "action": "zjedz",
-        "effect": "+odp <olive_drab>-zmc <grey> +kac"
+        "effect": "+odp <olive_drab>-zmc<grey> +kac"
       },
       {
         "action": "przezuj",
@@ -1314,7 +1314,7 @@
     "bylica_pospolita": [
       {
         "action": "przyloz",
-        "effect": "<olive_drab>-zmc <grey>"
+        "effect": "<olive_drab>-zmc<grey>"
       },
       {
         "action": "zjedz",
@@ -1386,7 +1386,7 @@
     "deliona": [
       {
         "action": "zjedz",
-        "effect": "<olive_drab>-zmc <grey>"
+        "effect": "<olive_drab>-zmc<grey>"
       }
     ],
     "deren": [
@@ -1516,7 +1516,7 @@
     "kasztanowiec": [
       {
         "action": "przyloz",
-        "effect": "<olive_drab>-zmc <grey>"
+        "effect": "<olive_drab>-zmc<grey>"
       },
       {
         "action": "zjedz",
@@ -1545,7 +1545,7 @@
     "komosa": [
       {
         "action": "zjedz",
-        "effect": "<olive_drab>-zmc <grey>"
+        "effect": "<olive_drab>-zmc<grey>"
       },
       {
         "action": "przezuj",
