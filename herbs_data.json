@@ -2113,8 +2113,8 @@
     ],
     "szalwia": [
       {
-        "action": "przyloz",
-        "effect": "<LimeGreen>+kon<grey> +zmc"
+        "action": "zjedz",
+        "effect": "<medium_turquoise>+mana<grey>"
       }
     ],
     "szczaw": [
