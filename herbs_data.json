@@ -1815,7 +1815,7 @@
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey>"
+        "effect": "<olive_drab>-zmc<grey> odtr"
       },
       {
         "action": "rozgryz",
