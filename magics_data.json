@@ -1380,6 +1380,19 @@
                 "wiedzminskimi medalionami w ksztalcie glowy kota",
                 "wiedzminskich medalionach w ksztalcie glowy kota"
             ]
+        },
+        "srebrne zdobione puzderko puzderko": {
+        "type": [
+            "naszyjnik"
+        ],
+        "regexps": [
+            "srebrne zdobione puzderko",
+            "srebrnego zdobionego puzderka",
+            "srebrnemu zdobionemu puzderku",
+            "srebrnym zdobionym puzderkiem",
+            "srebrnym zdobionym puzderku",
+            "srebrne zdobione puzderka"
+            ]
         }
     }
 }
