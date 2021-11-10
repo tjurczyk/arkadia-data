@@ -1422,8 +1422,7 @@
     "glog": [
       {
         "action": "przezuj",
-        "effect": "--",
-        "dont_bind": true
+        "effect": "<LimeGreen>+hp<reset>"
       },
       {
         "action": "zjedz",
@@ -1489,7 +1488,7 @@
     "jemiola": [
       {
         "action": "zjedz",
-        "effect": "+odp"
+        "effect": "+odp na czysta magie"
       }
     ],
     "jezyna": [
@@ -1681,7 +1680,7 @@
     "mak_lekarski": [
       {
         "action": "powachaj",
-        "effect": "tr +odp"
+        "effect": "tr +odp magia smierci"
       },
       {
         "action": "zjedz",
@@ -1751,7 +1750,7 @@
       },
       {
         "action": "rozetrzyj",
-        "effect": "--",
+        "effect": "<LimeGreen>+kon<grey>",
         "don_bind": true
       },
       {
@@ -2276,7 +2275,7 @@
     "ususzony_przelot": [
       {
         "action": "sproszkuj",
-        "effect": "???"
+        "effect": "<LimeGreen>+kon<grey>"
       }
     ],
     "ususzony_ranog": [
