@@ -1188,7 +1188,7 @@
     "bagno": [
       {
         "action": "zjedz",
-        "effect": "odtr?"
+        "effect": "+odp"
       },
       {
         "action": "przyloz",
