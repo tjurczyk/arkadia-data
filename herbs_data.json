@@ -1548,8 +1548,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "--",
-        "dont_bind": true
+        "effect": "<LimeGreen>+hp<reset>"
       }
     ],
     "konopie": [
