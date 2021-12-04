@@ -1393,6 +1393,19 @@
             "srebrnym zdobionym puzderku",
             "srebrne zdobione puzderka"
             ]
+        },
+        "dluga ciemna laska": {
+            "type": [
+                "dwureczna bron drzewcowa"
+            ],
+            "regexps": [
+                "dlugie ciemne laski",
+                "dluga ciemna laske",
+                "dlugiej ciemnej laski",
+                "dluga ciemna laska",
+                "dluga ciemna laska",
+                "dlugiej ciemnej lasce"
+            ]
         }
     }
 }
