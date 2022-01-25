@@ -1381,6 +1381,25 @@
                 "wiedzminskich medalionach w ksztalcie glowy kota"
             ]
         },
+        "wiedzminski medalion w ksztalcie glowy wilka": {
+            "type": [
+                "naszyjnik"
+            ],
+            "regexps": [
+                "wiedzminski medalion w ksztalcie glowy wilka",
+                "wiedzminskiego medalionu w ksztalcie glowy wilka",
+                "wiedzminskiemu medalionowi w ksztalcie glowy wilka",
+                "wiedzminski medalion w ksztalcie glowy wilka",
+                "wiedzminskim medalionem w ksztalcie glowy wilka",
+                "wiedzminskim medalionie w ksztalcie glowy wilka",
+                "wiedzminskie medaliony w ksztalcie glowy wilka",
+                "wiedzminskich medalionow w ksztalcie glowy wilka",
+                "wiedzminskim medalionom w ksztalcie glowy wilka",
+                "wiedzminskie medaliony w ksztalcie glowy wilka",
+                "wiedzminskimi medalionami w ksztalcie glowy wilka",
+                "wiedzminskich medalionach w ksztalcie wilka"
+            ]
+        },
         "srebrne zdobione puzderko puzderko": {
         "type": [
             "inne"
