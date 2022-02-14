@@ -1537,8 +1537,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "<tomato>+glod<grey>",
-        "dont_bind": true
+        "effect": "-kac"
       }
     ],
     "komosa": [
