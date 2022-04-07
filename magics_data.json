@@ -1401,10 +1401,10 @@
             ]
         },
         "srebrne zdobione puzderko puzderko": {
-        "type": [
-            "inne"
-        ],
-        "regexps": [
+            "type": [
+                "inne"
+            ],
+            "regexps": [
             "srebrne zdobione puzderko",
             "srebrnego zdobionego puzderka",
             "srebrnemu zdobionemu puzderku",
@@ -1424,6 +1424,19 @@
                 "dluga ciemna laska",
                 "dluga ciemna laska",
                 "dlugiej ciemnej lasce"
+            ]
+        },
+        "krolewskie ulaskawienie": {
+            "type" :[
+                "inne"
+            ],
+            "regexps":[
+                "krolewskie ulaskawienie",
+                "krolewskiego ulaskawienia",
+                "krolewskiemu ulaskawieniu",
+                "krolewskim ulaskawieniem",
+                "krolewskim ulaskawieniu",
+                "krolewskie ulaskawienia"
             ]
         }
     }
