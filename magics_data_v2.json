@@ -1426,6 +1426,20 @@
                 "dlugiej ciemnej lasce"
             ]
         },
+        "plytkowy runiczny pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+			"plytkowe runiczne pancerze",
+			"plytkowy runiczny pancerz",
+			"plytkowego runicznego pancerza",
+			"plytkowemu runicznemu pancerzowi",
+			"plytkowy runiczny pancerz",
+			"plytkowym runicznym pancerzem",
+			"plytkowym runicznym pancerzu"
+            ]
+        },
         "krolewskie ulaskawienie": {
             "type" :[
                 "inne"
