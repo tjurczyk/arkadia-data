@@ -1435,9 +1435,51 @@
 			"plytkowy runiczny pancerz",
 			"plytkowego runicznego pancerza",
 			"plytkowemu runicznemu pancerzowi",
-			"plytkowy runiczny pancerz",
 			"plytkowym runicznym pancerzem",
 			"plytkowym runicznym pancerzu"
+            ]
+        },
+	"plytkowy iskrzacy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+			"plytkowe iskrzace pancerze",
+			"plytkowy iskrzacy pancerz",
+			"plytkowego iskrzacego pancerza",
+			"plytkowemu iskrzacemu pancerzowi",
+			"plytkowym iskrzacym pancerzem",
+			"plytkowym iskrzacym pancerzu"
+            ]
+        },
+	"plytkowy roziskrzony pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+			"plytkowe roziskrzone pancerze",
+			"plytkowy roziskrzony pancerz",
+			"plytkowego roziskrzonego pancerza",
+			"plytkowemu roziskrzonemu pancerzowi",
+			"plytkowym roziskrzonym pancerzem",
+			"plytkowym roziskrzonym pancerzu"
+            ]
+        },
+	"podluzna zdobiona skrzynka": {
+            "type": [
+                "pojemnik"
+            ],
+            "regexps": [
+                "zamknieta podluzna zdobiona skrzynka",
+                "zamknietej podluznej zdobionej skrzynki",
+                "zamknietej podluznej zdobionej skrzynce",
+                "zamknieta podluzna zdobiona skrzynke",
+		"zamknietej podluznej zdobionej skrzynce",
+                "otwarta podluzna zdobiona skrzynka",
+                "otwartej podluznej zdobionej skrzynki",
+                "otwartej podluznej zdobionej skrzynce",
+		"otwarta podluzna zdobiona skrzynke",
+                "otwartej podluznej zdobionej skrzynce"
             ]
         },
         "krolewskie ulaskawienie": {
