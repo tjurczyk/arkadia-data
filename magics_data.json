@@ -512,8 +512,8 @@
             ],
 	    "regexps": [
                 "masywna kanciasta para nareczakow",
-		"masywna kanciasta pare nareczakow",
-                "masywne kanciaste pary nareczakow",
+		        "masywna kanciasta pare nareczakow",
+                "masywne kanciaste pary nareczakow"
             ]
 	},
         "masywny amulet z czarnym opalem": {
