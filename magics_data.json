@@ -506,6 +506,16 @@
                 "lsniacym krysztalowyn wisiorze"
             ]
         },
+	"masywna kanciasta para nareczakow": {
+	    "type": [
+                "ciezka zbroja"
+            ],
+	    "regexps": [
+                "masywna kanciasta para nareczakow",
+		"masywna kanciasta pare nareczakow",
+                "masywne kanciaste pary nareczakow",
+            ]
+	},
         "masywny amulet z czarnym opalem": {
             "type": [
                 "naszyjnik"
