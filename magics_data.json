@@ -410,6 +410,18 @@
                 "kruczoczarnym misternym mieczu"
             ]
         },
+ "krysztalowa gryfia lampa": {
+            "type": [
+                "lampa"
+            ],
+            "regexps": [
+                "krysztalowe gryfie lampy",
+                "krysztalowej gryfiej lampy",
+                "krysztalowa gryfia lampa",
+                "krysztalowa gryfia lampa",
+                "krysztalowej gryfiej lampie"
+            ]
+        },
         "krysztalowy swietlisty korbacz": {
             "type": [
                 "jednoreczna maczuga",
