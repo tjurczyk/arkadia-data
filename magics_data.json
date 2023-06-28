@@ -412,12 +412,12 @@
         },
  "krysztalowa gryfia lampa": {
             "type": [
-                "lampa"
+                "inne"
             ],
             "regexps": [
                 "krysztalowe gryfie lampy",
                 "krysztalowej gryfiej lampy",
-                "krysztalowa gryfia lampa",
+                "krysztalowa gryfia lampe",
                 "krysztalowa gryfia lampa",
                 "krysztalowej gryfiej lampie"
             ]
