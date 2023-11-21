@@ -1487,6 +1487,19 @@
 			"plytkowym roziskrzonym pancerzu"
             ]
         },
+	"kruczoczarny ornamentowy napiersnik": {
+            "type": [
+                "ciezka zbroja"
+            ],
+            "regexps": [
+			"kruczoczarne ornamentowe napiersniki",
+			"kruczoczarny ornamentowy napiersnik",
+			"kruczoczarnego ornamentowego napiersnika",
+			"kruczoczarnemu ornamentowemu napiersniku",
+			"kruczoczarnym ornamentowym napiersnikiem",
+			"kruczoczarnym ornamentowym napiersniku"
+            ]
+        },
 	"podluzna zdobiona skrzynka": {
             "type": [
                 "pojemnik"
