@@ -284,6 +284,16 @@
                 "foremnym iskrzacym mlotem"
             ]
         },
+	"garsc lepkiego mlecznobialego pylu": {
+            "type": [
+                "pyl"
+            ],
+            "regexps": [
+                "garsc lepkiego mlecznobialego pylu",
+                "garsci lepkiego mlecznobialego pylu",
+		"garscie lepkiego mlecznobialego pylu"
+            ]
+        },
         "gigantyczny granitowy mlot": {
             "type": [
                 "dwureczny mlot"
