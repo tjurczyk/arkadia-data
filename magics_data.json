@@ -221,6 +221,18 @@
                 "czerwonych skrzydlatych parach nareczakow"
             ]
         },
+        "czerwonozloty rozjarzony kaftan": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+                "czerwonozlote rozjarzone kaftany",
+                "czerwonozlotego rozjarzonego kaftana",
+                "czerwonozloty rozjarzony kaftan",
+                "czerwonozlotym rozjarzonym kaftanem",
+                "czerwonozlotym rozjarzonym kaftanie"
+            ]
+        },
         "dluga czarna szata": {
             "type": [
                 "plaszcz"
@@ -528,6 +540,18 @@
                 "lsniacym krysztalowyn wisiorze"
             ]
         },
+	 "luskowy czerwonawy kaftan": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+                "luskowe czerwonawe kaftany",
+                "luskowego czerwonawego kaftana",
+                "luskowy czerwonawy kaftan",
+                "luskowym czerwonawym kaftanem",
+                "luskowym czerwonawym kaftanie"
+            ]
+        },
 	"masywna kanciasta para nareczakow": {
 	    "type": [
                 "ciezka zbroja"
@@ -707,6 +731,18 @@
                 "niezwykly kosciany topor",
                 "niezwyklym koscianym toporem",
                 "niezwyklym koscianym toporze"
+            ]
+        },  
+	 "obkurczony zasniedzialy kaftan": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+                "obkurczone zasniedziale kaftany",
+                "obkurczonego zasniedzialego kaftana",
+                "obkurczony zasniedzialy kaftan",
+                "obkurczonym zasniedzialym kaftanem",
+                "obkurczonym zasniedzialym kaftanie"
             ]
         },
         "obosieczny gwiezdny topor": {
