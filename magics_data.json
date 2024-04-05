@@ -296,6 +296,19 @@
                 "foremnym iskrzacym mlotem"
             ]
         },
+
+	"gadzi polyskujacy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+                "gadzie polyskujace pancerze",
+                "gadziego polyskujacego pancerza",
+		"gadzi polyskujacy pancerz",
+		"gadzim polyskujacym pancerzem",
+		"gadzim polyskujacym pancerzu"
+            ]
+        },
 	"garsc lepkiego mlecznobialego pylu": {
             "type": [
                 "pyl"
@@ -442,6 +455,18 @@
                 "krysztalowa gryfia lampe",
                 "krysztalowa gryfia lampa",
                 "krysztalowej gryfiej lampie"
+            ]
+        },
+	     "krysztalowa karafka": {
+            "type": [
+                "inne"
+            ],
+            "regexps": [
+                "krysztalowe karafki",
+                "krysztalowej karafki",
+                "krysztalowa karafke",
+                "krysztalowa karafka",
+                "krysztalowej karafce"
             ]
         },
         "krysztalowy swietlisty korbacz": {
@@ -1001,6 +1026,18 @@
                 "rezonujacy krysztalowy mlot",
                 "rezonujacym krysztalowym mlocie",
                 "rezonujacym krysztalowym mlotem"
+            ]
+        },
+	"smocza luska": {
+            "type": [
+                "inne"
+            ],
+            "regexps": [
+                "smocze luski",
+                "smoczej luski",
+                "smocza luske",
+                "smocza luska",
+                "smoczej lusce"
             ]
         },
         "smocza szkatulka": {
