@@ -444,6 +444,18 @@
                 "krysztalowej gryfiej lampie"
             ]
         },
+	     "krysztalowa karafka": {
+            "type": [
+                "inne"
+            ],
+            "regexps": [
+                "krysztalowe karafki",
+                "krysztalowej karafki",
+                "krysztalowa karafke",
+                "krysztalowa karafka",
+                "krysztalowej karafce"
+            ]
+        },
         "krysztalowy swietlisty korbacz": {
             "type": [
                 "jednoreczna maczuga",
