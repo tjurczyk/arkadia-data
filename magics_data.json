@@ -297,26 +297,27 @@
             ]
         },
 
-	"gadzi polyskujacy pancerz": {
+        "gadzi polyskujacy pancerz": {
             "type": [
                 "srednia zbroja"
             ],
             "regexps": [
+                "luskowata faktura zbroi wykonanej ze skory hydry",
                 "gadzie polyskujace pancerze",
                 "gadziego polyskujacego pancerza",
-		"gadzi polyskujacy pancerz",
-		"gadzim polyskujacym pancerzem",
-		"gadzim polyskujacym pancerzu"
+                "gadzi polyskujacy pancerz",
+                "gadzim polyskujacym pancerzem",
+                "gadzim polyskujacym pancerzu"
             ]
         },
-	"garsc lepkiego mlecznobialego pylu": {
+        "garsc lepkiego mlecznobialego pylu": {
             "type": [
                 "pyl"
             ],
             "regexps": [
                 "garsc lepkiego mlecznobialego pylu",
                 "garsci lepkiego mlecznobialego pylu",
-		"garscie lepkiego mlecznobialego pylu"
+                "garscie lepkiego mlecznobialego pylu"
             ]
         },
         "gigantyczny granitowy mlot": {
