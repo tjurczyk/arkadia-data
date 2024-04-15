@@ -1,0 +1,200 @@
+{
+  "books": {
+    "ciezka czerwona ksiega": {
+      "mianownik": "ciezka czerwona ksiega",
+      "dopelniacz": "ciezkiej czerwonej ksiegi",
+      "biernik": "ciezka czerwona ksiege"
+    },
+    "ciezka solidna ksiega": {
+      "mianownik": "ciezka solidna ksiega",
+      "dopelniacz": "ciezkiej solidnej ksiegi",
+      "biernik": "ciezka solidna ksiege"
+    },
+    "czarna gruba ksiega": {
+      "mianownik": "czarna gruba ksiega",
+      "dopelniacz": "czarnej grubej ksiegi",
+      "biernik": "czarna gruba ksiege"
+    },
+    "czarne nadgryzione tomiszcze": {
+      "mianownik": "czarne nadgryzione tomiszcze",
+      "dopelniacz": "czarnego nadgryzionego tomiszcza",
+      "biernik": "czarne nadgryzione tomiszcze"
+    },
+    "ekstrawagancka pomaranczowa ksiazka": {
+      "mianownik": "ekstrawagancka pomaranczowa ksiazka",
+      "dopelniacz": "ekstrawaganckiej pomaranczowej ksiazki",
+      "biernik": "ekstrawagancka pomaranczowa ksiazke"
+    },
+    "elegancka kieszonkowa ksiazeczka": {
+      "mianownik": "elegancka kieszonkowa ksiazeczka",
+      "dopelniacz": "eleganckiej kieszonkowej ksiazeczki",
+      "biernik": "elegancka kieszonkowa ksiazeczke"
+    },
+    "ilustrowana opasla ksiega": {
+      "mianownik": "ilustrowana opasla ksiega",
+      "dopelniacz": "ilustrowanej opaslej ksiegi",
+      "biernik": "ilustrowana opasla ksiege"
+    },
+    "kamienna ciezka ksiega": {
+      "mianownik": "kamienna ciezka ksiega",
+      "dopelniacz": "kamiennej ciezkiej ksiegi",
+      "biernik": "kamienna ciezka ksiege"
+    },
+    "miekka nieduza ksiazka": {
+      "mianownik": "miekka nieduza ksiazka",
+      "dopelniacz": "miekkiej nieduzej ksiazki",
+      "biernik": "miekka nieduza ksiazke"
+    },
+    "niewielka czarna ksiazeczka": {
+      "mianownik": "niewielka czarna ksiazeczka",
+      "dopelniacz": "niewielkiej czarnej ksiazeczki",
+      "biernik": "niewielka czarna ksiazeczke"
+    },
+    "opasle szarawe tomiszcze": {
+      "mianownik": "opasle szarawe tomiszcze",
+      "dopelniacz": "opaslego szarawego tomiszcza",
+      "biernik": "opasle szarawe tomiszcze"
+    },
+    "plomienista opasla ksiega": {
+      "mianownik": "plomienista opasla ksiega",
+      "dopelniacz": "plomienistej opaslej ksiegi",
+      "biernik": "plomienista opasla ksiege"
+    },
+    "podniszczony gruby dziennik": {
+      "mianownik": "podniszczony gruby dziennik",
+      "dopelniacz": "podniszczonego grubego dziennika",
+      "biernik": "podniszczony gruby dziennik"
+    },
+    "popielata tloczona ksiega": {
+      "mianownik": "popielata tloczona ksiega",
+      "dopelniacz": "popielatej tloczonej ksiegi",
+      "biernik": "popielata tloczona ksiege"
+    },
+    "poplamiona sfatygowana ksiega": {
+      "mianownik": "poplamiona sfatygowana ksiega",
+      "dopelniacz": "poplamionej sfatygowanej ksiegi",
+      "biernik": "poplamiona sfatygowana ksiege"
+    },
+    "poplamiona wysuszona ksiega": {
+      "mianownik": "poplamiona wysuszona ksiega",
+      "dopelniacz": "poplamionej wysuszonej ksiegi",
+      "biernik": "poplamiona wysuszona ksiege"
+    },
+    "pozolkla powyginana ksiega": {
+      "mianownik": "pozolkla powyginana ksiega",
+      "dopelniacz": "pozolklej powyginanej ksiegi",
+      "biernik": "pozolkla powyginana ksiege"
+    },
+    "runiczna kosciana ksiega": {
+      "mianownik": "runiczna kosciana ksiega",
+      "dopelniacz": "runicznej koscianej ksiegi",
+      "biernik": "runiczna kosciana ksiege"
+    },
+    "spieta opasla teka": {
+      "mianownik": "spieta opasla teka",
+      "dopelniacz": "spietej opaslej teki",
+      "biernik": "spieta opasla teke"
+    },
+    "srebrna luskowata ksiega": {
+      "mianownik": "srebrna luskowata ksiega",
+      "dopelniacz": "srebrnej luskowatej ksiegi",
+      "biernik": "srebrna luskowata ksiege"
+    },
+    "srebrnoniebieski zdobiony folial": {
+      "mianownik": "srebrnoniebieski zdobiony folial",
+      "dopelniacz": "srebrnoniebieskiego zdobionego folialu",
+      "biernik": "srebrnoniebieski zdobiony folial"
+    },
+    "tega okuta ksiega": {
+      "mianownik": "tega okuta ksiega",
+      "dopelniacz": "tegiej okutej ksiegi",
+      "biernik": "tega okuta ksiege"
+    },
+    "twarda jednobarwna ksiega": {
+      "mianownik": "twarda jednobarwna ksiega",
+      "dopelniacz": "twardej jednobarwnej ksiegi",
+      "biernik": "twarda jednobarwna ksiege"
+    },
+    "wielka opasla ksiega": {
+      "mianownik": "wielka opasla ksiega",
+      "dopelniacz": "wielkiej opaslej ksiegi",
+      "biernik": "wielka opasla ksiege"
+    },
+    "wysluzona bordowa ksiega": {
+      "mianownik": "wysluzona bordowa ksiega",
+      "dopelniacz": "wysluzonej bordowej ksiegi",
+      "biernik": "wysluzona bordowa ksiege"
+    },
+    "zatechly przybrudzony rekopis": {
+      "mianownik": "zatechly przybrudzony rekopis",
+      "dopelniacz": "zatechlego przybrudzonego rekopisu",
+      "biernik": "zatechly przybrudzony rekopis"
+    },
+    "zdobiona oprawna ksiega": {
+      "mianownik": "zdobiona oprawna ksiega",
+      "dopelniacz": "zdobionej oprawnej ksiegi",
+      "biernik": "zdobiona oprawna ksiege"
+    },
+    "chudy skorzany notatnik": {
+      "mianownik": "chudy skorzany notatnik",
+      "dopelniacz": "chudego skorzanego notatnika",
+      "biernik": "chudy skorzany notatnik"
+    },
+    "czarna podniszczona ksiega": {
+      "mianownik": "czarna podniszczona ksiega",
+      "dopelniacz": "czarnej podniszczonej ksiegi",
+      "biernik": "czarna podniszczona ksiege"
+    },
+    "czarna zdobiona ksiega": {
+      "mianownik": "czarna zdobiona ksiega",
+      "dopelniacz": "czarnej zdobionej ksiegi",
+      "biernik": "czarna zdobiona ksiege"
+    },
+    "gruba ksiega": {
+      "mianownik": "gruba ksiega",
+      "dopelniacz": "grubej ksiegi",
+      "biernik": "gruba ksiege"
+    },
+    "gruba obita ksiega": {
+      "mianownik": "gruba obita ksiega",
+      "dopelniacz": "grubej obitej ksiegi",
+      "biernik": "gruba obita ksiege"
+    },
+    "nieduzy zawilgly notatnik": {
+      "mianownik": "nieduzy zawilgly notatnik",
+      "dopelniacz": "nieduzego zawilglego notatnika",
+      "biernik": "nieduzy zawilgly notatnik"
+    },
+    "niewielka pachnaca ksiega": {
+      "mianownik": "niewielka pachnaca ksiega",
+      "dopelniacz": "niewielkiej pachnacej ksiegi",
+      "biernik": "niewielka pachnaca ksiege"
+    },
+    "pek koralowych tabliczek": {
+      "mianownik": "pek koralowych tabliczek",
+      "dopelniacz": "peku koralowych tabliczek",
+      "biernik": "pek koralowych tabliczek"
+    },
+    "skorzana makabryczna ksiega": {
+      "mianownik": "skorzana makabryczna ksiega",
+      "dopelniacz": "skorzanej makabrycznej ksiegi",
+      "biernik": "skorzana makabryczna ksiege"
+    },
+    "pogryziona brazowa ksiega": {
+      "mianownik": "pogryziona brazowa ksiega",
+      "dopelniacz": "pogryzionej brazowej ksiegi",
+      "biernik": "pogryziona brazowa ksiege"
+    },
+    "pozlacana ciezka ksiega": {
+      "mianownik": "pozlacana ciezka ksiega",
+      "dopelniacz": "pozlacanej ciezkiej ksiegi",
+      "biernik": "pozlacana ciezka ksiege"
+    },
+    "wyswiechtana gruba ksiazka": {
+      "mianownik": "wyswiechtana gruba ksiazka",
+      "dopelniacz": "wyswiechtanej grubej ksiazki",
+      "biernik": "wyswiechtana gruba ksiazke"
+    }
+  },
+  "version": 1
+}
