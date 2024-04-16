@@ -3,207 +3,335 @@
     "chudy skorzany notatnik": {
       "mianownik": "chudy skorzany notatnik",
       "dopelniacz": "chudego skorzanego notatnika",
-      "biernik": "chudy skorzany notatnik"
+      "biernik": "chudy skorzany notatnik",
+      "categories": [
+        "pajaki i pajakowate"
+      ]
     },
     "ciezka czerwona ksiega": {
       "mianownik": "ciezka czerwona ksiega",
       "dopelniacz": "ciezkiej czerwonej ksiegi",
-      "biernik": "ciezka czerwona ksiege"
+      "biernik": "ciezka czerwona ksiege",
+      "categories": [
+        "wampiry"
+      ]
     },
     "ciezka solidna ksiega": {
       "mianownik": "ciezka solidna ksiega",
       "dopelniacz": "ciezkiej solidnej ksiegi",
-      "biernik": "ciezka solidna ksiege"
+      "biernik": "ciezka solidna ksiege",
+      "categories": [
+        "stwory pokoniunkcyjne"
+      ]
     },
     "czarna gruba ksiega": {
       "mianownik": "czarna gruba ksiega",
       "dopelniacz": "czarnej grubej ksiegi",
-      "biernik": "czarna gruba ksiege"
+      "biernik": "czarna gruba ksiege",
+      "categories": [
+        "chaos i jego twory",
+        "istoty demoniczne"
+      ]
     },
     "czarna podniszczona ksiega": {
       "mianownik": "czarna podniszczona ksiega",
       "dopelniacz": "czarnej podniszczonej ksiegi",
-      "biernik": "czarna podniszczona ksiege"
+      "biernik": "czarna podniszczona ksiege",
+      "categories": [
+        "chaos i jego twory"
+      ]
     },
     "czarna zdobiona ksiega": {
       "mianownik": "czarna zdobiona ksiega",
       "dopelniacz": "czarnej zdobionej ksiegi",
-      "biernik": "czarna zdobiona ksiege"
+      "biernik": "czarna zdobiona ksiege",
+      "categories": [
+        "istoty demoniczne"
+      ]
     },
     "czarne nadgryzione tomiszcze": {
       "mianownik": "czarne nadgryzione tomiszcze",
       "dopelniacz": "czarnego nadgryzionego tomiszcza",
-      "biernik": "czarne nadgryzione tomiszcze"
+      "biernik": "czarne nadgryzione tomiszcze",
+      "categories": [
+        "szczuroludzie"
+      ]
     },
     "ekstrawagancka pomaranczowa ksiazka": {
       "mianownik": "ekstrawagancka pomaranczowa ksiazka",
       "dopelniacz": "ekstrawaganckiej pomaranczowej ksiazki",
-      "biernik": "ekstrawagancka pomaranczowa ksiazke"
+      "biernik": "ekstrawagancka pomaranczowa ksiazke",
+      "categories": [
+        "wampiry"
+      ]
     },
     "elegancka kieszonkowa ksiazeczka": {
       "mianownik": "elegancka kieszonkowa ksiazeczka",
       "dopelniacz": "eleganckiej kieszonkowej ksiazeczki",
-      "biernik": "elegancka kieszonkowa ksiazeczke"
+      "biernik": "elegancka kieszonkowa ksiazeczke",
+      "categories": [
+        "magia i jej twory"
+      ]
     },
     "gruba ksiega": {
       "mianownik": "gruba ksiega",
       "dopelniacz": "grubej ksiegi",
-      "biernik": "gruba ksiege"
+      "biernik": "gruba ksiege",
+      "categories": [
+        "chaos i jego twory"
+      ]
     },
     "gruba obita ksiega": {
       "mianownik": "gruba obita ksiega",
       "dopelniacz": "grubej obitej ksiegi",
-      "biernik": "gruba obita ksiege"
+      "biernik": "gruba obita ksiege",
+      "categories": [
+        "nieumarli"
+      ]
     },
     "gruba podniszczona ksiega": {
       "mianownik": "gruba obita ksiega",
       "dopelniacz": "grubej podniszczonej ksiegi",
-      "biernik": "gruba podniszczona ksiege"
+      "biernik": "gruba podniszczona ksiege",
+      "categories": [
+        "nieumarli"
+      ]
     },
     "gruby powycierany notes": {
       "mianownik": "gruby powycierany notes",
       "dopelniacz": "grubego powycieranego notesa",
-      "biernik": "gruby powycierany notes"
+      "biernik": "gruby powycierany notes",
+      "categories": [
+        "magia i jej twory",
+        "nieumarli"
+      ]
     },
     "ilustrowana opasla ksiega": {
       "mianownik": "ilustrowana opasla ksiega",
       "dopelniacz": "ilustrowanej opaslej ksiegi",
-      "biernik": "ilustrowana opasla ksiege"
+      "biernik": "ilustrowana opasla ksiege",
+      "categories": [
+        "szczuroludzie"
+      ]
     },
     "kamienna ciezka ksiega": {
       "mianownik": "kamienna ciezka ksiega",
       "dopelniacz": "kamiennej ciezkiej ksiegi",
-      "biernik": "kamienna ciezka ksiege"
+      "biernik": "kamienna ciezka ksiege",
+      "categories": [
+        "golemy"
+      ]
     },
     "miekka nieduza ksiazka": {
       "mianownik": "miekka nieduza ksiazka",
       "dopelniacz": "miekkiej nieduzej ksiazki",
-      "biernik": "miekka nieduza ksiazke"
+      "biernik": "miekka nieduza ksiazke",
+      "categories": [
+        "szczuroludzie"
+      ]
     },
     "nieduzy zawilgly notatnik": {
       "mianownik": "nieduzy zawilgly notatnik",
       "dopelniacz": "nieduzego zawilglego notatnika",
-      "biernik": "nieduzy zawilgly notatnik"
+      "biernik": "nieduzy zawilgly notatnik",
+      "categories": [
+        "wampiry"
+      ]
     },
     "niewielka czarna ksiazeczka": {
       "mianownik": "niewielka czarna ksiazeczka",
       "dopelniacz": "niewielkiej czarnej ksiazeczki",
-      "biernik": "niewielka czarna ksiazeczke"
+      "biernik": "niewielka czarna ksiazeczke",
+      "categories": [
+        "smoki i smokowate"
+      ]
     },
     "niewielka pachnaca ksiega": {
       "mianownik": "niewielka pachnaca ksiega",
       "dopelniacz": "niewielkiej pachnacej ksiegi",
-      "biernik": "niewielka pachnaca ksiege"
+      "biernik": "niewielka pachnaca ksiege",
+      "categories": [
+        "chaos i jego twory"
+      ]
     },
     "opasle szarawe tomiszcze": {
       "mianownik": "opasle szarawe tomiszcze",
       "dopelniacz": "opaslego szarawego tomiszcza",
-      "biernik": "opasle szarawe tomiszcze"
+      "biernik": "opasle szarawe tomiszcze",
+      "categories": [
+        "ryboludzie",
+        "starsze rasy"
+      ]
     },
     "pek koralowych tabliczek": {
       "mianownik": "pek koralowych tabliczek",
       "dopelniacz": "peku koralowych tabliczek",
-      "biernik": "pek koralowych tabliczek"
+      "biernik": "pek koralowych tabliczek",
+      "categories": [
+        "ryboludzie"
+      ]
     },
     "plomienista opasla ksiega": {
       "mianownik": "plomienista opasla ksiega",
       "dopelniacz": "plomienistej opaslej ksiegi",
-      "biernik": "plomienista opasla ksiege"
+      "biernik": "plomienista opasla ksiege",
+      "categories": [
+        "magia i jej twory"
+      ]
     },
     "podniszczony gruby dziennik": {
       "mianownik": "podniszczony gruby dziennik",
       "dopelniacz": "podniszczonego grubego dziennika",
-      "biernik": "podniszczony gruby dziennik"
+      "biernik": "podniszczony gruby dziennik",
+      "categories": [
+        "jaszczuroludzie"
+      ]
     },
     "pogryziona brazowa ksiega": {
       "mianownik": "pogryziona brazowa ksiega",
       "dopelniacz": "pogryzionej brazowej ksiegi",
-      "biernik": "pogryziona brazowa ksiege"
+      "biernik": "pogryziona brazowa ksiege",
+      "categories": [
+        "goblinoidy"
+      ]
     },
     "popielata tloczona ksiega": {
       "mianownik": "popielata tloczona ksiega",
       "dopelniacz": "popielatej tloczonej ksiegi",
-      "biernik": "popielata tloczona ksiege"
+      "biernik": "popielata tloczona ksiege",
+      "categories": [
+        "goblinoidy"
+      ]
     },
     "poplamiona sfatygowana ksiega": {
       "mianownik": "poplamiona sfatygowana ksiega",
       "dopelniacz": "poplamionej sfatygowanej ksiegi",
-      "biernik": "poplamiona sfatygowana ksiege"
+      "biernik": "poplamiona sfatygowana ksiege",
+      "categories": [
+        "wampiry"
+      ]
     },
     "poplamiona wysuszona ksiega": {
       "mianownik": "poplamiona wysuszona ksiega",
       "dopelniacz": "poplamionej wysuszonej ksiegi",
-      "biernik": "poplamiona wysuszona ksiege"
+      "biernik": "poplamiona wysuszona ksiege",
+      "categories": [
+        "pajaki i pajakowate"
+      ]
     },
     "pozlacana ciezka ksiega": {
       "mianownik": "pozlacana ciezka ksiega",
       "dopelniacz": "pozlacanej ciezkiej ksiegi",
-      "biernik": "pozlacana ciezka ksiege"
+      "biernik": "pozlacana ciezka ksiege",
+      "categories": [
+        "smoki i smokowate"
+      ]
     },
     "pozolkla powyginana ksiega": {
       "mianownik": "pozolkla powyginana ksiega",
       "dopelniacz": "pozolklej powyginanej ksiegi",
-      "biernik": "pozolkla powyginana ksiege"
+      "biernik": "pozolkla powyginana ksiege",
+      "categories": [
+        "pajaki i pajakowate"
+      ]
     },
     "runiczna kosciana ksiega": {
       "mianownik": "runiczna kosciana ksiega",
       "dopelniacz": "runicznej koscianej ksiegi",
-      "biernik": "runiczna kosciana ksiege"
+      "biernik": "runiczna kosciana ksiege",
+      "categories": [
+        "nieumarli"
+      ]
     },
     "skorzana makabryczna ksiega": {
       "mianownik": "skorzana makabryczna ksiega",
       "dopelniacz": "skorzanej makabrycznej ksiegi",
-      "biernik": "skorzana makabryczna ksiege"
+      "biernik": "skorzana makabryczna ksiege",
+      "categories": [
+        "nieumarli"
+      ]
     },
     "spieta opasla teka": {
       "mianownik": "spieta opasla teka",
       "dopelniacz": "spietej opaslej teki",
-      "biernik": "spieta opasla teke"
+      "biernik": "spieta opasla teke",
+      "categories": [
+        "golemy"
+      ]
     },
     "srebrna luskowata ksiega": {
       "mianownik": "srebrna luskowata ksiega",
       "dopelniacz": "srebrnej luskowatej ksiegi",
-      "biernik": "srebrna luskowata ksiege"
+      "biernik": "srebrna luskowata ksiege",
+      "categories": [
+        "smoki i smokowate"
+      ]
     },
     "srebrnoniebieski zdobiony folial": {
       "mianownik": "srebrnoniebieski zdobiony folial",
       "dopelniacz": "srebrnoniebieskiego zdobionego folialu",
-      "biernik": "srebrnoniebieski zdobiony folial"
+      "biernik": "srebrnoniebieski zdobiony folial",
+      "categories": [
+        "ryboludzie"
+      ]
     },
     "tega okuta ksiega": {
       "mianownik": "tega okuta ksiega",
       "dopelniacz": "tegiej okutej ksiegi",
-      "biernik": "tega okuta ksiege"
+      "biernik": "tega okuta ksiege",
+      "categories": [
+        "istoty demoniczne"
+      ]
     },
     "twarda jednobarwna ksiega": {
       "mianownik": "twarda jednobarwna ksiega",
       "dopelniacz": "twardej jednobarwnej ksiegi",
-      "biernik": "twarda jednobarwna ksiege"
+      "biernik": "twarda jednobarwna ksiege",
+      "categories": [
+        "wampiry"
+      ]
     },
     "wielka opasla ksiega": {
       "mianownik": "wielka opasla ksiega",
       "dopelniacz": "wielkiej opaslej ksiegi",
-      "biernik": "wielka opasla ksiege"
+      "biernik": "wielka opasla ksiege",
+      "categories": [
+        "smoki i smokowate",
+        "stwory pokoniunkcyjne"
+      ]
     },
     "wysluzona bordowa ksiega": {
       "mianownik": "wysluzona bordowa ksiega",
       "dopelniacz": "wysluzonej bordowej ksiegi",
-      "biernik": "wysluzona bordowa ksiege"
+      "biernik": "wysluzona bordowa ksiege",
+      "categories": [
+        "chaos i jego twory"
+      ]
     },
     "wyswiechtana gruba ksiazka": {
       "mianownik": "wyswiechtana gruba ksiazka",
       "dopelniacz": "wyswiechtanej grubej ksiazki",
-      "biernik": "wyswiechtana gruba ksiazke"
+      "biernik": "wyswiechtana gruba ksiazke",
+      "categories": [
+        "golemy",
+        "magia i jej twory"
+      ]
     },
     "zatechly przybrudzony rekopis": {
       "mianownik": "zatechly przybrudzony rekopis",
       "dopelniacz": "zatechlego przybrudzonego rekopisu",
-      "biernik": "zatechly przybrudzony rekopis"
+      "biernik": "zatechly przybrudzony rekopis",
+      "categories": [
+        "nieumarli"
+      ]
     },
     "zdobiona oprawna ksiega": {
       "mianownik": "zdobiona oprawna ksiega",
       "dopelniacz": "zdobionej oprawnej ksiegi",
-      "biernik": "zdobiona oprawna ksiege"
+      "biernik": "zdobiona oprawna ksiege",
+      "categories": [
+        "starsze rasy"
+      ]
     }
   },
   "version": 1

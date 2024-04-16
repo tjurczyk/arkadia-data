@@ -28,7 +28,9 @@
           "type": "object",
           "required": [
             "mianownik",
-            "dopelniacz"
+            "dopelniacz",
+            "biernik",
+            "categories"
           ],
           "properties": {
             "mianownik": {
@@ -36,6 +38,16 @@
             },
             "dopelniacz": {
               "type": "string"
+            },
+            "biernik": {
+              "type": "string"
+            },
+            "categories": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "minItems": 1
             }
           }
         }
