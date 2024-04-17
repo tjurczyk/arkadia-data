@@ -334,5 +334,428 @@
       ]
     }
   },
+  "libraries": {
+    "i0cff23a66": {
+      "location_id": "i0cff23a66",
+      "categories": [
+        "goblinoidy",
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Oxenfurt Biologia"
+    },
+    "i1821892c7": {
+      "location_id": "i1821892c7",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Mahakam"
+    },
+    "i35e1c2202": {
+      "location_id": "i35e1c2202",
+      "categories": [
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "wampiry"
+      ],
+      "name": "Biblioteka Baron"
+    },
+    "iaf33ce725": {
+      "location_id": "iaf33ce725",
+      "categories": [
+        "goblinoidy",
+        "golemy",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Gnomy"
+    },
+    "i741a89985": {
+      "location_id": "i741a89985",
+      "categories": [
+        "golemy",
+        "magia i jej twory"
+      ],
+      "name": "Biblioteka Wynalazcy"
+    },
+    "id4c331c91": {
+      "location_id": "id4c331c91",
+      "categories": [
+        "goblinoidy",
+        "golemy",
+        "jaszczuroludzie",
+        "magia i jej twory",
+        "nieumarli",
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "szczuroludzie"
+      ],
+      "name": "Biblioteka Karak Varn"
+    },
+    "iea5593c2e": {
+      "location_id": "iea5593c2e",
+      "categories": [
+        "magia i jej twory",
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "starsze rasy"
+      ],
+      "name": "Druidzki krag"
+    },
+    "i5715906ea": {
+      "location_id": "i5715906ea",
+      "categories": [
+        "goblinoidy",
+        "istoty demoniczne",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne",
+        "wampiry"
+      ],
+      "name": "Biblioteka Demonolog"
+    },
+    "i631755263": {
+      "location_id": "i631755263",
+      "categories": [
+        "magia i jej twory",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Katedra"
+    },
+    "ief03da8ad": {
+      "location_id": "ief03da8ad",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Novigrad Plac"
+    },
+    "ic4481d1f1": {
+      "location_id": "ic4481d1f1",
+      "categories": [
+        "goblinoidy",
+        "istoty demoniczne",
+        "jaszczuroludzie",
+        "magia i jej twory",
+        "magia i jej twory",
+        "nieumarli",
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "szczuroludzie",
+        "wampiry"
+      ],
+      "name": "Biblioteka Athel Loren"
+    },
+    "ia6741cd51": {
+      "location_id": "ia6741cd51",
+      "categories": [
+        "starsze rasy"
+      ],
+      "name": "Biblioteka Tretogor"
+    },
+    "if07e8167f": {
+      "location_id": "if07e8167f",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Rinde"
+    },
+    "if386d1bd6": {
+      "location_id": "if386d1bd6",
+      "categories": [
+        "goblinoidy",
+        "jaszczuroludzie",
+        "magia i jej twory",
+        "nieumarli",
+        "szczuroludzie"
+      ],
+      "name": "Biblioteka Kultystow"
+    },
+    "i8fd9e5631": {
+      "location_id": "i8fd9e5631",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "smoki i smokowate",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Oxenfurt Biblioteka"
+    },
+    "i229b72226": {
+      "location_id": "i229b72226",
+      "categories": [
+        "goblinoidy",
+        "jaszczuroludzie",
+        "magia i jej twory",
+        "nieumarli",
+        "szczuroludzie"
+      ],
+      "name": "Biblioteka Nuln"
+    },
+    "ie64957f76": {
+      "location_id": "ie64957f76",
+      "categories": [
+        "goblinoidy",
+        "istoty demoniczne",
+        "magia i jej twory",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka dzin"
+    },
+    "ie836ec580": {
+      "location_id": "ie836ec580",
+      "categories": [
+        "golemy",
+        "magia i jej twory",
+        "starsze rasy"
+      ],
+      "name": "Obydianowa wieza"
+    },
+    "ia99bb5b82": {
+      "location_id": "ia99bb5b82",
+      "categories": [
+        "goblinoidy",
+        "golemy",
+        "istoty demoniczne",
+        "magia i jej twory",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne",
+        "wampiry"
+      ],
+      "name": "Wieza w Oxenfurt"
+    },
+    "i9a87a8e17": {
+      "location_id": "i9a87a8e17",
+      "categories": [
+        "magia i jej twory",
+        "stwory pokoniunkcyjne",
+        "szczuroludzie",
+        "wampiry"
+      ],
+      "name": "Biblioteka Gelibol"
+    },
+    "i9258243ef": {
+      "location_id": "i9258243ef",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Novigrad Zamek"
+    },
+    "i1ae76b491": {
+      "location_id": "i1ae76b491",
+      "categories": [
+        "goblinoidy",
+        "istoty demoniczne",
+        "magia i jej twory",
+        "nieumarli",
+        "ryboludzie",
+        "starsze rasy",
+        "stwory pokoniunkcyjne",
+        "wampiry"
+      ],
+      "name": "Oxenfurt Uniwerek"
+    },
+    "i824915abd": {
+      "location_id": "i824915abd",
+      "categories": [
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka cytadela"
+    },
+    "i84a35d406": {
+      "location_id": "i84a35d406",
+      "categories": [
+        "istoty demoniczne",
+        "magia i jej twory",
+        "nieumarli"
+      ],
+      "name": "Wieza kultu Khaina"
+    },
+    "ia6ed2740e": {
+      "location_id": "ia6ed2740e",
+      "categories": [
+        "golemy"
+      ],
+      "name": "Biblioteka Wynalazcy"
+    },
+    "if31ada7a8": {
+      "location_id": "if31ada7a8",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "smoki i smokowate",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Valkar'e"
+    },
+    "i5367234b9": {
+      "location_id": "i5367234b9",
+      "categories": [
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Shaerawedd"
+    },
+    "icd8bd46d1": {
+      "location_id": "icd8bd46d1",
+      "categories": [
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka astronom"
+    },
+    "ie413f85dc": {
+      "location_id": "ie413f85dc",
+      "categories": [
+        "smoki i smokowate"
+      ],
+      "name": "Kaplica Valkar'e"
+    },
+    "ice5126782": {
+      "location_id": "ice5126782",
+      "categories": [
+        "istoty demoniczne",
+        "ryboludzie",
+        "szczuroludzie",
+        "wampiry"
+      ],
+      "name": "Oxenfurt Magazyn"
+    },
+    "ib8d25b37c": {
+      "location_id": "ib8d25b37c",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "smoki i smokowate",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Mons Arx"
+    },
+    "i52776a3a9": {
+      "location_id": "i52776a3a9",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Craag Ros"
+    },
+    "id79ad5c54": {
+      "location_id": "id79ad5c54",
+      "categories": [
+        "golemy",
+        "magia i jej twory",
+        "szczuroludzie"
+      ],
+      "name": "Biblioteka blekitnokrwisci"
+    },
+    "ibe959286c": {
+      "location_id": "ibe959286c",
+      "categories": [
+        "goblinoidy",
+        "istoty demoniczne",
+        "jaszczuroludzie",
+        "magia i jej twory",
+        "magia i jej twory",
+        "nieumarli",
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "szczuroludzie"
+      ],
+      "name": "Biblioteka Vereny Nuln"
+    },
+    "ice1fb876d": {
+      "location_id": "ice1fb876d",
+      "categories": [
+        "golemy",
+        "magia i jej twory",
+        "smoki i smokowate",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka zywioly"
+    },
+    "i5b27e874b": {
+      "location_id": "i5b27e874b",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "ryboludzie",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Baccala"
+    },
+    "ie9a847a6d": {
+      "location_id": "ie9a847a6d",
+      "categories": [
+        "goblinoidy",
+        "istoty demoniczne",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka zywioly"
+    },
+    "i73bb0cc96": {
+      "location_id": "i73bb0cc96",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "pajaki i pajakowate",
+        "smoki i smokowate",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Maribor"
+    },
+    "i10ff41c52": {
+      "location_id": "i10ff41c52",
+      "categories": [
+        "goblinoidy",
+        "jaszczuroludzie",
+        "magia i jej twory",
+        "nieumarli",
+        "szczuroludzie"
+      ],
+      "name": "Biblioteka Campogrotta"
+    },
+    "iab3b93e88": {
+      "location_id": "iab3b93e88",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "pajaki i pajakowate",
+        "starsze rasy",
+        "stwory pokoniunkcyjne"
+      ],
+      "name": "Biblioteka Bodrog"
+    }
+  },
   "version": 1
 }
