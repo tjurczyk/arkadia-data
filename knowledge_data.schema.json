@@ -53,6 +53,37 @@
         }
       }
     },
+    "libraries": {
+      "default": {},
+      "required": [],
+      "title": "library details",
+      "additionalProperties": true,
+      "patternProperties": {
+        "^.*$": {
+          "type": "object",
+          "required": [
+            "location_id",
+            "categories",
+            "name"
+          ],
+          "properties": {
+            "location_id": {
+              "type": "string"
+            },
+            "categories": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "minItems": 1
+            },
+            "name": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
     "additionalProperties": true
   }
 }
