@@ -22,3 +22,8 @@ jobs:
         env:
           INPUT_SCHEMA: magic_keys.schema.json
           INPUT_JSONS: magic_keys.json
+      - name: Validate Knowledge JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: knowledge_data.schema.json
+          INPUT_JSONS: knowledge_data.json
