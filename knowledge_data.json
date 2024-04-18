@@ -335,6 +335,16 @@
     }
   },
   "libraries": {
+    "i01fe7c622": {
+      "location_id": "i01fe7c622",
+      "categories": [
+        "goblinoidy",
+        "nieumarli",
+        "starsze rasy",
+        "stwory pokoniunkcyjne",
+      ],
+      "name": "Bibilioteka Kaer Trolde"
+    },
     "i0cff23a66": {
       "location_id": "i0cff23a66",
       "categories": [
