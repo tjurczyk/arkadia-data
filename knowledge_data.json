@@ -515,7 +515,6 @@
         "chaos i jego twory",
         "goblinoidy",
         "jaszczuroludzie",
-        "magia i jej twory",
         "nieumarli",
         "szczuroludzie"
       ],
@@ -755,7 +754,6 @@
         "chaos i jego twory",
         "goblinoidy",
         "jaszczuroludzie",
-        "magia i jej twory",
         "nieumarli",
         "szczuroludzie"
       ],
@@ -771,6 +769,17 @@
         "stwory pokoniunkcyjne"
       ],
       "name": "Biblioteka Bodrog"
+    },
+    "ie003c3fba": {
+      "location_id": "ie003c3fba",
+      "categories": [
+        "chaos i jego twory",
+        "goblinoidy",
+        "jaszczuroludzie",
+        "nieumarli",
+        "szczuroludzie"
+      ],
+      "name": "Biblioteka Rodziny Alderazzi"
     }
   },
   "version": 1
