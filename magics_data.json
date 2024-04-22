@@ -320,6 +320,16 @@
                 "garscie lepkiego mlecznobialego pylu"
             ]
         },
+	"garsc wielobarwnego polyskliwego pylu": {
+            "type": [
+                "pyl"
+            ],
+            "regexps": [
+                "garsc wielobarwnego polyskliwego pylu",
+                "garsci wielobarwnego polyskliwego pylu",
+                "garscie wielobarwnego polyskliwego pylu"
+            ]
+        },
         "gigantyczny granitowy mlot": {
             "type": [
                 "dwureczny mlot"
