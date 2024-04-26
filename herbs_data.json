@@ -1422,7 +1422,7 @@
     "glog": [
       {
         "action": "przezuj",
-        "effect": "<LimeGreen>+hp<reset>"
+        "effect": "<LimeGreen>+kon<reset>"
       },
       {
         "action": "zjedz",
@@ -1547,7 +1547,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "<LimeGreen>+hp<reset>"
+        "effect": "<LimeGreen>+kon<reset>"
       }
     ],
     "konopie": [
