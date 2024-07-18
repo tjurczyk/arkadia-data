@@ -1624,6 +1624,19 @@
                 "krolewskim ulaskawieniu",
                 "krolewskie ulaskawienia"
             ]
+        },
+	"starozytny piecioboczny puklerz": {
+            "type": [
+                "tarcza"
+            ],
+            "regexps": [
+                "starozytny piecioboczny puklerz",
+                "starozytnego pieciobocznego puklerza",
+                "starozytnemu pieciobocznemu puklerzowi",
+                "starozytnym pieciobocznym puklerzem",
+                "starozytnym pieciobocznym puklerzu",
+                "starozytne piecioboczne puklerze"
+            ]
         }
     }
 }
