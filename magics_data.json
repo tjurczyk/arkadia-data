@@ -1612,6 +1612,21 @@
                 "otwartej podluznej zdobionej skrzynce"
             ]
         },
+	"mosiezna skrzynka z astrolabium": {
+            "type": [
+                "pojemnik"
+            ],
+            "regexps": [
+                "zamknieta mosiezna skrzynka z astrolabium",
+                "zamknietej mosieznej skrzynki z astrolabium",
+                "zamknietej mosieznej skrzynce z astrolabium",
+                "zamknieta mosiezna skrzynke z astrolabium",
+                "otwarta mosiezna skrzynka z astrolabium",
+                "otwartej mosieznej skrzynki z astrolabium",
+                "otwartej mosieznej skrzynce z astrolabium",
+		"otwarta mosiezna skrzynke z astrolabium"
+            ]
+        },
         "krolewskie ulaskawienie": {
             "type" :[
                 "inne"
