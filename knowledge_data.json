@@ -780,7 +780,20 @@
         "szczuroludzie"
       ],
       "name": "Biblioteka Rodziny Alderazzi"
-    }
+    },
+    "i3d7655fd3": {
+      "location_id": "i3d7655fd3",
+      "categories": [
+        "chaos i jego twory",
+        "goblinoidy",
+        "istoty demoniczne",
+        "nieumarli",
+        "smoki i smokowate",
+        "wampiry"
+      ],
+      "name": "Biblioteka w Palacu Parravon"
+    },
+    
   },
   "version": 1
 }
