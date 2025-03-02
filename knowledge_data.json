@@ -1,5 +1,13 @@
 {
   "books": {
+    "ceramiczna wypalona tabliczka": {  
+      "mianownik": "ceramiczna wypalona tabliczka",  
+      "dopelniacz": "ceramicznej wypalonej tabliczki",  
+      "biernik": "ceramiczna wypalona tabliczke",  
+      "categories": [  
+        "jaszczuroludzie"  
+      ]  
+    },
     "chudy skorzany notatnik": {
       "mianownik": "chudy skorzany notatnik",
       "dopelniacz": "chudego skorzanego notatnika",
