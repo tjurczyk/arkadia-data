@@ -1652,7 +1652,20 @@
                 "starozytnym pieciobocznym puklerzu",
                 "starozytne piecioboczne puklerze"
             ]
-        }
+        },
+	"dlugi mglisty poltorak": {
+            "type": [
+                "jednoreczny miecz",
+                "dwureczny miecz"
+            ],
+            "regexps": [
+                "dlugi mglisty poltorak",
+                "dlugiego mglistego poltoraka",
+                "dlugiemu mglistemu poltorakowi",
+                "dlugim mglistym poltorakiem",
+                "dlugie mgliste poltoraki"
+            ]
+        },
     }
 }
 
