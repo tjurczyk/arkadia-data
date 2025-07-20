@@ -283,6 +283,16 @@
         "ryboludzie"
       ]
     },
+    "stara zniszczona ksiega": {
+      "mianownik": "stara zniszczona ksiega",
+      "dopelniacz": "starej zniszczonej ksiegi",
+      "biernik": "stara zniszczona ksiege",
+      "categories": [
+        "istoty demoniczne",
+        "magia i jej twory",
+        "nieumarli"
+      ]
+    },
     "tega okuta ksiega": {
       "mianownik": "tega okuta ksiega",
       "dopelniacz": "tegiej okutej ksiegi",
