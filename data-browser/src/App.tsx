@@ -273,7 +273,12 @@ function HerbsBrowser() {
         )
       )
     ).entries()
-  ).sort((a, b) => a[0].localeCompare(b[0]));
+  ).sort(([a], [b]) => {
+    const order = (t: string) => (t.startsWith('+') ? 0 : t.startsWith('-') ? 1 : 2);
+    const oa = order(a);
+    const ob = order(b);
+    return oa === ob ? a.localeCompare(b) : oa - ob;
+  });
 
   const [selected, setSelected] = useState<Set<string>>(
     new Set(allEffects.map(([t]) => t))
