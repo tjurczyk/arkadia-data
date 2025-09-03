@@ -369,7 +369,12 @@ function HerbsBrowser() {
       <ul className="list-group">
         {herbs.map((id) => (
           <li key={id} className="list-group-item">
-            <strong>{data.herb_id_to_odmiana[id]?.mianownik || id}</strong>
+            <strong>{id}</strong>
+            {data.herb_id_to_odmiana[id]?.mianownik && (
+              <div className="text-muted small">
+                {data.herb_id_to_odmiana[id]?.mianownik}
+              </div>
+            )}
             <ul className="text-muted small mb-0">
               {data.herb_id_to_use[id].map((u, idx) => (
                 <li key={idx}>
