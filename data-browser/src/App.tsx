@@ -7,7 +7,7 @@ type Book = {
 };
 
 type Library = {
-  location_id: number;
+  location_id: string;
   name: string;
   categories: string[];
 };
@@ -19,29 +19,59 @@ type KnowledgeData = {
 
 const data = knowledgeData as KnowledgeData;
 
+const allCategories = Array.from(
+  new Set([
+    ...Object.values(data.books).flatMap((b) => b.categories),
+    ...Object.values(data.libraries).flatMap((l) => l.categories),
+  ])
+).sort();
+
 export default function App() {
-  const [query, setQuery] = useState('');
+  const [selected, setSelected] = useState<Set<string>>(new Set());
 
-  const search = query.trim().toLowerCase();
+  const toggleCategory = (category: string) => {
+    setSelected((prev) => {
+      const next = new Set(prev);
+      next.has(category) ? next.delete(category) : next.add(category);
+      return next;
+    });
+  };
 
-  const books = Object.entries(data.books).filter(([_, book]) =>
-    book.categories.some((c) => c.toLowerCase().includes(search))
-  );
+  const chosen = Array.from(selected);
 
-  const libraries = Object.values(data.libraries).filter((lib) =>
-    lib.categories.some((c) => c.toLowerCase().includes(search))
-  );
+  const books =
+    chosen.length === 0
+      ? []
+      : Object.entries(data.books).filter(([_, book]) =>
+          chosen.some((c) => book.categories.includes(c))
+        );
+
+  const libraries =
+    chosen.length === 0
+      ? []
+      : Object.values(data.libraries).filter((lib) =>
+          chosen.some((c) => lib.categories.includes(c))
+        );
 
   return (
-    <div className="container py-4">
+    <div className="container py-4 mb-5">
       <h1 className="mb-4">Przeglądarka wiedzy</h1>
-      <input
-        type="text"
-        className="form-control mb-3"
-        placeholder="Szukaj kategorii..."
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-      />
+      <div className="mb-3 d-flex flex-wrap gap-2">
+        {allCategories.map((cat, idx) => (
+          <div className="form-check" key={cat}>
+            <input
+              className="form-check-input"
+              type="checkbox"
+              id={`cat-${idx}`}
+              checked={selected.has(cat)}
+              onChange={() => toggleCategory(cat)}
+            />
+            <label className="form-check-label" htmlFor={`cat-${idx}`}>
+              {cat}
+            </label>
+          </div>
+        ))}
+      </div>
       <div className="row">
         <div className="col-md-6">
           <h2>Książki</h2>
@@ -63,7 +93,11 @@ export default function App() {
             {libraries.map((lib) => (
               <li key={lib.location_id} className="list-group-item">
                 <strong>{lib.name}</strong>
-                <div className="text-muted">{lib.categories.join(', ')}</div>
+                <ul className="text-muted small mb-0">
+                  {lib.categories.map((c) => (
+                    <li key={c}>{c}</li>
+                  ))}
+                </ul>
               </li>
             ))}
             {libraries.length === 0 && (
