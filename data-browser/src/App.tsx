@@ -27,7 +27,7 @@ const allCategories = Array.from(
 ).sort();
 
 export default function App() {
-  const [selected, setSelected] = useState<Set<string>>(new Set());
+  const [selected, setSelected] = useState<Set<string>>(new Set(allCategories));
 
   const toggleCategory = (category: string) => {
     setSelected((prev) => {
@@ -35,6 +35,12 @@ export default function App() {
       next.has(category) ? next.delete(category) : next.add(category);
       return next;
     });
+  };
+
+  const toggleAll = () => {
+    setSelected((prev) =>
+      prev.size === allCategories.length ? new Set() : new Set(allCategories)
+    );
   };
 
   const chosen = Array.from(selected);
@@ -54,9 +60,21 @@ export default function App() {
         );
 
   return (
-    <div className="container py-4 mb-5">
+    <div className="container py-4">
       <h1 className="mb-4">Przeglądarka wiedzy</h1>
       <div className="mb-3 d-flex flex-wrap gap-2">
+        <div className="form-check">
+          <input
+            className="form-check-input"
+            type="checkbox"
+            id="cat-all"
+            checked={selected.size === allCategories.length}
+            onChange={toggleAll}
+          />
+          <label className="form-check-label" htmlFor="cat-all">
+            Wszystkie
+          </label>
+        </div>
         {allCategories.map((cat, idx) => (
           <div className="form-check" key={cat}>
             <input
