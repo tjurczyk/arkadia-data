@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import knowledgeData from '../knowledge_data.json';
+import knowledgeData from '../../knowledge_data.json';
 
 type Book = {
   mianownik: string;

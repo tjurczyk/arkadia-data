@@ -23,10 +23,12 @@ jobs:
         with:
           node-version: 20
       - run: yarn install
+        working-directory: data-browser
       - run: yarn build
+        working-directory: data-browser
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: docs
+          path: data-browser/docs
 
   deploy:
     needs: build
