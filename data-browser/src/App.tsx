@@ -284,6 +284,9 @@ function HerbsBrowser() {
     new Set(allEffects.map(([t]) => t))
   );
 
+  const [query, setQuery] = useState('');
+  const q = query.toLowerCase();
+
   const toggleEffect = (effect: string) => {
     setSelected((prev) => {
       const next = new Set(prev);
@@ -300,18 +303,37 @@ function HerbsBrowser() {
     );
   };
 
-  const herbs =
-    selected.size === 0
-      ? []
-      : Object.keys(data.herb_id_to_use).filter((id) =>
-          data.herb_id_to_use[id].some((u) =>
-            extractTokens(u.effect).some((t) => selected.has(t.token))
-          )
-        );
+  const herbs = Object.keys(data.herb_id_to_use).filter((id) => {
+    const matchesSelected =
+      selected.size === 0 ||
+      data.herb_id_to_use[id].some((u) =>
+        extractTokens(u.effect).some((t) => selected.has(t.token))
+      );
+    if (!matchesSelected) return false;
+
+    if (!q) return true;
+
+    const name = data.herb_id_to_odmiana[id]?.mianownik || id;
+    const description = data.herb_id_to_use[id]
+      .map((u) => `${u.action} ${u.effect.replace(/<[^>]+>/g, '')}`)
+      .join(' ')
+      .toLowerCase();
+    return (
+      name.toLowerCase().includes(q) ||
+      description.includes(q)
+    );
+  });
 
   return (
     <>
       <h1 className="mb-4">Przeglądarka ziół</h1>
+      <input
+        type="text"
+        className="form-control mb-3"
+        placeholder="Szukaj..."
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+      />
       <div className="mb-3 d-flex flex-wrap gap-2">
         <div className="form-check">
           <input
