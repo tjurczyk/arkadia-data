@@ -2,11 +2,12 @@
 
 Dane wspierające skrypty - https://github.com/tjurczyk/arkadia
 
-## Przeglądarka wiedzy
+## Przeglądarka danych
 
-Repozytorium zawiera niewielką przeglądarkę React + Bootstrap dla zbiorów `knowledge_data.json`, `herbs_data.json`, `magics_data.json` oraz `magic_keys.json`, umieszczoną w katalogu `data-browser/`.
+Repozytorium zawiera niewielką przeglądarkę React + Bootstrap dla zbiorów `knowledge_data.json`, `magics_data.json` oraz `magic_keys.json`, umieszczoną w katalogu `data-browser/`.
 Została zbudowana przy użyciu [Vite](https://vitejs.dev/) oraz TypeScriptu i korzysta z ciemnego motywu Bootstrapa.
-Pozwala wyszukiwać książki, biblioteki, zioła, czary i klucze według kategorii.
+U góry strony znajdują się przyciski pozwalające przełączać się między widokami wiedzy, magii i kluczy.
+Wiedzę filtruje się według kategorii, a czary i klucze można wyszukiwać prostym tekstem.
 Uruchom `cd data-browser && yarn && yarn build`, aby wygenerować statyczną stronę w katalogu `data-browser/docs/`.
 Po włączeniu GitHub Pages przeglądarka będzie dostępna pod adresem
 `https://<twoja-nazwa-uzytkownika>.github.io/arkadia-data/`.
