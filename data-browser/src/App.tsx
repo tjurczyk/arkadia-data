@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import knowledgeData from '../../knowledge_data.json';
 import magicsData from '../../magics_data.json';
 import magicKeysData from '../../magic_keys.json';
+import herbsData from '../../herbs_data.json';
 
 type Book = {
   mianownik: string;
@@ -25,6 +26,11 @@ type MagicsData = {
 
 type MagicKeysData = {
   magic_keys: string[];
+};
+
+type HerbsData = {
+  herb_id_to_odmiana: Record<string, { mianownik: string }>;
+  herb_id_to_use: Record<string, { action: string; effect: string }[]>;
 };
 
 function KnowledgeBrowser() {
@@ -207,8 +213,50 @@ function KeysBrowser() {
   );
 }
 
+function HerbsBrowser() {
+  const data = herbsData as HerbsData;
+  const [query, setQuery] = useState('');
+  const q = query.toLowerCase();
+
+  const herbs = Object.keys(data.herb_id_to_use).filter((id) =>
+    data.herb_id_to_use[id].some((u) => u.effect.toLowerCase().includes(q))
+  );
+
+  return (
+    <>
+      <h1 className="mb-4">Przeglądarka ziół</h1>
+      <input
+        type="text"
+        className="form-control mb-3"
+        placeholder="Filtruj efekty..."
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+      />
+      <ul className="list-group">
+        {herbs.map((id) => (
+          <li key={id} className="list-group-item">
+            <strong>{data.herb_id_to_odmiana[id]?.mianownik || id}</strong>
+            <ul className="text-muted small mb-0">
+              {data.herb_id_to_use[id].map((u, idx) => (
+                <li key={idx}>
+                  {u.action}: {u.effect}
+                </li>
+              ))}
+            </ul>
+          </li>
+        ))}
+        {herbs.length === 0 && (
+          <li className="list-group-item">Brak wyników</li>
+        )}
+      </ul>
+    </>
+  );
+}
+
 export default function App() {
-  const [view, setView] = useState<'knowledge' | 'magics' | 'keys'>('knowledge');
+  const [view, setView] = useState<'knowledge' | 'magics' | 'keys' | 'herbs'>(
+    'knowledge'
+  );
 
   return (
     <div className="container py-4">
@@ -234,10 +282,18 @@ export default function App() {
         >
           Klucze
         </button>
+        <button
+          type="button"
+          className={`btn btn-secondary${view === 'herbs' ? ' active' : ''}`}
+          onClick={() => setView('herbs')}
+        >
+          Zioła
+        </button>
       </div>
       {view === 'knowledge' && <KnowledgeBrowser />}
       {view === 'magics' && <MagicsBrowser />}
       {view === 'keys' && <KeysBrowser />}
+      {view === 'herbs' && <HerbsBrowser />}
     </div>
   );
 }
