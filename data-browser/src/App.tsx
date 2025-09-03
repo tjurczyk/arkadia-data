@@ -33,6 +33,55 @@ type HerbsData = {
   herb_id_to_use: Record<string, { action: string; effect: string }[]>;
 };
 
+const tagColors: Record<string, string> = {
+  grey: 'grey',
+  reset: 'grey',
+  olive_drab: 'OliveDrab',
+  LimeGreen: 'LimeGreen',
+  medium_turquoise: 'MediumTurquoise',
+  tomato: 'Tomato',
+};
+
+type EffectSegment = { text: string; color: string };
+
+function parseEffect(effect: string): EffectSegment[] {
+  const segments: EffectSegment[] = [];
+  const regex = /<([^>]+)>/g;
+  let last = 0;
+  let color = tagColors.grey;
+  let match: RegExpExecArray | null;
+  while ((match = regex.exec(effect)) !== null) {
+    if (match.index > last) {
+      segments.push({ text: effect.slice(last, match.index), color });
+    }
+    color = tagColors[match[1]] || color;
+    last = regex.lastIndex;
+  }
+  if (last < effect.length) {
+    segments.push({ text: effect.slice(last), color });
+  }
+  return segments;
+}
+
+type EffectToken = { token: string; color: string };
+
+function extractTokens(effect: string): EffectToken[] {
+  return parseEffect(effect).flatMap((seg) =>
+    seg.text
+      .split(/\s+/)
+      .filter(Boolean)
+      .map((t) => ({ token: t, color: seg.color }))
+  );
+}
+
+function renderEffect(effect: string) {
+  return parseEffect(effect).map((seg, idx) => (
+    <span key={idx} style={{ color: seg.color }}>
+      {seg.text}
+    </span>
+  ));
+}
+
 function KnowledgeBrowser() {
   const data = knowledgeData as KnowledgeData;
 
@@ -215,23 +264,81 @@ function KeysBrowser() {
 
 function HerbsBrowser() {
   const data = herbsData as HerbsData;
-  const [query, setQuery] = useState('');
-  const q = query.toLowerCase();
 
-  const herbs = Object.keys(data.herb_id_to_use).filter((id) =>
-    data.herb_id_to_use[id].some((u) => u.effect.toLowerCase().includes(q))
+  const allEffects = Array.from(
+    new Map(
+      Object.values(data.herb_id_to_use).flatMap((uses) =>
+        uses.flatMap((u) =>
+          extractTokens(u.effect).map(({ token, color }) => [token, color] as const)
+        )
+      )
+    ).entries()
+  ).sort((a, b) => a[0].localeCompare(b[0]));
+
+  const [selected, setSelected] = useState<Set<string>>(
+    new Set(allEffects.map(([t]) => t))
   );
+
+  const toggleEffect = (effect: string) => {
+    setSelected((prev) => {
+      const next = new Set(prev);
+      next.has(effect) ? next.delete(effect) : next.add(effect);
+      return next;
+    });
+  };
+
+  const toggleAll = () => {
+    setSelected((prev) =>
+      prev.size === allEffects.length
+        ? new Set()
+        : new Set(allEffects.map(([t]) => t))
+    );
+  };
+
+  const herbs =
+    selected.size === 0
+      ? []
+      : Object.keys(data.herb_id_to_use).filter((id) =>
+          data.herb_id_to_use[id].some((u) =>
+            extractTokens(u.effect).some((t) => selected.has(t.token))
+          )
+        );
 
   return (
     <>
       <h1 className="mb-4">Przeglądarka ziół</h1>
-      <input
-        type="text"
-        className="form-control mb-3"
-        placeholder="Filtruj efekty..."
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-      />
+      <div className="mb-3 d-flex flex-wrap gap-2">
+        <div className="form-check">
+          <input
+            className="form-check-input"
+            type="checkbox"
+            id="eff-all"
+            checked={selected.size === allEffects.length}
+            onChange={toggleAll}
+          />
+          <label className="form-check-label" htmlFor="eff-all">
+            Wszystkie
+          </label>
+        </div>
+        {allEffects.map(([eff, color], idx) => (
+          <div className="form-check" key={eff}>
+            <input
+              className="form-check-input"
+              type="checkbox"
+              id={`eff-${idx}`}
+              checked={selected.has(eff)}
+              onChange={() => toggleEffect(eff)}
+            />
+            <label
+              className="form-check-label"
+              htmlFor={`eff-${idx}`}
+              style={{ color }}
+            >
+              {eff}
+            </label>
+          </div>
+        ))}
+      </div>
       <ul className="list-group">
         {herbs.map((id) => (
           <li key={id} className="list-group-item">
@@ -239,7 +346,7 @@ function HerbsBrowser() {
             <ul className="text-muted small mb-0">
               {data.herb_id_to_use[id].map((u, idx) => (
                 <li key={idx}>
-                  {u.action}: {u.effect}
+                  {u.action}: {renderEffect(u.effect)}
                 </li>
               ))}
             </ul>
