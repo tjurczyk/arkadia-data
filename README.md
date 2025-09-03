@@ -1,11 +1,11 @@
-![Validate JSONs](https://github.com/tjurczyk/arkadia-data/workflows/Validate%20JSONs/badge.svg)
+![Walidacja JSONów](https://github.com/tjurczyk/arkadia-data/workflows/Validate%20JSONs/badge.svg)
 
 Dane wspierające skrypty - https://github.com/tjurczyk/arkadia
 
-## Knowledge Data Browser
+## Przeglądarka wiedzy
 
-The repository includes a small React + Bootstrap viewer for the `knowledge_data.json` dataset located in the `data-browser/` directory.
-It is built with [Vite](https://vitejs.dev/) and TypeScript.
-Run `cd data-browser && yarn && yarn build` to produce the static site in the `data-browser/docs/` directory.
-Once GitHub Pages is enabled for the project, the browser will be accessible at
-`https://<your-username>.github.io/arkadia-data/`.
+Repozytorium zawiera niewielką przeglądarkę React + Bootstrap dla zbioru `knowledge_data.json`, umieszczoną w katalogu `data-browser/`.
+Została zbudowana przy użyciu [Vite](https://vitejs.dev/) oraz TypeScriptu i korzysta z ciemnego motywu Bootstrapa.
+Uruchom `cd data-browser && yarn && yarn build`, aby wygenerować statyczną stronę w katalogu `data-browser/docs/`.
+Po włączeniu GitHub Pages przeglądarka będzie dostępna pod adresem
+`https://<twoja-nazwa-uzytkownika>.github.io/arkadia-data/`.
