@@ -165,7 +165,7 @@
         },
         "czarny prosty diadem": {
             "type": [
-                "helm"
+                "diadem"
             ],
             "regexps": [
                 "czarne proste diademy",
