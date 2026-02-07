@@ -296,7 +296,6 @@
                 "foremnym iskrzacym mlotem"
             ]
         },
-
         "gadzi polyskujacy pancerz": {
             "type": [
                 "srednia zbroja"
@@ -320,7 +319,7 @@
                 "garscie lepkiego mlecznobialego pylu"
             ]
         },
-	"garsc wielobarwnego polyskliwego pylu": {
+        "garsc wielobarwnego polyskliwego pylu": {
             "type": [
                 "pyl"
             ],
@@ -456,7 +455,7 @@
                 "kruczoczarnym misternym mieczu"
             ]
         },
- "krysztalowa gryfia lampa": {
+        "krysztalowa gryfia lampa": {
             "type": [
                 "inne"
             ],
@@ -468,7 +467,7 @@
                 "krysztalowej gryfiej lampie"
             ]
         },
-	     "krysztalowa karafka": {
+        "krysztalowa karafka": {
             "type": [
                 "inne"
             ],
@@ -576,7 +575,7 @@
                 "lsniacym krysztalowyn wisiorze"
             ]
         },
-	 "luskowy czerwonawy kaftan": {
+        "luskowy czerwonawy kaftan": {
             "type": [
                 "srednia zbroja"
             ],
@@ -588,16 +587,16 @@
                 "luskowym czerwonawym kaftanie"
             ]
         },
-	"masywna kanciasta para nareczakow": {
-	    "type": [
+        "masywna kanciasta para nareczakow": {
+            "type": [
                 "ciezka zbroja"
             ],
-	    "regexps": [
+            "regexps": [
                 "masywna kanciasta para nareczakow",
-		        "masywna kanciasta pare nareczakow",
+                "masywna kanciasta pare nareczakow",
                 "masywne kanciaste pary nareczakow"
             ]
-	},
+        },
         "masywny amulet z czarnym opalem": {
             "type": [
                 "naszyjnik"
@@ -768,8 +767,8 @@
                 "niezwyklym koscianym toporem",
                 "niezwyklym koscianym toporze"
             ]
-        },  
-	 "obkurczony zasniedzialy kaftan": {
+        },
+        "obkurczony zasniedzialy kaftan": {
             "type": [
                 "srednia zbroja"
             ],
@@ -1039,7 +1038,7 @@
                 "rezonujacym krysztalowym mlotem"
             ]
         },
-	"smocza luska": {
+        "smocza luska": {
             "type": [
                 "inne"
             ],
@@ -1124,7 +1123,7 @@
                 "snieznobialego luskowego pancerza",
                 "snieznobialym luskowym pancerzem",
                 "snieznobialym luskowym pancerzu",
-		"snieznobialych luskowych pancerzy"
+                "snieznobialych luskowych pancerzy"
             ]
         },
         "snieznobialy lsniacy sztylet": {
@@ -1522,12 +1521,12 @@
                 "inne"
             ],
             "regexps": [
-            "srebrne zdobione puzderko",
-            "srebrnego zdobionego puzderka",
-            "srebrnemu zdobionemu puzderku",
-            "srebrnym zdobionym puzderkiem",
-            "srebrnym zdobionym puzderku",
-            "srebrne zdobione puzderka"
+                "srebrne zdobione puzderko",
+                "srebrnego zdobionego puzderka",
+                "srebrnemu zdobionemu puzderku",
+                "srebrnym zdobionym puzderkiem",
+                "srebrnym zdobionym puzderku",
+                "srebrne zdobione puzderka"
             ]
         },
         "dluga ciemna laska": {
@@ -1548,54 +1547,67 @@
                 "srednia zbroja"
             ],
             "regexps": [
-			"plytkowe runiczne pancerze",
-			"plytkowy runiczny pancerz",
-			"plytkowego runicznego pancerza",
-			"plytkowemu runicznemu pancerzowi",
-			"plytkowym runicznym pancerzem",
-			"plytkowym runicznym pancerzu"
+                "plytkowe runiczne pancerze",
+                "plytkowy runiczny pancerz",
+                "plytkowego runicznego pancerza",
+                "plytkowemu runicznemu pancerzowi",
+                "plytkowym runicznym pancerzem",
+                "plytkowym runicznym pancerzu"
             ]
         },
-	"plytkowy iskrzacy pancerz": {
+        "plytkowy iskrzacy pancerz": {
             "type": [
                 "srednia zbroja"
             ],
             "regexps": [
-			"plytkowe iskrzace pancerze",
-			"plytkowy iskrzacy pancerz",
-			"plytkowego iskrzacego pancerza",
-			"plytkowemu iskrzacemu pancerzowi",
-			"plytkowym iskrzacym pancerzem",
-			"plytkowym iskrzacym pancerzu"
+                "plytkowe iskrzace pancerze",
+                "plytkowy iskrzacy pancerz",
+                "plytkowego iskrzacego pancerza",
+                "plytkowemu iskrzacemu pancerzowi",
+                "plytkowym iskrzacym pancerzem",
+                "plytkowym iskrzacym pancerzu"
             ]
         },
-	"plytkowy roziskrzony pancerz": {
+        "plytkowy lsniacy pancerz": {
             "type": [
                 "srednia zbroja"
             ],
             "regexps": [
-			"plytkowe roziskrzone pancerze",
-			"plytkowy roziskrzony pancerz",
-			"plytkowego roziskrzonego pancerza",
-			"plytkowemu roziskrzonemu pancerzowi",
-			"plytkowym roziskrzonym pancerzem",
-			"plytkowym roziskrzonym pancerzu"
+                "plytkowe lsniace pancerze",
+                "plytkowy lsniacy pancerz",
+                "plytkowego lsniacego pancerza",
+                "plytkowemu lsniacemu pancerzowi",
+                "plytkowym lsniacym pancerzem",
+                "plytkowym lsniacym pancerzu"
             ]
         },
-	"kruczoczarny ornamentowany napiersnik": {
+        "plytkowy roziskrzony pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "regexps": [
+                "plytkowe roziskrzone pancerze",
+                "plytkowy roziskrzony pancerz",
+                "plytkowego roziskrzonego pancerza",
+                "plytkowemu roziskrzonemu pancerzowi",
+                "plytkowym roziskrzonym pancerzem",
+                "plytkowym roziskrzonym pancerzu"
+            ]
+        },
+        "kruczoczarny ornamentowany napiersnik": {
             "type": [
                 "ciezka zbroja"
             ],
             "regexps": [
-			"kruczoczarne ornamentowane napiersniki",
-			"kruczoczarny ornamentowany napiersnik",
-			"kruczoczarnego ornamentowanego napiersnika",
-			"kruczoczarnemu ornamentowanemu napiersniku",
-			"kruczoczarnym ornamentowanym napiersnikiem",
-			"kruczoczarnym ornamentowanym napiersniku"
+                "kruczoczarne ornamentowane napiersniki",
+                "kruczoczarny ornamentowany napiersnik",
+                "kruczoczarnego ornamentowanego napiersnika",
+                "kruczoczarnemu ornamentowanemu napiersniku",
+                "kruczoczarnym ornamentowanym napiersnikiem",
+                "kruczoczarnym ornamentowanym napiersniku"
             ]
         },
-	"podluzna zdobiona skrzynka": {
+        "podluzna zdobiona skrzynka": {
             "type": [
                 "pojemnik"
             ],
@@ -1604,15 +1616,15 @@
                 "zamknietej podluznej zdobionej skrzynki",
                 "zamknietej podluznej zdobionej skrzynce",
                 "zamknieta podluzna zdobiona skrzynke",
-		"zamknietej podluznej zdobionej skrzynce",
+                "zamknietej podluznej zdobionej skrzynce",
                 "otwarta podluzna zdobiona skrzynka",
                 "otwartej podluznej zdobionej skrzynki",
                 "otwartej podluznej zdobionej skrzynce",
-		"otwarta podluzna zdobiona skrzynke",
+                "otwarta podluzna zdobiona skrzynke",
                 "otwartej podluznej zdobionej skrzynce"
             ]
         },
-	"mosiezna skrzynka z astrolabium": {
+        "mosiezna skrzynka z astrolabium": {
             "type": [
                 "pojemnik"
             ],
@@ -1624,14 +1636,14 @@
                 "otwarta mosiezna skrzynka z astrolabium",
                 "otwartej mosieznej skrzynki z astrolabium",
                 "otwartej mosieznej skrzynce z astrolabium",
-		"otwarta mosiezna skrzynke z astrolabium"
+                "otwarta mosiezna skrzynke z astrolabium"
             ]
         },
         "krolewskie ulaskawienie": {
-            "type" :[
+            "type": [
                 "inne"
             ],
-            "regexps":[
+            "regexps": [
                 "krolewskie ulaskawienie",
                 "krolewskiego ulaskawienia",
                 "krolewskiemu ulaskawieniu",
@@ -1640,7 +1652,7 @@
                 "krolewskie ulaskawienia"
             ]
         },
-	"starozytny piecioboczny puklerz": {
+        "starozytny piecioboczny puklerz": {
             "type": [
                 "tarcza"
             ],
@@ -1653,7 +1665,7 @@
                 "starozytne piecioboczne puklerze"
             ]
         },
-	"dlugi mglisty poltorak": {
+        "dlugi mglisty poltorak": {
             "type": [
                 "jednoreczny miecz",
                 "dwureczny miecz"
@@ -1668,4 +1680,3 @@
         }
     }
 }
-
