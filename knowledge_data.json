@@ -1,17 +1,23 @@
 {
   "books": {
-    "ceramiczna wypalona tabliczka": {  
-      "mianownik": "ceramiczna wypalona tabliczka",  
-      "dopelniacz": "ceramicznej wypalonej tabliczki",  
-      "biernik": "ceramiczna wypalona tabliczke",  
-      "categories": [  
-        "jaszczuroludzie"  
-      ]  
+    "ceramiczna wypalona tabliczka": {
+      "mianownik": "ceramiczna wypalona tabliczka",
+      "dopelniacz": "ceramicznej wypalonej tabliczki",
+      "biernik": "ceramiczna wypalona tabliczke",
+      "mnoga_mianownik": "ceramiczne wypalone tabliczki",
+      "mnoga_dopelniacz": "ceramicznych wypalonych tabliczek",
+      "mnoga_biernik": "ceramiczne wypalone tabliczki",
+      "categories": [
+        "jaszczuroludzie"
+      ]
     },
     "chudy skorzany notatnik": {
       "mianownik": "chudy skorzany notatnik",
       "dopelniacz": "chudego skorzanego notatnika",
       "biernik": "chudy skorzany notatnik",
+      "mnoga_mianownik": "chude skorzane notatniki",
+      "mnoga_dopelniacz": "chudych skorzanych notatnikow",
+      "mnoga_biernik": "chude skorzane notatniki",
       "categories": [
         "pajaki i pajakowate"
       ]
@@ -20,6 +26,9 @@
       "mianownik": "ciezka czerwona ksiega",
       "dopelniacz": "ciezkiej czerwonej ksiegi",
       "biernik": "ciezka czerwona ksiege",
+      "mnoga_mianownik": "ciezkie czerwone ksiegi",
+      "mnoga_dopelniacz": "ciezkich czerwonych ksiag",
+      "mnoga_biernik": "ciezkie czerwone ksiegi",
       "categories": [
         "wampiry"
       ]
@@ -28,6 +37,9 @@
       "mianownik": "ciezka solidna ksiega",
       "dopelniacz": "ciezkiej solidnej ksiegi",
       "biernik": "ciezka solidna ksiege",
+      "mnoga_mianownik": "ciezkie solidne ksiegi",
+      "mnoga_dopelniacz": "ciezkich solidnych ksiag",
+      "mnoga_biernik": "ciezkie solidne ksiegi",
       "categories": [
         "stwory pokoniunkcyjne"
       ]
@@ -36,6 +48,9 @@
       "mianownik": "czarna gruba ksiega",
       "dopelniacz": "czarnej grubej ksiegi",
       "biernik": "czarna gruba ksiege",
+      "mnoga_mianownik": "czarne grube ksiegi",
+      "mnoga_dopelniacz": "czarnych grubych ksiag",
+      "mnoga_biernik": "czarne grube ksiegi",
       "categories": [
         "chaos i jego twory",
         "istoty demoniczne"
@@ -45,6 +60,9 @@
       "mianownik": "czarna podniszczona ksiega",
       "dopelniacz": "czarnej podniszczonej ksiegi",
       "biernik": "czarna podniszczona ksiege",
+      "mnoga_mianownik": "czarne podniszczone ksiegi",
+      "mnoga_dopelniacz": "czarnych podniszczonych ksiag",
+      "mnoga_biernik": "czarne podniszczone ksiegi",
       "categories": [
         "chaos i jego twory"
       ]
@@ -53,6 +71,9 @@
       "mianownik": "czarna zdobiona ksiega",
       "dopelniacz": "czarnej zdobionej ksiegi",
       "biernik": "czarna zdobiona ksiege",
+      "mnoga_mianownik": "czarne zdobione ksiegi",
+      "mnoga_dopelniacz": "czarnych zdobionych ksiag",
+      "mnoga_biernik": "czarne zdobione ksiegi",
       "categories": [
         "istoty demoniczne"
       ]
@@ -61,6 +82,9 @@
       "mianownik": "czarne nadgryzione tomiszcze",
       "dopelniacz": "czarnego nadgryzionego tomiszcza",
       "biernik": "czarne nadgryzione tomiszcze",
+      "mnoga_mianownik": "czarne nadgryzione tomiszcza",
+      "mnoga_dopelniacz": "czarnych nadgryzionych tomiszcz",
+      "mnoga_biernik": "czarne nadgryzione tomiszcza",
       "categories": [
         "szczuroludzie"
       ]
@@ -69,6 +93,9 @@
       "mianownik": "ekstrawagancka pomaranczowa ksiazka",
       "dopelniacz": "ekstrawaganckiej pomaranczowej ksiazki",
       "biernik": "ekstrawagancka pomaranczowa ksiazke",
+      "mnoga_mianownik": "ekstrawaganckie pomaranczowe ksiazki",
+      "mnoga_dopelniacz": "ekstrawaganckich pomaranczowych ksiazek",
+      "mnoga_biernik": "ekstrawaganckie pomaranczowe ksiazki",
       "categories": [
         "wampiry"
       ]
@@ -77,6 +104,9 @@
       "mianownik": "elegancka kieszonkowa ksiazeczka",
       "dopelniacz": "eleganckiej kieszonkowej ksiazeczki",
       "biernik": "elegancka kieszonkowa ksiazeczke",
+      "mnoga_mianownik": "eleganckie kieszonkowe ksiazeczki",
+      "mnoga_dopelniacz": "eleganckich kieszonkowych ksiazeczek",
+      "mnoga_biernik": "eleganckie kieszonkowe ksiazeczki",
       "categories": [
         "magia i jej twory"
       ]
@@ -85,6 +115,9 @@
       "mianownik": "gruba ksiega",
       "dopelniacz": "grubej ksiegi",
       "biernik": "gruba ksiege",
+      "mnoga_mianownik": "grube ksiegi",
+      "mnoga_dopelniacz": "grubych ksiag",
+      "mnoga_biernik": "grube ksiegi",
       "categories": [
         "chaos i jego twory"
       ]
@@ -93,6 +126,9 @@
       "mianownik": "gruba obita ksiega",
       "dopelniacz": "grubej obitej ksiegi",
       "biernik": "gruba obita ksiege",
+      "mnoga_mianownik": "grube obite ksiegi",
+      "mnoga_dopelniacz": "grubych obitych ksiag",
+      "mnoga_biernik": "grube obite ksiegi",
       "categories": [
         "nieumarli"
       ]
@@ -101,6 +137,9 @@
       "mianownik": "gruba obita ksiega",
       "dopelniacz": "grubej podniszczonej ksiegi",
       "biernik": "gruba podniszczona ksiege",
+      "mnoga_mianownik": "grube podniszczone ksiegi",
+      "mnoga_dopelniacz": "grubych podniszczonych ksiag",
+      "mnoga_biernik": "grube podniszczone ksiegi",
       "categories": [
         "nieumarli"
       ]
@@ -109,6 +148,9 @@
       "mianownik": "gruby powycierany notes",
       "dopelniacz": "grubego powycieranego notesu",
       "biernik": "gruby powycierany notes",
+      "mnoga_mianownik": "grube powycierane notesy",
+      "mnoga_dopelniacz": "grubych powycieranych notesow",
+      "mnoga_biernik": "grube powycierane notesy",
       "categories": [
         "magia i jej twory",
         "nieumarli"
@@ -118,6 +160,9 @@
       "mianownik": "ilustrowana opasla ksiega",
       "dopelniacz": "ilustrowanej opaslej ksiegi",
       "biernik": "ilustrowana opasla ksiege",
+      "mnoga_mianownik": "ilustrowane opasle ksiegi",
+      "mnoga_dopelniacz": "ilustrowanych opaslych ksiag",
+      "mnoga_biernik": "ilustrowane opasle ksiegi",
       "categories": [
         "szczuroludzie"
       ]
@@ -126,6 +171,9 @@
       "mianownik": "kamienna ciezka ksiega",
       "dopelniacz": "kamiennej ciezkiej ksiegi",
       "biernik": "kamienna ciezka ksiege",
+      "mnoga_mianownik": "kamienne ciezkie ksiegi",
+      "mnoga_dopelniacz": "kamiennych ciezkich ksiag",
+      "mnoga_biernik": "kamienne ciezkie ksiegi",
       "categories": [
         "golemy"
       ]
@@ -134,6 +182,9 @@
       "mianownik": "miekka nieduza ksiazka",
       "dopelniacz": "miekkiej nieduzej ksiazki",
       "biernik": "miekka nieduza ksiazke",
+      "mnoga_mianownik": "miekkie nieduze ksiazki",
+      "mnoga_dopelniacz": "miekkich nieduzych ksiazek",
+      "mnoga_biernik": "miekkie nieduze ksiazki",
       "categories": [
         "szczuroludzie"
       ]
@@ -142,6 +193,9 @@
       "mianownik": "nieduzy zawilgly notatnik",
       "dopelniacz": "nieduzego zawilglego notatnika",
       "biernik": "nieduzy zawilgly notatnik",
+      "mnoga_mianownik": "nieduze zawilgle notatniki",
+      "mnoga_dopelniacz": "nieduzych zawilglych notatnikow",
+      "mnoga_biernik": "nieduze zawilgle notatniki",
       "categories": [
         "wampiry"
       ]
@@ -150,6 +204,9 @@
       "mianownik": "niewielka czarna ksiazeczka",
       "dopelniacz": "niewielkiej czarnej ksiazeczki",
       "biernik": "niewielka czarna ksiazeczke",
+      "mnoga_mianownik": "niewielkie czarne ksiazeczki",
+      "mnoga_dopelniacz": "niewielkich czarnych ksiazeczek",
+      "mnoga_biernik": "niewielkie czarne ksiazeczki",
       "categories": [
         "smoki i smokowate"
       ]
@@ -158,6 +215,9 @@
       "mianownik": "niewielka pachnaca ksiega",
       "dopelniacz": "niewielkiej pachnacej ksiegi",
       "biernik": "niewielka pachnaca ksiege",
+      "mnoga_mianownik": "niewielkie pachnace ksiegi",
+      "mnoga_dopelniacz": "niewielkich pachnacych ksiag",
+      "mnoga_biernik": "niewielkie pachnace ksiegi",
       "categories": [
         "chaos i jego twory"
       ]
@@ -166,6 +226,9 @@
       "mianownik": "opasle szarawe tomiszcze",
       "dopelniacz": "opaslego szarawego tomiszcza",
       "biernik": "opasle szarawe tomiszcze",
+      "mnoga_mianownik": "opasle szarawe tomiszcza",
+      "mnoga_dopelniacz": "opaslych szarawych tomiszcz",
+      "mnoga_biernik": "opasle szarawe tomiszcza",
       "categories": [
         "ryboludzie",
         "starsze rasy"
@@ -175,6 +238,9 @@
       "mianownik": "pek koralowych tabliczek",
       "dopelniacz": "peku koralowych tabliczek",
       "biernik": "pek koralowych tabliczek",
+      "mnoga_mianownik": "peki koralowych tabliczek",
+      "mnoga_dopelniacz": "pekow koralowych tabliczek",
+      "mnoga_biernik": "peki koralowych tabliczek",
       "categories": [
         "ryboludzie"
       ]
@@ -183,6 +249,9 @@
       "mianownik": "plomienista opasla ksiega",
       "dopelniacz": "plomienistej opaslej ksiegi",
       "biernik": "plomienista opasla ksiege",
+      "mnoga_mianownik": "plomieniste opasle ksiegi",
+      "mnoga_dopelniacz": "plomienistych opaslych ksiag",
+      "mnoga_biernik": "plomieniste opasle ksiegi",
       "categories": [
         "magia i jej twory"
       ]
@@ -191,6 +260,9 @@
       "mianownik": "podniszczony gruby dziennik",
       "dopelniacz": "podniszczonego grubego dziennika",
       "biernik": "podniszczony gruby dziennik",
+      "mnoga_mianownik": "podniszczone grube dzienniki",
+      "mnoga_dopelniacz": "podniszczonych grubych dziennikow",
+      "mnoga_biernik": "podniszczone grube dzienniki",
       "categories": [
         "jaszczuroludzie"
       ]
@@ -199,6 +271,9 @@
       "mianownik": "pogryziona brazowa ksiega",
       "dopelniacz": "pogryzionej brazowej ksiegi",
       "biernik": "pogryziona brazowa ksiege",
+      "mnoga_mianownik": "pogryzione brazowe ksiegi",
+      "mnoga_dopelniacz": "pogryzionych brazowych ksiag",
+      "mnoga_biernik": "pogryzione brazowe ksiegi",
       "categories": [
         "goblinoidy"
       ]
@@ -207,6 +282,9 @@
       "mianownik": "popielata tloczona ksiega",
       "dopelniacz": "popielatej tloczonej ksiegi",
       "biernik": "popielata tloczona ksiege",
+      "mnoga_mianownik": "popielate tloczone ksiegi",
+      "mnoga_dopelniacz": "popielatych tloczonych ksiag",
+      "mnoga_biernik": "popielate tloczone ksiegi",
       "categories": [
         "goblinoidy"
       ]
@@ -215,6 +293,9 @@
       "mianownik": "poplamiona sfatygowana ksiega",
       "dopelniacz": "poplamionej sfatygowanej ksiegi",
       "biernik": "poplamiona sfatygowana ksiege",
+      "mnoga_mianownik": "poplamione sfatygowane ksiegi",
+      "mnoga_dopelniacz": "poplamionych sfatygowanych ksiag",
+      "mnoga_biernik": "poplamione sfatygowane ksiegi",
       "categories": [
         "wampiry"
       ]
@@ -223,6 +304,9 @@
       "mianownik": "poplamiona wysuszona ksiega",
       "dopelniacz": "poplamionej wysuszonej ksiegi",
       "biernik": "poplamiona wysuszona ksiege",
+      "mnoga_mianownik": "poplamione wysuszone ksiegi",
+      "mnoga_dopelniacz": "poplamionych wysuszonych ksiag",
+      "mnoga_biernik": "poplamione wysuszone ksiegi",
       "categories": [
         "pajaki i pajakowate"
       ]
@@ -231,6 +315,9 @@
       "mianownik": "pozlacana ciezka ksiega",
       "dopelniacz": "pozlacanej ciezkiej ksiegi",
       "biernik": "pozlacana ciezka ksiege",
+      "mnoga_mianownik": "pozlacane ciezkie ksiegi",
+      "mnoga_dopelniacz": "pozlacanych ciezkich ksiag",
+      "mnoga_biernik": "pozlacane ciezkie ksiegi",
       "categories": [
         "smoki i smokowate"
       ]
@@ -239,6 +326,9 @@
       "mianownik": "pozolkla powyginana ksiega",
       "dopelniacz": "pozolklej powyginanej ksiegi",
       "biernik": "pozolkla powyginana ksiege",
+      "mnoga_mianownik": "pozolkle powyginane ksiegi",
+      "mnoga_dopelniacz": "pozolklych powyginanych ksiag",
+      "mnoga_biernik": "pozolkle powyginane ksiegi",
       "categories": [
         "pajaki i pajakowate"
       ]
@@ -247,6 +337,9 @@
       "mianownik": "runiczna kosciana ksiega",
       "dopelniacz": "runicznej koscianej ksiegi",
       "biernik": "runiczna kosciana ksiege",
+      "mnoga_mianownik": "runicze kosciane ksiegi",
+      "mnoga_dopelniacz": "runiczych koscianych ksiag",
+      "mnoga_biernik": "runicze kosciane ksiegi",
       "categories": [
         "nieumarli"
       ]
@@ -255,6 +348,9 @@
       "mianownik": "skorzana makabryczna ksiega",
       "dopelniacz": "skorzanej makabrycznej ksiegi",
       "biernik": "skorzana makabryczna ksiege",
+      "mnoga_mianownik": "skorzane makabryczne ksiegi",
+      "mnoga_dopelniacz": "skorzanych makabrycznych ksiag",
+      "mnoga_biernik": "skorzane makabryczne ksiegi",
       "categories": [
         "nieumarli"
       ]
@@ -263,6 +359,9 @@
       "mianownik": "spieta opasla teka",
       "dopelniacz": "spietej opaslej teki",
       "biernik": "spieta opasla teke",
+      "mnoga_mianownik": "spiete opasle teki",
+      "mnoga_dopelniacz": "spietych opaslych tek",
+      "mnoga_biernik": "spiete opasle teki",
       "categories": [
         "golemy"
       ]
@@ -271,6 +370,9 @@
       "mianownik": "srebrna luskowata ksiega",
       "dopelniacz": "srebrnej luskowatej ksiegi",
       "biernik": "srebrna luskowata ksiege",
+      "mnoga_mianownik": "srebrne luskowate ksiegi",
+      "mnoga_dopelniacz": "srebrnych luskowatych ksiag",
+      "mnoga_biernik": "srebrne luskowate ksiegi",
       "categories": [
         "smoki i smokowate"
       ]
@@ -279,6 +381,9 @@
       "mianownik": "srebrnoniebieski zdobiony folial",
       "dopelniacz": "srebrnoniebieskiego zdobionego folialu",
       "biernik": "srebrnoniebieski zdobiony folial",
+      "mnoga_mianownik": "srebrnoniebieskie zdobione folialy",
+      "mnoga_dopelniacz": "srebrnoniebieskich zdobionych folialow",
+      "mnoga_biernik": "srebrnoniebieskie zdobione folialy",
       "categories": [
         "ryboludzie"
       ]
@@ -287,6 +392,9 @@
       "mianownik": "stara zniszczona ksiega",
       "dopelniacz": "starej zniszczonej ksiegi",
       "biernik": "stara zniszczona ksiege",
+      "mnoga_mianownik": "stare zniszczone ksiegi",
+      "mnoga_dopelniacz": "starych zniszczonych ksiag",
+      "mnoga_biernik": "stare zniszczone ksiegi",
       "categories": [
         "istoty demoniczne",
         "magia i jej twory",
@@ -297,6 +405,9 @@
       "mianownik": "tega okuta ksiega",
       "dopelniacz": "tegiej okutej ksiegi",
       "biernik": "tega okuta ksiege",
+      "mnoga_mianownik": "tegie okute ksiegi",
+      "mnoga_dopelniacz": "tegich okutych ksiag",
+      "mnoga_biernik": "tegie okute ksiegi",
       "categories": [
         "istoty demoniczne"
       ]
@@ -305,6 +416,9 @@
       "mianownik": "twarda jednobarwna ksiega",
       "dopelniacz": "twardej jednobarwnej ksiegi",
       "biernik": "twarda jednobarwna ksiege",
+      "mnoga_mianownik": "twarde jednobarwne ksiegi",
+      "mnoga_dopelniacz": "twardych jednobarwnych ksiag",
+      "mnoga_biernik": "twarde jednobarwne ksiegi",
       "categories": [
         "wampiry"
       ]
@@ -313,6 +427,9 @@
       "mianownik": "wielka opasla ksiega",
       "dopelniacz": "wielkiej opaslej ksiegi",
       "biernik": "wielka opasla ksiege",
+      "mnoga_mianownik": "wielkie opasle ksiegi",
+      "mnoga_dopelniacz": "wielkich opaslych ksiag",
+      "mnoga_biernik": "wielkie opasle ksiegi",
       "categories": [
         "smoki i smokowate",
         "stwory pokoniunkcyjne"
@@ -322,6 +439,9 @@
       "mianownik": "wysluzona bordowa ksiega",
       "dopelniacz": "wysluzonej bordowej ksiegi",
       "biernik": "wysluzona bordowa ksiege",
+      "mnoga_mianownik": "wysluzone bordowe ksiegi",
+      "mnoga_dopelniacz": "wysluzonych bordowych ksiag",
+      "mnoga_biernik": "wysluzone bordowe ksiegi",
       "categories": [
         "chaos i jego twory"
       ]
@@ -330,6 +450,9 @@
       "mianownik": "wyswiechtana gruba ksiazka",
       "dopelniacz": "wyswiechtanej grubej ksiazki",
       "biernik": "wyswiechtana gruba ksiazke",
+      "mnoga_mianownik": "wyswiechtane grube ksiazki",
+      "mnoga_dopelniacz": "wyswiechtanych grubych ksiazek",
+      "mnoga_biernik": "wyswiechtane grube ksiazki",
       "categories": [
         "golemy",
         "magia i jej twory"
@@ -339,6 +462,9 @@
       "mianownik": "zatechly przybrudzony rekopis",
       "dopelniacz": "zatechlego przybrudzonego rekopisu",
       "biernik": "zatechly przybrudzony rekopis",
+      "mnoga_mianownik": "zatechle przybrudzone rekopisy",
+      "mnoga_dopelniacz": "zatechlych przybrudzonych rekopisow",
+      "mnoga_biernik": "zatechle przybrudzone rekopisy",
       "categories": [
         "nieumarli"
       ]
@@ -347,6 +473,9 @@
       "mianownik": "zdobiona oprawna ksiega",
       "dopelniacz": "zdobionej oprawnej ksiegi",
       "biernik": "zdobiona oprawna ksiege",
+      "mnoga_mianownik": "zdobione oprawne ksiegi",
+      "mnoga_dopelniacz": "zdobionych oprawnych ksiag",
+      "mnoga_biernik": "zdobione oprawne ksiegi",
       "categories": [
         "starsze rasy"
       ]

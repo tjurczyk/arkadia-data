@@ -30,6 +30,9 @@
             "mianownik",
             "dopelniacz",
             "biernik",
+            "mnoga_mianownik",
+            "mnoga_dopelniacz",
+            "mnoga_biernik",
             "categories"
           ],
           "properties": {
@@ -40,6 +43,15 @@
               "type": "string"
             },
             "biernik": {
+              "type": "string"
+            },
+            "mnoga_mianownik": {
+              "type": "string"
+            },
+            "mnoga_dopelniacz": {
+              "type": "string"
+            },
+            "mnoga_biernik": {
               "type": "string"
             },
             "categories": {
