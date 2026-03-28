@@ -1689,6 +1689,18 @@
                 "zasniedzialej kanciastej koronie",
                 "zasniedzialej kanciastej korony"
             ]
+        },
+        "migocaca diamentowa maska": {
+            "type": [
+                "inne"
+            ],
+            "regexps": [
+                "migocaca diamentowa maska",
+                "migocacej diamentowej maski",
+                "migocacej diamentowej masce",
+                "migocaca diamentowa maske",
+                "migocace diamentowe maski"
+            ]
         }
     }
 }
