@@ -401,6 +401,17 @@
         "nieumarli"
       ]
     },
+    "szary okuty tom": {
+      "mianownik": "szary okuty tom",
+      "dopelniacz": "szarego okutego tomu",
+      "biernik": "szary okuty tom",
+      "mnoga_mianownik": "szare okute tomy",
+      "mnoga_dopelniacz": "szarych okutych tomow",
+      "mnoga_biernik": "szare okute tomy",
+      "categories": [
+        "szczuroludzie"
+      ]
+    },
     "tega okuta ksiega": {
       "mianownik": "tega okuta ksiega",
       "dopelniacz": "tegiej okutej ksiegi",
