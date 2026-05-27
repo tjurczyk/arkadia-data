@@ -560,7 +560,6 @@
         "goblinoidy",
         "golemy",
         "jaszczuroludzie",
-        "magia i jej twory",
         "nieumarli",
         "pajaki i pajakowate",
         "smoki i smokowate",
@@ -949,6 +948,13 @@
         "wampiry"
       ],
       "name": "Biblioteka w Palacu Parravon"
+    },
+    "i6c953fb29": {
+      "location_id": "i6c953fb29",
+      "categories": [
+        "magia i jej twory"
+      ],
+      "name": "Biblioteka Gildii Magow Nuln"
     }
   },
   "version": 1

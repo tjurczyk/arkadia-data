@@ -72,6 +72,9 @@
               },
               "dont_bind": {
                 "type": "boolean"
+              },
+              "smokeable": {
+                "type": "boolean"
               }
             }
           }

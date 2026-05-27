@@ -264,6 +264,14 @@
       "mnoga_dopelniacz": "pachnacych snieznobialych kwiatow",
       "mnoga_biernik": "pachnace snieznobiale kwiaty"
     },
+    "gwiazda_poludnia": {
+      "mianownik": "zeschniete zoltawe ziele",
+      "dopelniacz": "zeschnietego zoltawego ziela",
+      "biernik": "zeschniete zoltawe ziele",
+      "mnoga_mianownik": "zeschniete zoltawe ziola",
+      "mnoga_dopelniacz": "zeschnietych zoltawych ziol",
+      "mnoga_biernik": "zeschniete zoltawe ziola"
+    },
     "hubka": {
       "mianownik": "grzybi suchy kapelusz",
       "dopelniacz": "grzybiego suchego kapelusza",
@@ -448,6 +456,14 @@
       "mnoga_dopelniacz": "fioletowych zwartych kwiatostanow",
       "mnoga_biernik": "fioletowe zwarte kwiatostany"
     },
+    "liscie_z_langunten": {
+      "mianownik": "zbite aromatyczne liscie",
+      "dopelniacz": "zbitych aromatycznych lisci",
+      "biernik": "zbite aromatyczne liscie",
+      "mnoga_mianownik": "zbite aromatyczne liscie",
+      "mnoga_dopelniacz": "zbitych aromatycznych lisci",
+      "mnoga_biernik": "zbite aromatyczne liscie"
+    },
     "lubczyk": {
       "mianownik": "szary aromatyczny korzen",
       "dopelniacz": "szarego aromatycznego korzenia",
@@ -559,6 +575,14 @@
       "mnoga_mianownik": "owlosione aromatyczne liscie",
       "mnoga_dopelniacz": "owlosionych aromatycznych lisci",
       "mnoga_biernik": "owlosione aromatyczne liscie"
+    },
+    "mieszanka_tytoniowa": {
+      "mianownik": "tytoniowo-ziolowa zbitka",
+      "dopelniacz": "tytoniowo-ziolowej zbitki",
+      "biernik": "tytoniowo-ziolowa zbitke",
+      "mnoga_mianownik": "tytoniowo-ziolowe zbitki",
+      "mnoga_dopelniacz": "tytoniowo-ziolowych zbitek",
+      "mnoga_biernik": "tytoniowo-ziolowe zbitki"
     },
     "mieta": {
       "mianownik": "okraglawy aromatyczny lisc",
@@ -992,13 +1016,61 @@
       "mnoga_dopelniacz": "zielonych lancetowatych lisci",
       "mnoga_biernik": "zielone lancetowate liscie"
     },
-    "tyton": {
+    "tyton_bakun": {
       "mianownik": "duze pomarszczone liscie",
-      "dopelniacz": "duzego pomarszczonego liscia",
+      "dopelniacz": "duzych pomarszczonych lisci",
       "biernik": "duze pomarszczone liscie",
       "mnoga_mianownik": "duze pomarszczone liscie",
       "mnoga_dopelniacz": "duzych pomarszczonych lisci",
       "mnoga_biernik": "duze pomarszczone liscie"
+    },
+    "tyton_cesarski": {
+      "mianownik": "pachnace czerwonawe liscie",
+      "dopelniacz": "pachnacych czerwonawych lisci",
+      "biernik": "pachnace czerwonawe liscie",
+      "mnoga_mianownik": "pachnace czerwonawe liscie",
+      "mnoga_dopelniacz": "pachnacych czerwonawych lisci",
+      "mnoga_biernik": "pachnace czerwonawe liscie"
+    },
+    "tyton_karmelowy": {
+      "mianownik": "ciete pomaranczowe liscie",
+      "dopelniacz": "cietych pomaranczowych lisci",
+      "biernik": "ciete pomaranczowe liscie",
+      "mnoga_mianownik": "ciete pomaranczowe liscie",
+      "mnoga_dopelniacz": "cietych pomaranczowych lisci",
+      "mnoga_biernik": "ciete pomaranczowe liscie"
+    },
+    "tyton_krema": {
+      "mianownik": "aromatyzowane zbite liscie",
+      "dopelniacz": "aromatyzowanych zbitych lisci",
+      "biernik": "aromatyzowane zbite liscie",
+      "mnoga_mianownik": "aromatyzowane zbite liscie",
+      "mnoga_dopelniacz": "aromatyzowanych zbitych lisci",
+      "mnoga_biernik": "aromatyzowane zbite liscie"
+    },
+    "tyton_redanski": {
+      "mianownik": "zwiniete brunatne liscie",
+      "dopelniacz": "zwinietych brunatnych lisci",
+      "biernik": "zwiniete brunatne liscie",
+      "mnoga_mianownik": "zwiniete brunatne liscie",
+      "mnoga_dopelniacz": "zwinietych brunatnych lisci",
+      "mnoga_biernik": "zwiniete brunatne liscie"
+    },
+    "tyton_samgaw": {
+      "mianownik": "ciemne wedzone liscie",
+      "dopelniacz": "ciemnych wedzonych lisci",
+      "biernik": "ciemne wedzone liscie",
+      "mnoga_mianownik": "ciemne wedzone liscie",
+      "mnoga_dopelniacz": "ciemnych wedzonych lisci",
+      "mnoga_biernik": "ciemne wedzone liscie"
+    },
+    "tyton_szlachetny": {
+      "mianownik": "podluzne wysuszone liscie",
+      "dopelniacz": "podluznych wysuszonych lisci",
+      "biernik": "podluzne wysuszone liscie",
+      "mnoga_mianownik": "podluzne wysuszone liscie",
+      "mnoga_dopelniacz": "podluznych wysuszonych lisci",
+      "mnoga_biernik": "podluzne wysuszone liscie"
     },
     "urzet": {
       "mianownik": "niepozorna sinozielona roslinka",
@@ -1159,6 +1231,14 @@
       "mnoga_mianownik": "cienkie kosmate lodyzki",
       "mnoga_dopelniacz": "cienkich kosmatych lodyzek",
       "mnoga_biernik": "cienkie kosmate lodyzki"
+    },
+    "ziele_stary_toby": {
+      "mianownik": "wysuszone wonne ziele",
+      "dopelniacz": "wysuszonego wonnego ziela",
+      "biernik": "wysuszone wonne ziele",
+      "mnoga_mianownik": "wysuszone wonne ziola",
+      "mnoga_dopelniacz": "wysuszonych wonnych ziol",
+      "mnoga_biernik": "wysuszone wonne ziola"
     }
   },
   "version": 4,
@@ -1442,6 +1522,14 @@
         "effect": "-pan"
       }
     ],
+    "gwiazda_poludnia": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
     "hubka": [
       {
         "action": ".",
@@ -1632,6 +1720,14 @@
         "effect": "+odp"
       }
     ],
+    "liscie_z_langunten": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
     "lubczyk": [
       {
         "action": "zjedz",
@@ -1738,6 +1834,14 @@
         "action": "powachaj",
         "effect": "--",
         "dont_bind": true
+      }
+    ],
+    "mieszanka_tytoniowa": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
       }
     ],
     "mieta": [
@@ -2161,11 +2265,60 @@
         "dont_bind": true
       }
     ],
-    "tyton": [
+    "tyton_bakun": [
       {
         "action": ".",
         "effect": "--",
-        "dont_bind": true
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
+    "tyton_cesarski": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
+    "tyton_karmelowy": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
+    "tyton_krema": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
+    "tyton_redanski": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
+    "tyton_samgaw": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
+      }
+    ],
+    "tyton_szlachetny": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
       }
     ],
     "urzet": [
@@ -2333,6 +2486,14 @@
       {
         "action": "zjedz",
         "effect": "<LimeGreen>+kon<grey>"
+      }
+    ],
+    "ziele_stary_toby": [
+      {
+        "action": ".",
+        "effect": "--",
+        "dont_bind": true,
+        "smokeable": true
       }
     ]
   }
