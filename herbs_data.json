@@ -270,7 +270,8 @@
       "biernik": "zeschniete zoltawe ziele",
       "mnoga_mianownik": "zeschniete zoltawe ziola",
       "mnoga_dopelniacz": "zeschnietych zoltawych ziol",
-      "mnoga_biernik": "zeschniete zoltawe ziola"
+      "mnoga_biernik": "zeschniete zoltawe ziola",
+      "narzednik": "zeschnietym zoltawym zielem"
     },
     "hubka": {
       "mianownik": "grzybi suchy kapelusz",
@@ -462,7 +463,8 @@
       "biernik": "zbite aromatyczne liscie",
       "mnoga_mianownik": "zbite aromatyczne liscie",
       "mnoga_dopelniacz": "zbitych aromatycznych lisci",
-      "mnoga_biernik": "zbite aromatyczne liscie"
+      "mnoga_biernik": "zbite aromatyczne liscie",
+      "narzednik": "zbitym aromatycznym lisciem"
     },
     "lubczyk": {
       "mianownik": "szary aromatyczny korzen",
@@ -582,7 +584,8 @@
       "biernik": "tytoniowo-ziolowa zbitke",
       "mnoga_mianownik": "tytoniowo-ziolowe zbitki",
       "mnoga_dopelniacz": "tytoniowo-ziolowych zbitek",
-      "mnoga_biernik": "tytoniowo-ziolowe zbitki"
+      "mnoga_biernik": "tytoniowo-ziolowe zbitki",
+      "narzednik": "tytoniowo-ziolowa zbitka"
     },
     "mieta": {
       "mianownik": "okraglawy aromatyczny lisc",
@@ -1022,7 +1025,8 @@
       "biernik": "duze pomarszczone liscie",
       "mnoga_mianownik": "duze pomarszczone liscie",
       "mnoga_dopelniacz": "duzych pomarszczonych lisci",
-      "mnoga_biernik": "duze pomarszczone liscie"
+      "mnoga_biernik": "duze pomarszczone liscie",
+      "narzednik": "duzym pomarszczonym lisciem"
     },
     "tyton_cesarski": {
       "mianownik": "pachnace czerwonawe liscie",
@@ -1030,7 +1034,8 @@
       "biernik": "pachnace czerwonawe liscie",
       "mnoga_mianownik": "pachnace czerwonawe liscie",
       "mnoga_dopelniacz": "pachnacych czerwonawych lisci",
-      "mnoga_biernik": "pachnace czerwonawe liscie"
+      "mnoga_biernik": "pachnace czerwonawe liscie",
+      "narzednik": "pachnacym czerwonawym lisciem"
     },
     "tyton_karmelowy": {
       "mianownik": "ciete pomaranczowe liscie",
@@ -1038,7 +1043,8 @@
       "biernik": "ciete pomaranczowe liscie",
       "mnoga_mianownik": "ciete pomaranczowe liscie",
       "mnoga_dopelniacz": "cietych pomaranczowych lisci",
-      "mnoga_biernik": "ciete pomaranczowe liscie"
+      "mnoga_biernik": "ciete pomaranczowe liscie",
+      "narzednik": "cietym pomaranczowym lisciem"
     },
     "tyton_krema": {
       "mianownik": "aromatyzowane zbite liscie",
@@ -1046,7 +1052,8 @@
       "biernik": "aromatyzowane zbite liscie",
       "mnoga_mianownik": "aromatyzowane zbite liscie",
       "mnoga_dopelniacz": "aromatyzowanych zbitych lisci",
-      "mnoga_biernik": "aromatyzowane zbite liscie"
+      "mnoga_biernik": "aromatyzowane zbite liscie",
+      "narzednik": "aromatyzowanym zbitym lisciem"
     },
     "tyton_redanski": {
       "mianownik": "zwiniete brunatne liscie",
@@ -1054,7 +1061,8 @@
       "biernik": "zwiniete brunatne liscie",
       "mnoga_mianownik": "zwiniete brunatne liscie",
       "mnoga_dopelniacz": "zwinietych brunatnych lisci",
-      "mnoga_biernik": "zwiniete brunatne liscie"
+      "mnoga_biernik": "zwiniete brunatne liscie",
+      "narzednik": "zwinietym brunatnym lisciem"
     },
     "tyton_samgaw": {
       "mianownik": "ciemne wedzone liscie",
@@ -1062,7 +1070,8 @@
       "biernik": "ciemne wedzone liscie",
       "mnoga_mianownik": "ciemne wedzone liscie",
       "mnoga_dopelniacz": "ciemnych wedzonych lisci",
-      "mnoga_biernik": "ciemne wedzone liscie"
+      "mnoga_biernik": "ciemne wedzone liscie",
+      "narzednik": "ciemnym wedzonym lisciem"
     },
     "tyton_szlachetny": {
       "mianownik": "podluzne wysuszone liscie",
@@ -1070,7 +1079,8 @@
       "biernik": "podluzne wysuszone liscie",
       "mnoga_mianownik": "podluzne wysuszone liscie",
       "mnoga_dopelniacz": "podluznych wysuszonych lisci",
-      "mnoga_biernik": "podluzne wysuszone liscie"
+      "mnoga_biernik": "podluzne wysuszone liscie",
+      "narzednik": "podluznym wysuszonym lisciem"
     },
     "urzet": {
       "mianownik": "niepozorna sinozielona roslinka",
@@ -1238,7 +1248,8 @@
       "biernik": "wysuszone wonne ziele",
       "mnoga_mianownik": "wysuszone wonne ziola",
       "mnoga_dopelniacz": "wysuszonych wonnych ziol",
-      "mnoga_biernik": "wysuszone wonne ziola"
+      "mnoga_biernik": "wysuszone wonne ziola",
+      "narzednik": "wysuszonym wonnym zielem"
     }
   },
   "version": 4,

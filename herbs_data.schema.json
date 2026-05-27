@@ -48,6 +48,9 @@
             },
             "mnoga_biernik": {
               "type": "string"
+            },
+            "narzednik": {
+              "type": "string"
             }
           }
         }
