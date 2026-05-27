@@ -1527,7 +1527,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "hubka": [
@@ -1725,7 +1725,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "lubczyk": [
@@ -1841,7 +1841,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "mieta": [
@@ -2270,7 +2270,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "tyton_cesarski": [
@@ -2278,7 +2278,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "tyton_karmelowy": [
@@ -2286,7 +2286,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "tyton_krema": [
@@ -2294,7 +2294,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "tyton_redanski": [
@@ -2302,7 +2302,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "tyton_samgaw": [
@@ -2310,7 +2310,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "tyton_szlachetny": [
@@ -2318,7 +2318,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ],
     "urzet": [
@@ -2493,7 +2493,7 @@
         "action": ".",
         "effect": "--",
         "dont_bind": true,
-        "smokeable": true
+        "smokable": true
       }
     ]
   }
