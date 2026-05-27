@@ -464,7 +464,7 @@
       "mnoga_mianownik": "zbite aromatyczne liscie",
       "mnoga_dopelniacz": "zbitych aromatycznych lisci",
       "mnoga_biernik": "zbite aromatyczne liscie",
-      "narzednik": "zbitym aromatycznym lisciem"
+      "narzednik": "zbitymi aromatycznymi liscmi"
     },
     "lubczyk": {
       "mianownik": "szary aromatyczny korzen",
@@ -1026,7 +1026,7 @@
       "mnoga_mianownik": "duze pomarszczone liscie",
       "mnoga_dopelniacz": "duzych pomarszczonych lisci",
       "mnoga_biernik": "duze pomarszczone liscie",
-      "narzednik": "duzym pomarszczonym lisciem"
+      "narzednik": "duzymi pomarszczonymi liscmi"
     },
     "tyton_cesarski": {
       "mianownik": "pachnace czerwonawe liscie",
@@ -1035,7 +1035,7 @@
       "mnoga_mianownik": "pachnace czerwonawe liscie",
       "mnoga_dopelniacz": "pachnacych czerwonawych lisci",
       "mnoga_biernik": "pachnace czerwonawe liscie",
-      "narzednik": "pachnacym czerwonawym lisciem"
+      "narzednik": "pachnacymi czerwonawymi liscmi"
     },
     "tyton_karmelowy": {
       "mianownik": "ciete pomaranczowe liscie",
@@ -1044,7 +1044,7 @@
       "mnoga_mianownik": "ciete pomaranczowe liscie",
       "mnoga_dopelniacz": "cietych pomaranczowych lisci",
       "mnoga_biernik": "ciete pomaranczowe liscie",
-      "narzednik": "cietym pomaranczowym lisciem"
+      "narzednik": "cietymi pomaranczowymi liscmi"
     },
     "tyton_krema": {
       "mianownik": "aromatyzowane zbite liscie",
@@ -1053,7 +1053,7 @@
       "mnoga_mianownik": "aromatyzowane zbite liscie",
       "mnoga_dopelniacz": "aromatyzowanych zbitych lisci",
       "mnoga_biernik": "aromatyzowane zbite liscie",
-      "narzednik": "aromatyzowanym zbitym lisciem"
+      "narzednik": "aromatyzowanymi zbitymi liscmi"
     },
     "tyton_redanski": {
       "mianownik": "zwiniete brunatne liscie",
@@ -1062,7 +1062,7 @@
       "mnoga_mianownik": "zwiniete brunatne liscie",
       "mnoga_dopelniacz": "zwinietych brunatnych lisci",
       "mnoga_biernik": "zwiniete brunatne liscie",
-      "narzednik": "zwinietym brunatnym lisciem"
+      "narzednik": "zwinietymi brunatnymi liscmi"
     },
     "tyton_samgaw": {
       "mianownik": "ciemne wedzone liscie",
@@ -1071,7 +1071,7 @@
       "mnoga_mianownik": "ciemne wedzone liscie",
       "mnoga_dopelniacz": "ciemnych wedzonych lisci",
       "mnoga_biernik": "ciemne wedzone liscie",
-      "narzednik": "ciemnym wedzonym lisciem"
+      "narzednik": "ciemnymi wedzonymi liscmi"
     },
     "tyton_szlachetny": {
       "mianownik": "podluzne wysuszone liscie",
@@ -1080,7 +1080,7 @@
       "mnoga_mianownik": "podluzne wysuszone liscie",
       "mnoga_dopelniacz": "podluznych wysuszonych lisci",
       "mnoga_biernik": "podluzne wysuszone liscie",
-      "narzednik": "podluznym wysuszonym lisciem"
+      "narzednik": "podluznymi wysuszonymi liscmi"
     },
     "urzet": {
       "mianownik": "niepozorna sinozielona roslinka",
