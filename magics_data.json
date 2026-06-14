@@ -1038,6 +1038,18 @@
                 "rezonujacym krysztalowym mlotem"
             ]
         },
+        "rzezbiona kosciana lampa": {
+            "type": [
+                "inne"
+            ],
+            "regexps": [
+                "rzezbione kosciane lampy",
+                "rzezbionej koscianej lampy",
+                "rzezbiona kosciana lampe",
+                "rzezbiona kosciana lampa",
+                "rzezbionej koscianej lampie"
+            ]
+        },
         "smocza luska": {
             "type": [
                 "inne"
