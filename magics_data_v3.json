@@ -1,0 +1,4032 @@
+{
+    "version": 3,
+    "magics": {
+        "adamantytowa szpiczasta partyzana": {
+            "type": [
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "adamantytowa szpiczasta partyzana"
+                ],
+                "dopelniacz": [
+                    "adamantytowej szpiczastej partyzany"
+                ],
+                "celownik": [
+                    "adamantytowej szpiczastej partyzanie"
+                ],
+                "biernik": [
+                    "adamantytowa szpiczasta partyzane"
+                ],
+                "narzednik": [
+                    "adamantytowa szpiczasta partyzana"
+                ],
+                "miejscownik": [
+                    "adamantytowej szpiczastej partyzanie"
+                ],
+                "mnoga_mianownik": [
+                    "adamantytowe szpiczaste partyzany"
+                ],
+                "mnoga_biernik": [
+                    "adamantytowe szpiczaste partyzany"
+                ]
+            }
+        },
+        "adamantytowy mlot bojowy": {
+            "type": [
+                "jednoreczny mlot",
+                "dwureczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "adamantytowy mlot bojowy"
+                ],
+                "dopelniacz": [
+                    "adamantytowego mlota bojowego"
+                ],
+                "biernik": [
+                    "adamantytowy mlot bojowy"
+                ],
+                "narzednik": [
+                    "adamantytowym mlotem bojowym"
+                ],
+                "miejscownik": [
+                    "adamantytowym mlocie bojowym"
+                ],
+                "mnoga_mianownik": [
+                    "adamantytowe mloty bojowe"
+                ],
+                "mnoga_biernik": [
+                    "adamantytowe mloty bojowe"
+                ]
+            }
+        },
+        "antyczny zdobiony sztylet": {
+            "type": [
+                "sztylet"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "antyczny zdobiony sztylet"
+                ],
+                "dopelniacz": [
+                    "antycznego zdobionego sztyletu"
+                ],
+                "biernik": [
+                    "antyczny zdobiony sztylet"
+                ],
+                "narzednik": [
+                    "antycznym zdobionym sztyletem"
+                ],
+                "miejscownik": [
+                    "antycznym zdobionym sztylecie"
+                ],
+                "mnoga_mianownik": [
+                    "antyczne zdobione sztylety"
+                ],
+                "mnoga_biernik": [
+                    "antyczne zdobione sztylety"
+                ]
+            }
+        },
+        "archaiczny zdobiony topor": {
+            "type": [
+                "jednoreczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "archaiczny zdobiony topor"
+                ],
+                "dopelniacz": [
+                    "archaicznego zdobionego topora"
+                ],
+                "biernik": [
+                    "archaiczny zdobiony topor"
+                ],
+                "narzednik": [
+                    "archaicznym zdobionym toporem"
+                ],
+                "miejscownik": [
+                    "archaicznym zdobionym toporze"
+                ],
+                "mnoga_mianownik": [
+                    "archaiczne zdobione topory"
+                ],
+                "mnoga_biernik": [
+                    "archaiczne zdobione topory"
+                ]
+            }
+        },
+        "asymetryczny wulkaniczny mlot": {
+            "type": [
+                "jednoreczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "asymetryczny wulkaniczny mlot"
+                ],
+                "dopelniacz": [
+                    "asymetrycznego wulkanicznego mlota"
+                ],
+                "biernik": [
+                    "asymetryczny wulkaniczny mlot"
+                ],
+                "narzednik": [
+                    "asymetrycznym wulkanicznym mlotem"
+                ],
+                "miejscownik": [
+                    "asymetrycznym wulkanicznym mlocie"
+                ],
+                "mnoga_mianownik": [
+                    "asymetryczne wulkaniczne mloty"
+                ],
+                "mnoga_biernik": [
+                    "asymetryczne wulkaniczne mloty"
+                ]
+            }
+        },
+        "azurowy koscistobialy amulet": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "azurowy koscistobialy amulet"
+                ],
+                "dopelniacz": [
+                    "azurowego koscistobialego amuletu"
+                ],
+                "celownik": [
+                    "azurowemu koscistobialemu amuletowi"
+                ],
+                "biernik": [
+                    "azurowy koscistobialy amulet"
+                ],
+                "narzednik": [
+                    "azurowym koscistobialym amuletem"
+                ],
+                "miejscownik": [
+                    "azurowym koscistobialym amulecie"
+                ],
+                "mnoga_mianownik": [
+                    "azurowe koscistobiale amulety"
+                ],
+                "mnoga_biernik": [
+                    "azurowe koscistobiale amulety"
+                ]
+            }
+        },
+        "azurowy polyskujacy amulet z wielobarwnego koralu": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "azurowy polyskujacy amulet z wielobarwnego koralu"
+                ],
+                "dopelniacz": [
+                    "azurowego polyskujacego amuletu z wielobarwnego koralu"
+                ],
+                "biernik": [
+                    "azurowy polyskujacy amulet z wielobarwnego koralu"
+                ],
+                "narzednik": [
+                    "azurowym polyskujacym amuletem z wielobarwnego koralu"
+                ],
+                "miejscownik": [
+                    "azurowym polyskujacym amulecie z wielobarwnego koralu"
+                ],
+                "mnoga_mianownik": [
+                    "azurowe polyskujace amulety z wielobarwnego koralu"
+                ],
+                "mnoga_biernik": [
+                    "azurowe polyskujace amulety z wielobarwnego koralu"
+                ]
+            }
+        },
+        "bialoblekitna smocza zbroja": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "bialoblekitna smocza zbroja"
+                ],
+                "dopelniacz": [
+                    "bialoblekitnej smoczej zbroi"
+                ],
+                "celownik": [
+                    "bialoblekitnej smoczej zbroi"
+                ],
+                "biernik": [
+                    "bialoblekitna smocza zbroje"
+                ],
+                "narzednik": [
+                    "bialoblekitna smocza zbroja"
+                ],
+                "miejscownik": [
+                    "bialoblekitnej smoczej zbroi"
+                ],
+                "mnoga_mianownik": [
+                    "bialoblekitne smocze zbroje"
+                ],
+                "mnoga_biernik": [
+                    "bialoblekitne smocze zbroje"
+                ]
+            }
+        },
+        "blekitno-srebrna trojkatna tarcza": {
+            "type": [
+                "tarcza"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "blekitno-srebrna trojkatna tarcza"
+                ],
+                "dopelniacz": [
+                    "blekitno-srebrnej trojkatnej tarczy"
+                ],
+                "celownik": [
+                    "blekitno-srebrnej trojkatnej tarczy"
+                ],
+                "biernik": [
+                    "blekitno-srebrna trojkatna tarcze"
+                ],
+                "narzednik": [
+                    "blekitno-srebrna trojkatna tarcza"
+                ],
+                "miejscownik": [
+                    "blekitno-srebrnej trojkatnej tarczy"
+                ],
+                "mnoga_mianownik": [
+                    "blekitno-srebrne trojkatne tarcze"
+                ],
+                "mnoga_biernik": [
+                    "blekitno-srebrne trojkatne tarcze"
+                ]
+            }
+        },
+        "ciemna owalna maska": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "ciemna owalna maska"
+                ],
+                "celownik": [
+                    "ciemnej owalnej masce"
+                ],
+                "narzednik": [
+                    "ciemna owalna maska"
+                ],
+                "miejscownik": [
+                    "ciemnej owalnej masce"
+                ],
+                "mnoga_mianownik": [
+                    "ciemne owalne maski"
+                ],
+                "mnoga_biernik": [
+                    "ciemne owalne maski"
+                ]
+            }
+        },
+        "ciemnogranatowy smukly helm": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "ciemnogranatowy smukly helm"
+                ],
+                "dopelniacz": [
+                    "ciemongranatowego smuklego helmu"
+                ],
+                "biernik": [
+                    "ciemnogranatowy smukly helm"
+                ],
+                "narzednik": [
+                    "ciemnogranatowym smuklym helmem"
+                ],
+                "miejscownik": [
+                    "ciemnogranatowym smuklym helmie"
+                ],
+                "mnoga_mianownik": [
+                    "ciemnogranatowe smukle helmy"
+                ],
+                "mnoga_biernik": [
+                    "ciemnogranatowe smukle helmy"
+                ]
+            }
+        },
+        "ciernista kobaltowa halabarda": {
+            "type": [
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "ciernista kobaltowa halabarda"
+                ],
+                "dopelniacz": [
+                    "ciernistej kobaltowej halabardy"
+                ],
+                "celownik": [
+                    "ciernistej kobaltowej halabardzie"
+                ],
+                "biernik": [
+                    "ciernista kobaltowa halabarde"
+                ],
+                "narzednik": [
+                    "ciernista kobaltowa halabarda"
+                ],
+                "miejscownik": [
+                    "ciernistej kobaltowej halabardzie"
+                ],
+                "mnoga_mianownik": [
+                    "cierniste kobaltowe halabardy"
+                ],
+                "mnoga_biernik": [
+                    "cierniste kobaltowe halabardy"
+                ]
+            }
+        },
+        "ciezki krwisty amulet": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "ciezki krwisty amulet"
+                ],
+                "biernik": [
+                    "ciezki krwisty amulet"
+                ],
+                "miejscownik": [
+                    "ciezkim krwistym amulecie"
+                ],
+                "mnoga_mianownik": [
+                    "ciezkie krwiste amulety"
+                ],
+                "mnoga_biernik": [
+                    "ciezkie krwiste amulety"
+                ]
+            }
+        },
+        "czarny blyszczacy kolczyk": {
+            "type": [
+                "kolczyk"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "czarny blyszczacy kolczyk"
+                ],
+                "biernik": [
+                    "czarny blyszczacy kolczyk"
+                ],
+                "miejscownik": [
+                    "czarnym blyszczacym kolczyku"
+                ],
+                "mnoga_mianownik": [
+                    "czarne blyszczace kolczyki"
+                ],
+                "mnoga_biernik": [
+                    "czarne blyszczace kolczyki"
+                ]
+            }
+        },
+        "czarny prosty diadem": {
+            "type": [
+                "diadem"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "czarny prosty diadem"
+                ],
+                "dopelniacz": [
+                    "czarnego prostego diademu"
+                ],
+                "biernik": [
+                    "czarny prosty diadem"
+                ],
+                "narzednik": [
+                    "czarnym prostym diademem"
+                ],
+                "miejscownik": [
+                    "czarnym prostym diademie"
+                ],
+                "mnoga_mianownik": [
+                    "czarne proste diademy"
+                ],
+                "mnoga_biernik": [
+                    "czarne proste diademy"
+                ]
+            }
+        },
+        "czarny zdobiony amulet": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "czarny zdobiony amulet"
+                ],
+                "biernik": [
+                    "czarny zdobiony amulet"
+                ],
+                "miejscownik": [
+                    "czarnym zdobionym amulecie"
+                ],
+                "mnoga_mianownik": [
+                    "czarne zdobione amulety"
+                ],
+                "mnoga_biernik": [
+                    "czarne zdobione amulety"
+                ]
+            }
+        },
+        "czarny zdobiony helm": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "czarny zdobiony helm"
+                ],
+                "biernik": [
+                    "czarny zdobiony helm"
+                ],
+                "narzednik": [
+                    "czarnym zdobionym helmem"
+                ],
+                "miejscownik": [
+                    "czarnym zdobionym helmie"
+                ],
+                "mnoga_mianownik": [
+                    "czarne zdobione helmy"
+                ],
+                "mnoga_biernik": [
+                    "czarne zdobione helmy"
+                ]
+            }
+        },
+        "czarnoblekitny pulsujacy morgenstern": {
+            "type": [
+                "jednoreczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "czarnoblekitny pulsujacy morgenstern"
+                ],
+                "dopelniacz": [
+                    "czarnoblekitnego pulsujacego morgensterna"
+                ],
+                "biernik": [
+                    "czarnoblekitny pulsujacy morgenstern"
+                ],
+                "narzednik": [
+                    "czarnoblekitnym pulsujacym morgensternem"
+                ],
+                "miejscownik": [
+                    "czarnoblekitnym pulsujacym morgensternie"
+                ],
+                "mnoga_mianownik": [
+                    "czarnoblekitne pulsujace morgensterny"
+                ],
+                "mnoga_biernik": [
+                    "czarnoblekitne pulsujace morgensterny"
+                ]
+            }
+        },
+        "czerwona skrzydlata para nareczakow": {
+            "type": [
+                "naramienniki"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "czerwona skrzydlata para nareczakow"
+                ],
+                "dopelniacz": [
+                    "czerwonej skrzydlatej pary nareczakow"
+                ],
+                "celownik": [
+                    "czerwonej skrzydlatej parze nareczakow"
+                ],
+                "biernik": [
+                    "czerwona skrzydlata pare nareczakow"
+                ],
+                "narzednik": [
+                    "czerwona skrzydlata para nareczakow"
+                ],
+                "miejscownik": [
+                    "czerwonej skrzydlatej parze nareczakow"
+                ],
+                "mnoga_mianownik": [
+                    "czerwone skrzydlate pary nareczakow"
+                ],
+                "mnoga_biernik": [
+                    "czerwone skrzydlate pary nareczakow"
+                ],
+                "mnoga_miejscownik": [
+                    "czerwonych skrzydlatych parach nareczakow"
+                ]
+            }
+        },
+        "czerwonozloty rozjarzony kaftan": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "czerwonozloty rozjarzony kaftan"
+                ],
+                "dopelniacz": [
+                    "czerwonozlotego rozjarzonego kaftana"
+                ],
+                "biernik": [
+                    "czerwonozloty rozjarzony kaftan"
+                ],
+                "narzednik": [
+                    "czerwonozlotym rozjarzonym kaftanem"
+                ],
+                "miejscownik": [
+                    "czerwonozlotym rozjarzonym kaftanie"
+                ],
+                "mnoga_mianownik": [
+                    "czerwonozlote rozjarzone kaftany"
+                ],
+                "mnoga_biernik": [
+                    "czerwonozlote rozjarzone kaftany"
+                ]
+            }
+        },
+        "dluga czarna szata": {
+            "type": [
+                "plaszcz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "dluga czarna szata"
+                ],
+                "dopelniacz": [
+                    "dlugiej czarnej szaty"
+                ],
+                "celownik": [
+                    "dlugiej czarnej szacie"
+                ],
+                "biernik": [
+                    "dluga czarna szate"
+                ],
+                "narzednik": [
+                    "dluga czarna szata"
+                ],
+                "miejscownik": [
+                    "dlugiej czarnej szacie"
+                ],
+                "mnoga_mianownik": [
+                    "dlugie czarne szaty"
+                ],
+                "mnoga_biernik": [
+                    "dlugie czarne szaty"
+                ]
+            }
+        },
+        "dluga krasnoludzka bajdana": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "dluga krasnoludzka bajdana"
+                ],
+                "dopelniacz": [
+                    "dlugiej krasnoludzkiej bajdany"
+                ],
+                "celownik": [
+                    "dlugiej krasnoludzkiej bajdanie"
+                ],
+                "biernik": [
+                    "dluga krasnoludzka bajdane"
+                ],
+                "narzednik": [
+                    "dluga krasnoludzka bajdana"
+                ],
+                "miejscownik": [
+                    "dlugiej krasnoludzkiej bajdanie"
+                ],
+                "mnoga_mianownik": [
+                    "dlugie krasnoludzkie bajdany"
+                ],
+                "mnoga_dopelniacz": [
+                    "dlugich krasnoludzkich bajdan"
+                ],
+                "mnoga_biernik": [
+                    "dlugie krasnoludzkie bajdany"
+                ]
+            }
+        },
+        "dlugi runiczny korbacz": {
+            "type": [
+                "dwureczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "dlugi runiczny korbacz"
+                ],
+                "dopelniacz": [
+                    "dlugiego runicznego korbacza"
+                ],
+                "celownik": [
+                    "dlugiemu runicznemu korbaczowi"
+                ],
+                "biernik": [
+                    "dlugi runiczny korbacz"
+                ],
+                "narzednik": [
+                    "dlugim runicznym korbaczem"
+                ],
+                "miejscownik": [
+                    "dlugim runicznym korbaczu"
+                ],
+                "mnoga_mianownik": [
+                    "dlugie runiczne korbacze"
+                ],
+                "mnoga_biernik": [
+                    "dlugie runiczne korbacze"
+                ]
+            }
+        },
+        "egzotyczny jadeitowy palasz": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "egzotyczny jadeitowy palasz"
+                ],
+                "dopelniacz": [
+                    "egzotycznego jadeitowego palasza"
+                ],
+                "biernik": [
+                    "egzotyczny jadeitowy palasz"
+                ],
+                "narzednik": [
+                    "egzotycznym jadeitowym palaszem"
+                ],
+                "miejscownik": [
+                    "egzotycznym jadeitowym palaszu"
+                ],
+                "mnoga_mianownik": [
+                    "egzotyczne jadeitowe palasze"
+                ],
+                "mnoga_biernik": [
+                    "egzotyczne jadeitowe palasze"
+                ]
+            }
+        },
+        "foremny iskrzacy mlot": {
+            "type": [
+                "jednoreczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "foremny iskrzacy mlot"
+                ],
+                "dopelniacz": [
+                    "foremnego iskrzacego mlota"
+                ],
+                "celownik": [
+                    "foremnemu iskrzacemu mlotowi"
+                ],
+                "biernik": [
+                    "foremny iskrzacy mlot"
+                ],
+                "narzednik": [
+                    "foremnym iskrzacym mlotem"
+                ],
+                "miejscownik": [
+                    "foremnym iskrzacym mlocie"
+                ],
+                "mnoga_mianownik": [
+                    "foremne iskrzace mloty"
+                ],
+                "mnoga_biernik": [
+                    "foremne iskrzace mloty"
+                ]
+            }
+        },
+        "gadzi polyskujacy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "gadzi polyskujacy pancerz"
+                ],
+                "dopelniacz": [
+                    "gadziego polyskujacego pancerza"
+                ],
+                "biernik": [
+                    "gadzi polyskujacy pancerz"
+                ],
+                "narzednik": [
+                    "gadzim polyskujacym pancerzem"
+                ],
+                "miejscownik": [
+                    "gadzim polyskujacym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "gadzie polyskujace pancerze"
+                ],
+                "mnoga_biernik": [
+                    "gadzie polyskujace pancerze"
+                ]
+            },
+            "dodatkowe_regexps": [
+                "luskowata faktura zbroi wykonanej ze skory hydry"
+            ]
+        },
+        "garsc lepkiego mlecznobialego pylu": {
+            "type": [
+                "pyl"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "garsc lepkiego mlecznobialego pylu"
+                ],
+                "dopelniacz": [
+                    "garsci lepkiego mlecznobialego pylu"
+                ],
+                "celownik": [
+                    "garsci lepkiego mlecznobialego pylu"
+                ],
+                "biernik": [
+                    "garsc lepkiego mlecznobialego pylu"
+                ],
+                "miejscownik": [
+                    "garsci lepkiego mlecznobialego pylu"
+                ],
+                "mnoga_mianownik": [
+                    "garscie lepkiego mlecznobialego pylu"
+                ],
+                "mnoga_biernik": [
+                    "garscie lepkiego mlecznobialego pylu"
+                ]
+            }
+        },
+        "garsc wielobarwnego polyskliwego pylu": {
+            "type": [
+                "pyl"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "garsc wielobarwnego polyskliwego pylu"
+                ],
+                "dopelniacz": [
+                    "garsci wielobarwnego polyskliwego pylu"
+                ],
+                "celownik": [
+                    "garsci wielobarwnego polyskliwego pylu"
+                ],
+                "biernik": [
+                    "garsc wielobarwnego polyskliwego pylu"
+                ],
+                "miejscownik": [
+                    "garsci wielobarwnego polyskliwego pylu"
+                ],
+                "mnoga_mianownik": [
+                    "garscie wielobarwnego polyskliwego pylu"
+                ],
+                "mnoga_biernik": [
+                    "garscie wielobarwnego polyskliwego pylu"
+                ]
+            }
+        },
+        "gigantyczny granitowy mlot": {
+            "type": [
+                "dwureczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "gigantyczny granitowy mlot"
+                ],
+                "dopelniacz": [
+                    "gigantycznego granitowego mlota"
+                ],
+                "biernik": [
+                    "gigantyczny granitowy mlot"
+                ],
+                "narzednik": [
+                    "gigantycznym granitowym mlotem"
+                ],
+                "miejscownik": [
+                    "gigantycznym granitowym mlocie"
+                ],
+                "mnoga_mianownik": [
+                    "gigantyczne granitowe mloty"
+                ],
+                "mnoga_biernik": [
+                    "gigantyczne granitowe mloty"
+                ]
+            }
+        },
+        "gorejacy dlugi talwar": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "gorejacy dlugi talwar"
+                ],
+                "dopelniacz": [
+                    "gorejacego dlugiego talwara"
+                ],
+                "biernik": [
+                    "gorejacy dlugi talwar"
+                ],
+                "narzednik": [
+                    "gorejacym dlugim talwarem"
+                ],
+                "miejscownik": [
+                    "gorejacym dlugim talwarze"
+                ],
+                "mnoga_mianownik": [
+                    "gorejace dlugie talwary"
+                ],
+                "mnoga_biernik": [
+                    "gorejace dlugie talwary"
+                ]
+            }
+        },
+        "grawerowane podluzne pudelko": {
+            "type": [
+                "pojemnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "otwarte grawerowane podluzne pudelko",
+                    "zamkniete grawerowane podluzne pudelko"
+                ],
+                "dopelniacz": [
+                    "otwartego grawerowanego podluznego pudelka",
+                    "zamknietego grawerowanego podluznego pudelka"
+                ],
+                "celownik": [
+                    "otwartemu grawerowanemu podluznemu pudelku",
+                    "zamknietemu grawerowanemu podluznemu pudelku"
+                ],
+                "biernik": [
+                    "otwarte grawerowane podluzne pudelko",
+                    "zamkniete grawerowane podluzne pudelko"
+                ],
+                "narzednik": [
+                    "otwartym grawerowanym podluznym pudelkiem",
+                    "zamknietym grawerowanym podluznym pudelkiem"
+                ],
+                "miejscownik": [
+                    "otwartym grawerowanym podluznym pudelku",
+                    "zamknietym grawerowanym podluznym pudelku"
+                ]
+            }
+        },
+        "gruba czarna opaska z kolcami": {
+            "type": [
+                "opaska"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "gruba czarna opaska z kolcami"
+                ],
+                "dopelniacz": [
+                    "grubej czarnej opaski z kolcami"
+                ],
+                "celownik": [
+                    "grubej czarnej opasce"
+                ],
+                "biernik": [
+                    "gruba czarna opaske z kolcami"
+                ],
+                "narzednik": [
+                    "gruba czarna opaska z kolcami"
+                ],
+                "miejscownik": [
+                    "grubej czarnej opasce"
+                ],
+                "mnoga_mianownik": [
+                    "grube czarne opaski z kolcami"
+                ],
+                "mnoga_biernik": [
+                    "grube czarne opaski z kolcami"
+                ]
+            },
+            "dodatkowe_regexps": [
+                "gruba czarne opaski z kolcami"
+            ]
+        },
+        "gruby zlocisty pierscien z hiacyntem": {
+            "type": [
+                "pierscien"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "gruby zlocisty pierscien z hiacyntem"
+                ],
+                "dopelniacz": [
+                    "grubego zlocistego pierscienia z hiacyntem"
+                ],
+                "biernik": [
+                    "gruby zlocisty pierscien z hiacyntem"
+                ],
+                "narzednik": [
+                    "grubym zlocistym pierscieniem z hiacyntem"
+                ],
+                "miejscownik": [
+                    "grubym zlocistym pierscieniu z hiacyntem"
+                ],
+                "mnoga_mianownik": [
+                    "grube zlociste pierscienie z hiacyntem"
+                ],
+                "mnoga_biernik": [
+                    "grube zlociste pierscienie z hiacyntem"
+                ]
+            }
+        },
+        "iskrzaca zdobiona bulawa": {
+            "type": [
+                "jednoreczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "iskrzaca zdobiona bulawa"
+                ],
+                "dopelniacz": [
+                    "iskrzacej zdobionej bulawy"
+                ],
+                "celownik": [
+                    "iskrzacej zdobionej bulawie"
+                ],
+                "biernik": [
+                    "iskrzaca zdobiona bulawe"
+                ],
+                "narzednik": [
+                    "iskrzaca zdobiona bulawa"
+                ],
+                "miejscownik": [
+                    "iskrzacej zdobionej bulawie"
+                ],
+                "mnoga_mianownik": [
+                    "iskrzace zdobione bulawy"
+                ],
+                "mnoga_biernik": [
+                    "iskrzace zdobione bulawy"
+                ]
+            }
+        },
+        "jasniejacy zdobiony jatagan": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "jasniejacy zdobiony jatagan"
+                ],
+                "dopelniacz": [
+                    "jasniejacego zdobionego jatagana"
+                ],
+                "biernik": [
+                    "jasniejacy zdobiony jatagan"
+                ],
+                "narzednik": [
+                    "jasniejacym zdobionym jataganem"
+                ],
+                "miejscownik": [
+                    "jasniejacym zdobionym jataganie"
+                ],
+                "mnoga_mianownik": [
+                    "jasniejace zdobione jatagany"
+                ],
+                "mnoga_biernik": [
+                    "jasniejace zdobione jatagany"
+                ]
+            }
+        },
+        "kosciany kilof": {
+            "type": [
+                "dwureczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "kosciany kilof"
+                ],
+                "dopelniacz": [
+                    "koscianego kilofa"
+                ],
+                "biernik": [
+                    "kosciany kilof"
+                ],
+                "narzednik": [
+                    "koscianym kilofem"
+                ],
+                "miejscownik": [
+                    "koscianym kilofie"
+                ],
+                "mnoga_mianownik": [
+                    "kosciane kilofy"
+                ],
+                "mnoga_biernik": [
+                    "kosciane kilofy"
+                ]
+            }
+        },
+        "krasnoludzka starozytna korona": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "krasnoludzka starozytna korona"
+                ],
+                "dopelniacz": [
+                    "krasnoludzkiej starozytnej korony"
+                ],
+                "celownik": [
+                    "krasnoludzkiej starozytnej koronie"
+                ],
+                "biernik": [
+                    "krasnoludzka starozytna korone"
+                ],
+                "narzednik": [
+                    "krasnoludzka starozytna korona"
+                ],
+                "miejscownik": [
+                    "krasnoludzkiej starozytnej koronie"
+                ],
+                "mnoga_mianownik": [
+                    "krasnoludzkie starozytne korony"
+                ],
+                "mnoga_biernik": [
+                    "krasnoludzkie starozytne korony"
+                ]
+            }
+        },
+        "kruczoczarny misterny miecz": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "kruczoczarny misterny miecz"
+                ],
+                "dopelniacz": [
+                    "kruczoczarnego misternego miecza"
+                ],
+                "biernik": [
+                    "kruczoczarny misterny miecz"
+                ],
+                "narzednik": [
+                    "kruczoczarnym misternym mieczem"
+                ],
+                "miejscownik": [
+                    "kruczoczarnym misternym mieczu"
+                ],
+                "mnoga_mianownik": [
+                    "kruczoczarne misterne miecze"
+                ],
+                "mnoga_biernik": [
+                    "kruczoczarne misterne miecze"
+                ]
+            }
+        },
+        "krysztalowa gryfia lampa": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "krysztalowa gryfia lampa"
+                ],
+                "dopelniacz": [
+                    "krysztalowej gryfiej lampy"
+                ],
+                "celownik": [
+                    "krysztalowej gryfiej lampie"
+                ],
+                "biernik": [
+                    "krysztalowa gryfia lampe"
+                ],
+                "narzednik": [
+                    "krysztalowa gryfia lampa"
+                ],
+                "miejscownik": [
+                    "krysztalowej gryfiej lampie"
+                ],
+                "mnoga_mianownik": [
+                    "krysztalowe gryfie lampy"
+                ],
+                "mnoga_biernik": [
+                    "krysztalowe gryfie lampy"
+                ]
+            }
+        },
+        "krysztalowa karafka": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "krysztalowa karafka"
+                ],
+                "dopelniacz": [
+                    "krysztalowej karafki"
+                ],
+                "celownik": [
+                    "krysztalowej karafce"
+                ],
+                "biernik": [
+                    "krysztalowa karafke"
+                ],
+                "narzednik": [
+                    "krysztalowa karafka"
+                ],
+                "miejscownik": [
+                    "krysztalowej karafce"
+                ],
+                "mnoga_mianownik": [
+                    "krysztalowe karafki"
+                ],
+                "mnoga_biernik": [
+                    "krysztalowe karafki"
+                ]
+            }
+        },
+        "krysztalowy swietlisty korbacz": {
+            "type": [
+                "jednoreczna maczuga",
+                "dwureczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "krysztalowy swietlisty korbacz"
+                ],
+                "dopelniacz": [
+                    "krysztalowego swietlistego korbacza"
+                ],
+                "biernik": [
+                    "krysztalowy swietlisty korbacz"
+                ],
+                "narzednik": [
+                    "krysztalowym swietlistym korbaczem"
+                ],
+                "miejscownik": [
+                    "krysztalowym swietlistym korbaczu"
+                ],
+                "mnoga_mianownik": [
+                    "krysztalowe swietliste korbacze"
+                ],
+                "mnoga_biernik": [
+                    "krysztalowe swietliste korbacze"
+                ]
+            }
+        },
+        "kunsztowny lekki pancerz": {
+            "type": [
+                "lekka zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "kunsztowny lekki pancerz"
+                ],
+                "dopelniacz": [
+                    "kunsztownego lekkiego pancerza"
+                ],
+                "biernik": [
+                    "kunsztowny lekki pancerz"
+                ],
+                "narzednik": [
+                    "kunsztownym lekkim pancerzem"
+                ],
+                "miejscownik": [
+                    "kunsztownym lekkim pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "kunsztowne lekkie pancerze"
+                ],
+                "mnoga_biernik": [
+                    "kunsztowne lekkie pancerze"
+                ]
+            }
+        },
+        "kunsztowny mithrylowy topor bojowy": {
+            "type": [
+                "jednoreczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "kunsztowny mithrylowy topor bojowy"
+                ],
+                "dopelniacz": [
+                    "kunsztownego mithrylowego topora bojowego"
+                ],
+                "biernik": [
+                    "kunsztowny mithrylowy topor bojowy"
+                ],
+                "narzednik": [
+                    "kunsztownym mithrylowym toporem bojowym"
+                ],
+                "miejscownik": [
+                    "kunsztownym mithrylowym toporze bojowym"
+                ],
+                "mnoga_mianownik": [
+                    "kunsztowne mithrylowe topory bojowe"
+                ],
+                "mnoga_biernik": [
+                    "kunsztowne mithrylowe topory bojowe"
+                ]
+            }
+        },
+        "lekka lsniaca bransoleta": {
+            "type": [
+                "bransoleta"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "lekka lsniaca bransoleta",
+                    "lekka lsniaca para bransolet"
+                ],
+                "dopelniacz": [
+                    "lekkiej lsniacej bransolety"
+                ],
+                "celownik": [
+                    "lekkiej lsniacej bransolecie"
+                ],
+                "biernik": [
+                    "lekka lsniaca bransolete"
+                ],
+                "narzednik": [
+                    "lekka lsniaca bransoleta",
+                    "lekka lsniaca para bransolet"
+                ],
+                "miejscownik": [
+                    "lekkiej lsniacej bransolecie"
+                ],
+                "mnoga_mianownik": [
+                    "lekkie lsniace bransolety"
+                ],
+                "mnoga_biernik": [
+                    "lekkie lsniace bransolety"
+                ]
+            }
+        },
+        "lodowata dluga maczuga": {
+            "type": [
+                "dwureczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "lodowata dluga maczuga"
+                ],
+                "dopelniacz": [
+                    "lodowatej dlugiej maczugi"
+                ],
+                "celownik": [
+                    "lodowatej dlugiej maczudze"
+                ],
+                "biernik": [
+                    "lodowata dluga maczuge"
+                ],
+                "narzednik": [
+                    "lodowata dluga maczuga"
+                ],
+                "miejscownik": [
+                    "lodowatej dlugiej maczudze"
+                ],
+                "mnoga_mianownik": [
+                    "lodowate dlugie maczugi"
+                ],
+                "mnoga_biernik": [
+                    "lodowate dlugie maczugi"
+                ]
+            }
+        },
+        "lodowy lsniacy sztylet": {
+            "type": [
+                "sztylet"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "lodowy lsniacy sztylet"
+                ],
+                "dopelniacz": [
+                    "lodowego lsniacego sztyletu"
+                ],
+                "biernik": [
+                    "lodowy lsniacy sztylet"
+                ],
+                "narzednik": [
+                    "lodowym lsniacym sztyletem"
+                ],
+                "miejscownik": [
+                    "lodowym lsniacym sztylecie"
+                ],
+                "mnoga_mianownik": [
+                    "lodowe lsniace sztylety"
+                ],
+                "mnoga_biernik": [
+                    "lodowe lsniace sztylety"
+                ]
+            }
+        },
+        "lsniaca plomienista tarcza": {
+            "type": [
+                "tarcza"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "lsniaca plomienista tarcza"
+                ],
+                "dopelniacz": [
+                    "lsniacej plomienistej tarczy"
+                ],
+                "celownik": [
+                    "lsniacej plomienistej tarczy"
+                ],
+                "biernik": [
+                    "lsniaca plomienista tarcze"
+                ],
+                "narzednik": [
+                    "lsniaca plomienista tarcza"
+                ],
+                "miejscownik": [
+                    "lsniacej plomienistej tarczy"
+                ],
+                "mnoga_mianownik": [
+                    "lsniace plomieniste tarcze"
+                ],
+                "mnoga_biernik": [
+                    "lsniace plomieniste tarcze"
+                ]
+            }
+        },
+        "lsniacy krysztalowy wisior": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "lsniacy krysztalowy wisior"
+                ],
+                "biernik": [
+                    "lsniacy krysztalowy wisior"
+                ],
+                "miejscownik": [
+                    "lsniacym krysztalowyn wisiorze"
+                ],
+                "mnoga_mianownik": [
+                    "lsniace krysztalowe wisiory"
+                ],
+                "mnoga_biernik": [
+                    "lsniace krysztalowe wisiory"
+                ]
+            }
+        },
+        "luskowy czerwonawy kaftan": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "luskowy czerwonawy kaftan"
+                ],
+                "dopelniacz": [
+                    "luskowego czerwonawego kaftana"
+                ],
+                "biernik": [
+                    "luskowy czerwonawy kaftan"
+                ],
+                "narzednik": [
+                    "luskowym czerwonawym kaftanem"
+                ],
+                "miejscownik": [
+                    "luskowym czerwonawym kaftanie"
+                ],
+                "mnoga_mianownik": [
+                    "luskowe czerwonawe kaftany"
+                ],
+                "mnoga_biernik": [
+                    "luskowe czerwonawe kaftany"
+                ]
+            }
+        },
+        "masywna kanciasta para nareczakow": {
+            "type": [
+                "ciezka zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "masywna kanciasta para nareczakow"
+                ],
+                "biernik": [
+                    "masywna kanciasta pare nareczakow"
+                ],
+                "narzednik": [
+                    "masywna kanciasta para nareczakow"
+                ],
+                "mnoga_mianownik": [
+                    "masywne kanciaste pary nareczakow"
+                ],
+                "mnoga_biernik": [
+                    "masywne kanciaste pary nareczakow"
+                ]
+            }
+        },
+        "masywny amulet z czarnym opalem": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "masywny amulet z czarnym opalem"
+                ],
+                "biernik": [
+                    "masywny amulet z czarnym opalem"
+                ],
+                "miejscownik": [
+                    "masywnym amulecie z czarnym opalem"
+                ],
+                "mnoga_mianownik": [
+                    "masywne amulety z czarnym opalem"
+                ],
+                "mnoga_biernik": [
+                    "masywne amulety z czarnym opalem"
+                ]
+            }
+        },
+        "masywny wyszczerbiony tasak": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "masywny wyszczerbiony tasak"
+                ],
+                "dopelniacz": [
+                    "masywnego wyszczerbionego tasaka"
+                ],
+                "biernik": [
+                    "masywny wyszczerbiony tasak"
+                ],
+                "narzednik": [
+                    "masywnym wyszczerbionym tasakiem"
+                ],
+                "miejscownik": [
+                    "masywnym wyszczerbionym tasaku"
+                ],
+                "mnoga_mianownik": [
+                    "masywne wyszczerbione tasaki"
+                ],
+                "mnoga_biernik": [
+                    "masywne wyszczerbione tasaki"
+                ]
+            }
+        },
+        "masywny oksydowany pas": {
+            "type": [
+                "pas"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "masywny oksydowany pas"
+                ],
+                "dopelniacz": [
+                    "masywnego oksydowanego pasa"
+                ],
+                "celownik": [
+                    "masywnemu oksydowanemu pasowi"
+                ],
+                "biernik": [
+                    "masywny oksydowany pas"
+                ],
+                "narzednik": [
+                    "masywnym oksydowanym pasem"
+                ],
+                "miejscownik": [
+                    "masywnym oksydowanym pasie"
+                ],
+                "mnoga_mianownik": [
+                    "masywne oksydowane pasy"
+                ],
+                "mnoga_biernik": [
+                    "masywne oksydowane pasy"
+                ]
+            }
+        },
+        "misterna spizowa pawez": {
+            "type": [
+                "tarcza"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "misterna spizowa paweza"
+                ],
+                "dopelniacz": [
+                    "misternej spizowej pawezy"
+                ],
+                "celownik": [
+                    "misternej spizowej pawezy"
+                ],
+                "narzednik": [
+                    "misterna spizowa paweza"
+                ],
+                "miejscownik": [
+                    "misternej spizowej pawezy"
+                ],
+                "mnoga_mianownik": [
+                    "misterne spizowe paweze"
+                ],
+                "mnoga_biernik": [
+                    "misterne spizowe paweze"
+                ]
+            },
+            "dodatkowe_regexps": [
+                "misterna spizowa pawez"
+            ]
+        },
+        "misterny obosieczny topor": {
+            "type": [
+                "jednoreczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "misterny obosieczny topor"
+                ],
+                "dopelniacz": [
+                    "misternego obosiecznego topora"
+                ],
+                "celownik": [
+                    "misternemu obosiecznemu toporowi"
+                ],
+                "biernik": [
+                    "misterny obosieczny topor"
+                ],
+                "narzednik": [
+                    "misternym obosiecznym toporem"
+                ],
+                "miejscownik": [
+                    "misternym obosiecznym toporze"
+                ],
+                "mnoga_mianownik": [
+                    "misterne obosieczne topory"
+                ],
+                "mnoga_biernik": [
+                    "misterne obosieczne topory"
+                ]
+            }
+        },
+        "misterny snieznobialy harpun": {
+            "type": [
+                "jednoreczna bron drzewcowa",
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "misterny snieznobialy harpun"
+                ],
+                "dopelniacz": [
+                    "misternego snieznobialego harpuna"
+                ],
+                "biernik": [
+                    "misterny snieznobialy harpun"
+                ],
+                "narzednik": [
+                    "misternym snieznobialym harpunem"
+                ],
+                "miejscownik": [
+                    "misternym snieznobialym harpunie"
+                ],
+                "mnoga_mianownik": [
+                    "misterne snieznobiale harpuny"
+                ],
+                "mnoga_biernik": [
+                    "misterne snieznobiale harpuny"
+                ]
+            }
+        },
+        "mithrylowa mahakamska kolczuga": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "mithrylowa mahakamska kolczuga"
+                ],
+                "celownik": [
+                    "mithrylowej mahakamskiej kolczudze"
+                ],
+                "biernik": [
+                    "mithrylowa mahakamska kolczuge"
+                ],
+                "narzednik": [
+                    "mithrylowa mahakamska kolczuga"
+                ],
+                "miejscownik": [
+                    "mithrylowej mahakamskiej kolczudze"
+                ],
+                "mnoga_mianownik": [
+                    "mithrylowe mahakamskie kolczugi"
+                ],
+                "mnoga_biernik": [
+                    "mithrylowe mahakamskie kolczugi"
+                ]
+            }
+        },
+        "mithrylowy lsniacy amulet": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "mithrylowy lsniacy amulet"
+                ],
+                "biernik": [
+                    "mithrylowy lsniacy amulet"
+                ],
+                "miejscownik": [
+                    "mithrylowym lsniacym amulecie"
+                ],
+                "mnoga_mianownik": [
+                    "mithrylowe lsniace amulety"
+                ],
+                "mnoga_biernik": [
+                    "mithrylowe lsniace amulety"
+                ]
+            }
+        },
+        "mosiezna duza broszka w ksztalcie liscia debu": {
+            "type": [
+                "broszka"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "mosiezna duza broszka w ksztalcie liscia debu"
+                ],
+                "dopelniacz": [
+                    "mosieznej duzej broszki w ksztalcie liscia debu"
+                ],
+                "celownik": [
+                    "mosieznej duzej broszce w ksztalcie liscia debu"
+                ],
+                "biernik": [
+                    "mosiezna duza broszke w ksztalcie liscia debu"
+                ],
+                "narzednik": [
+                    "mosiezna duza broszka w ksztalcie liscia debu"
+                ],
+                "miejscownik": [
+                    "mosieznej duzej broszce w ksztalcie liscia debu"
+                ],
+                "mnoga_mianownik": [
+                    "mosiezne duze broszki w ksztalcie liscia debu"
+                ],
+                "mnoga_biernik": [
+                    "mosiezne duze broszki w ksztalcie liscia debu"
+                ]
+            }
+        },
+        "niebieskawa zdobiona bulawa": {
+            "type": [
+                "jednoreczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "niebieskawa zdobiona bulawa"
+                ],
+                "dopelniacz": [
+                    "niebieskawej zdobionej bulawy"
+                ],
+                "celownik": [
+                    "niebieskawej zdobionej bulawie"
+                ],
+                "biernik": [
+                    "niebieskawa zdobiona bulawe"
+                ],
+                "narzednik": [
+                    "niebieskawa zdobiona bulawa"
+                ],
+                "miejscownik": [
+                    "niebieskawej zdobionej bulawie"
+                ],
+                "mnoga_mianownik": [
+                    "niebieskawe zdobione bulawy"
+                ],
+                "mnoga_biernik": [
+                    "niebieskawe zdobione bulawy"
+                ]
+            }
+        },
+        "niematerialny ulotny szamszir": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "niematerialny ulotny szamszir"
+                ],
+                "dopelniacz": [
+                    "niematerialnego ulotnego szamszira"
+                ],
+                "biernik": [
+                    "niematerialny ulotny szamszir"
+                ],
+                "narzednik": [
+                    "niematerialnym ulotnym szamszirem"
+                ],
+                "miejscownik": [
+                    "niematerialnym ulotnym szamszirze"
+                ],
+                "mnoga_mianownik": [
+                    "niematerialne ulotne szamsziry"
+                ],
+                "mnoga_biernik": [
+                    "niematerialne ulotne szamsziry"
+                ]
+            }
+        },
+        "niepozorny barwny pierscien": {
+            "type": [
+                "pierscien"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "niepozorny barwny pierscien"
+                ],
+                "biernik": [
+                    "niepozorny barwny pierscien"
+                ],
+                "miejscownik": [
+                    "niepozornym barwnym pierscieniu"
+                ],
+                "mnoga_mianownik": [
+                    "niepozorne barwne pierscienie"
+                ],
+                "mnoga_biernik": [
+                    "niepozorne barwne pierscienie"
+                ]
+            }
+        },
+        "niewielki zmatowialy pierscien": {
+            "type": [
+                "pierscien"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "niewielki zmatowialy pierscien"
+                ],
+                "biernik": [
+                    "niewielki zmatowialy pierscien"
+                ],
+                "miejscownik": [
+                    "niewielkim zmatowialym pierscieniu"
+                ],
+                "mnoga_mianownik": [
+                    "niewielkie zmatowiale pierscienie"
+                ],
+                "mnoga_biernik": [
+                    "niewielkie zmatowiale pierscienie"
+                ]
+            }
+        },
+        "niewielki krwawnikowy pierscien": {
+            "type": [
+                "pierscien"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "niewielki krwawnikowy pierscien"
+                ],
+                "biernik": [
+                    "niewielki krwawnikowy pierscien"
+                ],
+                "miejscownik": [
+                    "niewielkim krwawnikowym pierscieniu"
+                ],
+                "mnoga_mianownik": [
+                    "niewielkie krwawnikowe pierscienie"
+                ],
+                "mnoga_biernik": [
+                    "niewielkie krwawnikowe pierscienie"
+                ]
+            }
+        },
+        "niezwykly kosciany topor": {
+            "type": [
+                "jednoreczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "niezwykly kosciany topor"
+                ],
+                "dopelniacz": [
+                    "niezwyklego koscianego topora"
+                ],
+                "biernik": [
+                    "niezwykly kosciany topor"
+                ],
+                "narzednik": [
+                    "niezwyklym koscianym toporem"
+                ],
+                "miejscownik": [
+                    "niezwyklym koscianym toporze"
+                ],
+                "mnoga_mianownik": [
+                    "niezwykle kosciane topory"
+                ],
+                "mnoga_biernik": [
+                    "niezwykle kosciane topory"
+                ]
+            }
+        },
+        "obkurczony zasniedzialy kaftan": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "obkurczony zasniedzialy kaftan"
+                ],
+                "dopelniacz": [
+                    "obkurczonego zasniedzialego kaftana"
+                ],
+                "biernik": [
+                    "obkurczony zasniedzialy kaftan"
+                ],
+                "narzednik": [
+                    "obkurczonym zasniedzialym kaftanem"
+                ],
+                "miejscownik": [
+                    "obkurczonym zasniedzialym kaftanie"
+                ],
+                "mnoga_mianownik": [
+                    "obkurczone zasniedziale kaftany"
+                ],
+                "mnoga_biernik": [
+                    "obkurczone zasniedziale kaftany"
+                ]
+            }
+        },
+        "obosieczny gwiezdny topor": {
+            "type": [
+                "jednoreczny topor",
+                "dwureczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "obosieczny gwiezdny topor"
+                ],
+                "dopelniacz": [
+                    "obosiecznego gwiezdnego topora"
+                ],
+                "celownik": [
+                    "obosiecznemu gwiezdnemu toporowi"
+                ],
+                "biernik": [
+                    "obosieczny gwiezdny topor"
+                ],
+                "narzednik": [
+                    "obosiecznym gwiezdnym toporem"
+                ],
+                "miejscownik": [
+                    "obosiecznym gwiezdnym toporze"
+                ],
+                "mnoga_mianownik": [
+                    "obosieczne gwiezdne topory"
+                ],
+                "mnoga_biernik": [
+                    "obosieczne gwiezdne topory"
+                ]
+            }
+        },
+        "ogromny ognisty trojzab": {
+            "type": [
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "ogromny ognisty trojzab"
+                ],
+                "dopelniacz": [
+                    "ogromnego ognistego trojzebu"
+                ],
+                "biernik": [
+                    "ogromny ognisty trojzab"
+                ],
+                "narzednik": [
+                    "ogromnym ognistym trojzebem"
+                ],
+                "miejscownik": [
+                    "ogromnym ognistym trojzebie"
+                ],
+                "mnoga_mianownik": [
+                    "ogromne ogniste trojzeby"
+                ],
+                "mnoga_biernik": [
+                    "ogromne ogniste trojzeby"
+                ]
+            }
+        },
+        "opalizujacy runiczny topor obosieczny": {
+            "type": [
+                "jednoreczny topor",
+                "dwureczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "opalizujacy runiczny topor obosieczny"
+                ],
+                "dopelniacz": [
+                    "opalizujacego runicznego topora obosiecznego"
+                ],
+                "biernik": [
+                    "opalizujacy runiczny topor obosieczny"
+                ],
+                "narzednik": [
+                    "opalizujacym runicznym toporem obosiecznym"
+                ],
+                "miejscownik": [
+                    "opalizujacym runicznym toporze obusiecznym"
+                ],
+                "mnoga_mianownik": [
+                    "opalizujace runiczne topory obosieczne"
+                ],
+                "mnoga_biernik": [
+                    "opalizujace runiczne topory obosieczne"
+                ]
+            }
+        },
+        "ornamentowany kruczoczarny helm wielki": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "ornamentowany kruczoczarny helm wielki"
+                ],
+                "biernik": [
+                    "ornamentowany kruczoczarny helm wielki"
+                ],
+                "miejscownik": [
+                    "ornamentowanym kruczoczarnym helmie wielkim"
+                ],
+                "mnoga_mianownik": [
+                    "ornamentowane kruczoczarne helmy wielke"
+                ],
+                "mnoga_biernik": [
+                    "ornamentowane kruczoczarne helmy wielke"
+                ]
+            }
+        },
+        "osobliwy szklany pierscien": {
+            "type": [
+                "pierscien"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "osobliwy szklany pierscien"
+                ],
+                "dopelniacz": [
+                    "osobliwego szklanego pierscienia"
+                ],
+                "celownik": [
+                    "osobliwemu szklanemu pierscieniowi"
+                ],
+                "biernik": [
+                    "osobliwy szklany pierscien"
+                ],
+                "narzednik": [
+                    "osobliwym szklanym pierscieniem"
+                ],
+                "miejscownik": [
+                    "osobliwym szklanym pierscieniu"
+                ],
+                "mnoga_mianownik": [
+                    "osobliwe szklane pierscienie"
+                ],
+                "mnoga_biernik": [
+                    "osobliwe szklane pierscienie"
+                ],
+                "mnoga_miejscownik": [
+                    "osobliwych szklanych pierscieniach"
+                ]
+            }
+        },
+        "otwarty ozdobny skorzany plecak": {
+            "type": [
+                "plecak"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "otwarty ozdobny skorzany plecak",
+                    "ozdobny skorzany plecak",
+                    "zamkniety ozdobny skorzany plecak"
+                ],
+                "dopelniacz": [
+                    "otwartego ozdobnego skorzanego plecaka",
+                    "ozdobnego skorzanego plecaka",
+                    "zamknietego ozdobnego skorzanego plecaka"
+                ],
+                "celownik": [
+                    "otwartemu ozdobnemu skorzanemu plecakowi",
+                    "ozdobnemu skorzanemu plecakowi",
+                    "zamknietemu ozdobnemu skorzanemu plecakowi"
+                ],
+                "biernik": [
+                    "otwarty ozdobny skorzany plecak",
+                    "ozdobny skorzany plecak",
+                    "zamkniety ozdobny skorzany plecak"
+                ],
+                "narzednik": [
+                    "otwartym ozdobnym skorzanym plecakiem",
+                    "ozdobnym skorzanym plecakiem",
+                    "zamknietym ozdobnym skorzanym plecakiem"
+                ],
+                "miejscownik": [
+                    "otwartym ozdobnym skorzanym plecaku",
+                    "ozdobnym skorzanym plecaku",
+                    "zamknietym ozdobnym skorzanym plecaku"
+                ],
+                "mnoga_mianownik": [
+                    "ozdobne skorzane plecaki"
+                ],
+                "mnoga_dopelniacz": [
+                    "ozdobnych skorzanych plecakow"
+                ],
+                "mnoga_biernik": [
+                    "ozdobne skorzane plecaki"
+                ],
+                "mnoga_miejscownik": [
+                    "ozdobnych skorzanych plecakach"
+                ]
+            }
+        },
+        "owadzioksztaltny brazowy helm": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "owadzioksztaltny brazowy helm"
+                ],
+                "dopelniacz": [
+                    "owadzioksztaltnego brazowego helmu"
+                ],
+                "celownik": [
+                    "owadzioksztaltnemu brazowemu helmowi"
+                ],
+                "biernik": [
+                    "owadzioksztaltny brazowy helm"
+                ],
+                "narzednik": [
+                    "owadzioksztaltnym brazowym helmem"
+                ],
+                "miejscownik": [
+                    "owadzioksztaltnym brazowym helmie"
+                ],
+                "mnoga_mianownik": [
+                    "owadzioksztaltne brazowe helmy"
+                ],
+                "mnoga_biernik": [
+                    "owadzioksztaltne brazowe helmy"
+                ]
+            }
+        },
+        "starozytna runiczna zbroja plytowa": {
+            "type": [
+                "ciezka zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "starozytna runiczna zbroja plytowa",
+                    "starozytna zbroja plytowa pokryta runami"
+                ],
+                "dopelniacz": [
+                    "starozytnej runicznej zbroi plytowej"
+                ],
+                "celownik": [
+                    "starozytnej runicznej zbroi plytowej"
+                ],
+                "biernik": [
+                    "starozytna runiczna zbroje plytowa"
+                ],
+                "narzednik": [
+                    "starozytna runiczna zbroja plytowa",
+                    "starozytna zbroja plytowa pokryta runami"
+                ],
+                "miejscownik": [
+                    "starozytnej runicznej zbroi plytowej"
+                ],
+                "mnoga_mianownik": [
+                    "starozytne runiczne zbroje plytowe",
+                    "starozytne zbroje plytowe pokryte runami"
+                ],
+                "mnoga_biernik": [
+                    "starozytne runiczne zbroje plytowe",
+                    "starozytne zbroje plytowe pokryte runami"
+                ]
+            },
+            "dodatkowe_regexps": [
+                "plytach jego starozytnego pancerza",
+                "plytach jej starozytnego pancerza",
+                "plytach twojego starozytnego pancerza",
+                "starozytna zbroji plytowej pokrytej runami"
+            ]
+        },
+        "polprzezroczysta migotliwa maczuga": {
+            "type": [
+                "jednoreczna maczuga",
+                "dwureczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polprzezroczysta migotliwa maczuga"
+                ],
+                "dopelniacz": [
+                    "polprzezroczystej migotliwej maczugi"
+                ],
+                "biernik": [
+                    "polprzezroczysta migotliwa maczuge"
+                ],
+                "narzednik": [
+                    "polprzezroczysta migotliwa maczuga"
+                ],
+                "mnoga_mianownik": [
+                    "polprzezroczyste migotliwe maczugi"
+                ],
+                "mnoga_biernik": [
+                    "polprzezroczyste migotliwe maczugi"
+                ]
+            }
+        },
+        "polprzezroczysta migotliwa wlocznie": {
+            "type": [
+                "jednoreczna bron drzewcowa",
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polprzezroczysta migotliwa wlocznia"
+                ],
+                "dopelniacz": [
+                    "polprzezroczystej migotliwej wloczni"
+                ],
+                "celownik": [
+                    "polprzezroczystej migotliwej wloczni"
+                ],
+                "biernik": [
+                    "polprzezroczysta migotliwa wlocznie"
+                ],
+                "narzednik": [
+                    "polprzezroczysta migotliwa wlocznia"
+                ],
+                "miejscownik": [
+                    "polprzezroczystej migotliwej wloczni"
+                ],
+                "mnoga_mianownik": [
+                    "polprzezroczyste migotliwe wlocznie"
+                ],
+                "mnoga_biernik": [
+                    "polprzezroczyste migotliwe wlocznie"
+                ]
+            }
+        },
+        "polprzezroczysty migotliwy miecz": {
+            "type": [
+                "jednoreczny miecz",
+                "dwureczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polprzezroczysty migotliwy miecz"
+                ],
+                "dopelniacz": [
+                    "polprzezroczystego migotliwego miecza"
+                ],
+                "biernik": [
+                    "polprzezroczysty migotliwy miecz"
+                ],
+                "narzednik": [
+                    "polprzezroczystym migotliwym mieczem"
+                ],
+                "mnoga_mianownik": [
+                    "polprzezroczyste migotliwe miecze"
+                ],
+                "mnoga_biernik": [
+                    "polprzezroczyste migotliwe miecze"
+                ]
+            }
+        },
+        "polprzezroczysty migotliwy mlot": {
+            "type": [
+                "jednoreczny mlot",
+                "dwureczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polprzezroczysty migotliwy mlot"
+                ],
+                "dopelniacz": [
+                    "polprzezroczystego migotliwego mlota"
+                ],
+                "biernik": [
+                    "polprzezroczysty migotliwy mlot"
+                ],
+                "narzednik": [
+                    "polprzezroczystym migotliwym mlotem"
+                ],
+                "miejscownik": [
+                    "polprzezroczystym migotliwym mlocie"
+                ],
+                "mnoga_mianownik": [
+                    "polprzezroczyste migotliwe mloty"
+                ],
+                "mnoga_biernik": [
+                    "polprzezroczyste migotliwe mloty"
+                ]
+            }
+        },
+        "polprzezroczysty migotliwy sztylet": {
+            "type": [
+                "sztylet"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polprzezroczysty migotliwy sztylet"
+                ],
+                "dopelniacz": [
+                    "polprzezroczystego migotliwego sztyletu"
+                ],
+                "biernik": [
+                    "polprzezroczysty migotliwy sztylet"
+                ],
+                "narzednik": [
+                    "polprzezroczystym migotliwym sztyletem"
+                ],
+                "miejscownik": [
+                    "polprzezroczystym migotliwym sztylecie"
+                ],
+                "mnoga_mianownik": [
+                    "polprzezroczyste migotliwe sztylety"
+                ],
+                "mnoga_biernik": [
+                    "polprzezroczyste migotliwe sztylety"
+                ]
+            }
+        },
+        "polprzezroczysty migotliwy topor": {
+            "type": [
+                "jednoreczny topor",
+                "dwureczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polprzezroczysty migotliwy topor"
+                ],
+                "dopelniacz": [
+                    "polprzezroczystego migotliwego topora"
+                ],
+                "biernik": [
+                    "polprzezroczysty migotliwy topor"
+                ],
+                "narzednik": [
+                    "polprzezroczystym migotliwym toporem"
+                ],
+                "mnoga_mianownik": [
+                    "polprzezroczyste migotliwe topory"
+                ],
+                "mnoga_biernik": [
+                    "polprzezroczyste migotliwe topory"
+                ]
+            }
+        },
+        "polprzezroczysty migotliwy drag": {
+            "type": [
+                "jednoreczny miecz",
+                "dwureczny miecz",
+                "jednoreczny topor",
+                "dwureczny topor",
+                "jednoreczny mlot",
+                "dwureczny mlot",
+                "jednoreczna maczuga",
+                "dwureczna maczuga",
+                "sztylet",
+                "jednoreczna bron drzewcowa",
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polprzezroczysty migotliwy drag"
+                ],
+                "dopelniacz": [
+                    "polprzezroczystego migotliwego draga"
+                ],
+                "biernik": [
+                    "polprzezroczysty migotliwy drag"
+                ],
+                "narzednik": [
+                    "polprzezroczystym migotliwym dragiem"
+                ],
+                "miejscownik": [
+                    "polprzezroczystym migotliwym dragu"
+                ],
+                "mnoga_mianownik": [
+                    "polprzezroczyste migotliwe dragi"
+                ],
+                "mnoga_biernik": [
+                    "polprzezroczyste migotliwe dragi"
+                ]
+            }
+        },
+        "polyskliwy smukly espadon": {
+            "type": [
+                "miecz dwureczny"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "polyskliwy smukly espadon"
+                ],
+                "dopelniacz": [
+                    "polyskliwego smuklego espadona"
+                ],
+                "biernik": [
+                    "polyskliwy smukly espadon"
+                ],
+                "narzednik": [
+                    "polyskliwym smuklym espadonem"
+                ],
+                "miejscownik": [
+                    "polyskliwym smuklym espadonie"
+                ],
+                "mnoga_mianownik": [
+                    "polyskliwe smukle espadony"
+                ],
+                "mnoga_biernik": [
+                    "polyskliwe smukle espadony"
+                ]
+            }
+        },
+        "poszczerbiony obureczny miecz": {
+            "type": [
+                "miecz dwureczny"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "poszczerbiony obureczny miecz"
+                ],
+                "dopelniacz": [
+                    "poszczerbionego oburecznego miecza"
+                ],
+                "biernik": [
+                    "poszczerbiony obureczny miecz"
+                ],
+                "narzednik": [
+                    "poszczerbionym oburecznym mieczem"
+                ],
+                "miejscownik": [
+                    "poszczerbionym oburecznym mieczu"
+                ],
+                "mnoga_mianownik": [
+                    "poszczerbione obureczne miecze"
+                ],
+                "mnoga_biernik": [
+                    "poszczerbione obureczne miecze"
+                ]
+            }
+        },
+        "pozlacane okulary z niebieskawych szkielek": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mnoga_mianownik": [
+                    "pozlacane okulary z niebieskawych szkielek"
+                ],
+                "mnoga_biernik": [
+                    "pozlacane okulary z niebieskawych szkielek"
+                ],
+                "mnoga_miejscownik": [
+                    "pozlacanych okularach z niebieskawych szkielek"
+                ]
+            }
+        },
+        "rezonujacy krysztalowy mlot": {
+            "type": [
+                "jednoreczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "rezonujacy krysztalowy mlot"
+                ],
+                "dopelniacz": [
+                    "rezonujacego krysztalowego mlota"
+                ],
+                "biernik": [
+                    "rezonujacy krysztalowy mlot"
+                ],
+                "narzednik": [
+                    "rezonujacym krysztalowym mlotem"
+                ],
+                "miejscownik": [
+                    "rezonujacym krysztalowym mlocie"
+                ],
+                "mnoga_mianownik": [
+                    "rezonujace krysztalowe mloty"
+                ],
+                "mnoga_biernik": [
+                    "rezonujace krysztalowe mloty"
+                ]
+            }
+        },
+        "rzezbiona kosciana lampa": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "rzezbiona kosciana lampa"
+                ],
+                "dopelniacz": [
+                    "rzezbionej koscianej lampy"
+                ],
+                "celownik": [
+                    "rzezbionej koscianej lampie"
+                ],
+                "biernik": [
+                    "rzezbiona kosciana lampe"
+                ],
+                "narzednik": [
+                    "rzezbiona kosciana lampa"
+                ],
+                "miejscownik": [
+                    "rzezbionej koscianej lampie"
+                ],
+                "mnoga_mianownik": [
+                    "rzezbione kosciane lampy"
+                ],
+                "mnoga_biernik": [
+                    "rzezbione kosciane lampy"
+                ]
+            }
+        },
+        "smocza luska": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "smocza luska"
+                ],
+                "dopelniacz": [
+                    "smoczej luski"
+                ],
+                "celownik": [
+                    "smoczej lusce"
+                ],
+                "biernik": [
+                    "smocza luske"
+                ],
+                "narzednik": [
+                    "smocza luska"
+                ],
+                "miejscownik": [
+                    "smoczej lusce"
+                ],
+                "mnoga_mianownik": [
+                    "smocze luski"
+                ],
+                "mnoga_dopelniacz": [
+                    "smoczych lusek"
+                ],
+                "mnoga_biernik": [
+                    "smocze luski"
+                ]
+            }
+        },
+        "smocza szkatulka": {
+            "type": [
+                "pojemnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "otwarta smocza szkatulka",
+                    "zamknieta smocza szkatulka"
+                ],
+                "dopelniacz": [
+                    "otwartej smoczej szkatulki",
+                    "zamknietej smoczej szkatulki"
+                ],
+                "celownik": [
+                    "otwartej smoczej szkatulce",
+                    "zamknietej smoczej szkatulce"
+                ],
+                "biernik": [
+                    "otwarta smocza szkatulke",
+                    "zamknieta smocza szkatulke"
+                ],
+                "narzednik": [
+                    "otwarta smocza szkatulka",
+                    "zamknieta smocza szkatulka"
+                ],
+                "miejscownik": [
+                    "otwartej smoczej szkatulce",
+                    "zamknietej smoczej szkatulce"
+                ],
+                "mnoga_mianownik": [
+                    "otwarte smocze szkatulki",
+                    "zamkniete smocze szkatulki"
+                ],
+                "mnoga_dopelniacz": [
+                    "otwartych smoczych szkatulek",
+                    "zamknietych smoczych szkatulek"
+                ],
+                "mnoga_biernik": [
+                    "otwarte smocze szkatulki",
+                    "zamkniete smocze szkatulki"
+                ],
+                "mnoga_miejscownik": [
+                    "otwartych smoczych szkatulkach",
+                    "zamknietych smoczych szkatulkach"
+                ]
+            }
+        },
+        "smukly demoniczny miecz": {
+            "type": [
+                "miecz jednoreczny"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "smukly demoniczny miecz"
+                ],
+                "dopelniacz": [
+                    "smuklego demonicznego miecza"
+                ],
+                "biernik": [
+                    "smukly demoniczny miecz"
+                ],
+                "narzednik": [
+                    "smuklym demonicznym mieczem"
+                ],
+                "miejscownik": [
+                    "smuklym demonicznym mieczu"
+                ],
+                "mnoga_mianownik": [
+                    "smukle demoniczne miecze"
+                ],
+                "mnoga_biernik": [
+                    "smukle demoniczne miecze"
+                ]
+            }
+        },
+        "smukly zmiennoksztaltny miecz": {
+            "type": [
+                "miecz jednoreczny"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "smukly zmiennoksztaltny miecz"
+                ],
+                "dopelniacz": [
+                    "smuklego zmiennoksztaltnego miecza"
+                ],
+                "biernik": [
+                    "smukly zmiennoksztaltny miecz"
+                ],
+                "narzednik": [
+                    "smuklym zmiennoksztaltnym mieczem"
+                ],
+                "miejscownik": [
+                    "smuklym zmiennoksztaltnym mieczu"
+                ],
+                "mnoga_mianownik": [
+                    "smukle zmiennoksztaltne miecze"
+                ],
+                "mnoga_biernik": [
+                    "smukle zmiennoksztaltne miecze"
+                ]
+            }
+        },
+        "snieznobiala luskowa kolczuga": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "snieznobiala luskowa kolczuga"
+                ],
+                "dopelniacz": [
+                    "snieznobialej luskowej kolczugi"
+                ],
+                "celownik": [
+                    "snieznobialej luskowej kolczudze"
+                ],
+                "biernik": [
+                    "snieznobiala luskowa kolczuge"
+                ],
+                "narzednik": [
+                    "snieznobiala luskowa kolczuga"
+                ],
+                "miejscownik": [
+                    "snieznobialej luskowej kolczudze"
+                ],
+                "mnoga_mianownik": [
+                    "snieznobiale luskowe kolczugi"
+                ],
+                "mnoga_biernik": [
+                    "snieznobiale luskowe kolczugi"
+                ]
+            }
+        },
+        "snieznobialy luskowy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "snieznobialy lsniacy pancerz",
+                    "snieznobialy luskowy pancerz"
+                ],
+                "dopelniacz": [
+                    "snieznobialego lsniacego pancerza",
+                    "snieznobialego luskowego pancerza"
+                ],
+                "biernik": [
+                    "snieznobialy lsniacy pancerz",
+                    "snieznobialy luskowy pancerz"
+                ],
+                "narzednik": [
+                    "snieznobialym lsniacym pancerzem",
+                    "snieznobialym luskowym pancerzem"
+                ],
+                "miejscownik": [
+                    "snieznobialym lsniacym pancerzu",
+                    "snieznobialym luskowym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "snieznobiale lsniace pancerze",
+                    "snieznobiale luskowe pancerze"
+                ],
+                "mnoga_dopelniacz": [
+                    "snieznobialych luskowych pancerzy"
+                ],
+                "mnoga_biernik": [
+                    "snieznobiale lsniace pancerze",
+                    "snieznobiale luskowe pancerze"
+                ]
+            }
+        },
+        "snieznobialy lsniacy sztylet": {
+            "type": [
+                "sztylet"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "snieznobialy lsniacy sztylet"
+                ],
+                "dopelniacz": [
+                    "snieznobialego lsniacego sztyletu"
+                ],
+                "biernik": [
+                    "snieznobialy lsniacy sztylet"
+                ],
+                "narzednik": [
+                    "snieznobialym lsniacym sztyletem"
+                ],
+                "miejscownik": [
+                    "snieznobialym lsniacym sztylecie"
+                ],
+                "mnoga_mianownik": [
+                    "snieznobiale lsniace sztylety"
+                ],
+                "mnoga_biernik": [
+                    "snieznobiale lsniace sztylety"
+                ]
+            }
+        },
+        "srebrnozloty paskowy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "srebrnozloty paskowy pancerz"
+                ],
+                "dopelniacz": [
+                    "srebrnozlotego paskowego pancerza"
+                ],
+                "celownik": [
+                    "srebrnozlotemu paskowemu pancerzowi"
+                ],
+                "biernik": [
+                    "srebrnozloty paskowy pancerz"
+                ],
+                "narzednik": [
+                    "srebrnozlotym paskowym pancerzem"
+                ],
+                "miejscownik": [
+                    "srebrnozlotym paskowym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "srebrnozlote paskowe pancerze"
+                ],
+                "mnoga_biernik": [
+                    "srebrnozlote paskowe pancerze"
+                ]
+            }
+        },
+        "srebrzysta kosa bojowa": {
+            "type": [
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "srebrzysta kosa bojowa"
+                ],
+                "dopelniacz": [
+                    "srebrzystej kosy bojowej"
+                ],
+                "celownik": [
+                    "srebrzystej kosie bojowej"
+                ],
+                "biernik": [
+                    "srebrzysta kose bojowa"
+                ],
+                "narzednik": [
+                    "srebrzysta kosa bojowa"
+                ],
+                "miejscownik": [
+                    "srebrzystej kosie bojowej"
+                ],
+                "mnoga_mianownik": [
+                    "srebrzyste kosy bojowe"
+                ],
+                "mnoga_biernik": [
+                    "srebrzyste kosy bojowe"
+                ]
+            }
+        },
+        "srebrzysty wulkaniczny kindzal": {
+            "type": [
+                "sztylet"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "srebrzysty wulkaniczny kindzal"
+                ],
+                "dopelniacz": [
+                    "srebrzystego wulkanicznego kindzala",
+                    "srebrzystego wulkanicznego kindzalu"
+                ],
+                "biernik": [
+                    "srebrzysty wulkaniczny kindzal"
+                ],
+                "narzednik": [
+                    "srebrzystym wulkanicznym kindzalem"
+                ],
+                "miejscownik": [
+                    "srebrzystym wulkanicznym kindzale"
+                ],
+                "mnoga_mianownik": [
+                    "srebrzyste wulkaniczne kindzale"
+                ],
+                "mnoga_biernik": [
+                    "srebrzyste wulkaniczne kindzale"
+                ]
+            }
+        },
+        "starozytne kosciane berlo": {
+            "type": [
+                "jednoreczna maczuga"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "starozytne kosciane berlo"
+                ],
+                "dopelniacz": [
+                    "starozytnego koscianego berla"
+                ],
+                "biernik": [
+                    "starozytne kosciane berlo"
+                ],
+                "narzednik": [
+                    "starozytnym koscianym berlem"
+                ],
+                "miejscownik": [
+                    "starozytnym koscianym berle"
+                ],
+                "mnoga_mianownik": [
+                    "starozytne kosciane berla"
+                ],
+                "mnoga_biernik": [
+                    "starozytne kosciane berla"
+                ]
+            }
+        },
+        "stary matowy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "stary matowy pancerz"
+                ],
+                "biernik": [
+                    "stary matowy pancerz"
+                ],
+                "miejscownik": [
+                    "starym matowym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "stare matowe pancerze"
+                ],
+                "mnoga_biernik": [
+                    "stare matowe pancerze"
+                ]
+            }
+        },
+        "strzelisty zlocisty helm": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "strzelisty zlocisty helm"
+                ],
+                "biernik": [
+                    "strzelisty zlocisty helm"
+                ],
+                "narzednik": [
+                    "strzelistym zlocistym helmem"
+                ],
+                "miejscownik": [
+                    "strzelistym zlocistym helmie"
+                ],
+                "mnoga_mianownik": [
+                    "strzeliste zlociste helmy"
+                ],
+                "mnoga_biernik": [
+                    "strzeliste zlociste helmy"
+                ]
+            }
+        },
+        "strzelisty zasniedzialy helm": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "strzelisty zasniedzialy helm"
+                ],
+                "biernik": [
+                    "strzelisty zasniedzialy helm"
+                ],
+                "miejscownik": [
+                    "strzelistym zasniedzialym helmie"
+                ],
+                "mnoga_mianownik": [
+                    "strzeliste zasniedziale helmy"
+                ],
+                "mnoga_biernik": [
+                    "strzeliste zasniedziale helmy"
+                ]
+            }
+        },
+        "szara wygodna para butow": {
+            "type": [
+                "buty"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "szara wygodna para butow"
+                ],
+                "dopelniacz": [
+                    "szarej wygodnej pary butow"
+                ],
+                "celownik": [
+                    "szarej wygodnej parze butow"
+                ],
+                "biernik": [
+                    "szara wygodna pare butow"
+                ],
+                "narzednik": [
+                    "szara wygodna para butow"
+                ],
+                "miejscownik": [
+                    "szarej wygodnej parze butow"
+                ],
+                "mnoga_mianownik": [
+                    "szare wygodne pary butow"
+                ],
+                "mnoga_biernik": [
+                    "szare wygodne pary butow"
+                ]
+            }
+        },
+        "szkarlatna rogata tarcza": {
+            "type": [
+                "tarcza"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "szkarlatna rogata tarcza"
+                ],
+                "dopelniacz": [
+                    "szkarlatnej rogatej tarczy"
+                ],
+                "celownik": [
+                    "szkarlatnej rogatej tarczy"
+                ],
+                "biernik": [
+                    "szkarlatna rogata tarcze"
+                ],
+                "narzednik": [
+                    "szkarlatna rogata tarcza"
+                ],
+                "miejscownik": [
+                    "szkarlatnej rogatej tarczy"
+                ],
+                "mnoga_mianownik": [
+                    "szkarlatne rogate tarcze"
+                ],
+                "mnoga_biernik": [
+                    "szkarlatne rogate tarcze"
+                ]
+            }
+        },
+        "szkarlatny dlugi talwar": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "szkarlatny dlugi talwar"
+                ],
+                "dopelniacz": [
+                    "szkarlatnego dlugiego talwara"
+                ],
+                "biernik": [
+                    "szkarlatny dlugi talwar"
+                ],
+                "narzednik": [
+                    "szkarlatnym dlugim talwarem"
+                ],
+                "miejscownik": [
+                    "szkarlatnym dlugim talwarze"
+                ],
+                "mnoga_mianownik": [
+                    "szkarlatne dlugie talwary"
+                ],
+                "mnoga_biernik": [
+                    "szkarlatne dlugie talwary"
+                ]
+            }
+        },
+        "szkarlatny ciernisty pierscien": {
+            "type": [
+                "pierscien"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "szkarlatny ciernisty pierscien"
+                ],
+                "biernik": [
+                    "szkarlatny ciernisty pierscien"
+                ],
+                "miejscownik": [
+                    "szkarlatnym ciernistym pierscieniu"
+                ],
+                "mnoga_mianownik": [
+                    "szkarlatne cierniste pierscienie"
+                ],
+                "mnoga_biernik": [
+                    "szkarlatne cierniste pierscienie"
+                ]
+            }
+        },
+        "szmaragdowozielony misterny plaszcz": {
+            "type": [
+                "plaszcz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "szmaragdowozielony misterny plaszcz"
+                ],
+                "dopelniacz": [
+                    "szmaragdowozielonego misternego plaszcza"
+                ],
+                "celownik": [
+                    "szmaragdowozielonemu misternemu plaszczowi"
+                ],
+                "biernik": [
+                    "szmaragdowozielony misterny plaszcz"
+                ],
+                "narzednik": [
+                    "szmaragdowozielonym misternym plaszczem"
+                ],
+                "miejscownik": [
+                    "szmaragdowozielonym misternym plaszczu"
+                ],
+                "mnoga_mianownik": [
+                    "szmaragdowozielone misterne plaszcze"
+                ],
+                "mnoga_biernik": [
+                    "szmaragdowozielone misterne plaszcze"
+                ]
+            }
+        },
+        "szylkretowy falisty sztylet": {
+            "type": [
+                "sztylet"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "szylkretowy falisty sztylet"
+                ],
+                "dopelniacz": [
+                    "szylkretowego falistego sztyletu"
+                ],
+                "biernik": [
+                    "szylkretowy falisty sztylet"
+                ],
+                "narzednik": [
+                    "szylkretowym falistym sztyletem"
+                ],
+                "miejscownik": [
+                    "szylkretowym falistym sztylecie"
+                ],
+                "mnoga_mianownik": [
+                    "szylkretowe faliste sztylety"
+                ],
+                "mnoga_biernik": [
+                    "szylkretowe faliste sztylety"
+                ]
+            }
+        },
+        "upiorna ciemna wlocznia": {
+            "type": [
+                "jednoreczna bron drzewcowa",
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "upiorna ciemna wlocznia"
+                ],
+                "dopelniacz": [
+                    "upiornej ciemnej wloczni"
+                ],
+                "celownik": [
+                    "upiornej ciemnej wloczni"
+                ],
+                "biernik": [
+                    "upiorna ciemna wlocznie"
+                ],
+                "narzednik": [
+                    "upiorna ciemna wlocznia"
+                ],
+                "miejscownik": [
+                    "upiornej ciemnej wloczni"
+                ],
+                "mnoga_mianownik": [
+                    "upiorne ciemne wlocznie"
+                ],
+                "mnoga_biernik": [
+                    "upiorne ciemne wlocznie"
+                ]
+            }
+        },
+        "upiorny ciemny chepesz": {
+            "type": [
+                "jednoreczny miecz",
+                "dwureczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "upiorny ciemny chepesz"
+                ],
+                "dopelniacz": [
+                    "upiornego ciemnego chepesza"
+                ],
+                "celownik": [
+                    "upiornemu ciemnemu chepeszowi"
+                ],
+                "biernik": [
+                    "upiorny ciemny chepesz"
+                ],
+                "narzednik": [
+                    "upiornym ciemnym chepeszem"
+                ],
+                "miejscownik": [
+                    "upiornym ciemnym chepeszu"
+                ],
+                "mnoga_mianownik": [
+                    "upiorne ciemne chepesze"
+                ],
+                "mnoga_biernik": [
+                    "upiorne ciemne chepesze"
+                ]
+            }
+        },
+        "upiorny ciemny mlot": {
+            "type": [
+                "jednoreczny mlot",
+                "dwureczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "upiorny ciemny mlot"
+                ],
+                "dopelniacz": [
+                    "upiornego ciemnego mlota"
+                ],
+                "biernik": [
+                    "upiorny ciemny mlot"
+                ],
+                "narzednik": [
+                    "upiornym ciemnym mlotem"
+                ],
+                "miejscownik": [
+                    "upiornym ciemnym mlocie"
+                ],
+                "mnoga_mianownik": [
+                    "upiorne ciemne mloty"
+                ],
+                "mnoga_biernik": [
+                    "upiorne ciemne mloty"
+                ]
+            }
+        },
+        "waski kunsztowny sihill": {
+            "type": [
+                "jednoreczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "waski kunsztowny sihill"
+                ],
+                "dopelniacz": [
+                    "waskiego kunsztownego sihilla"
+                ],
+                "biernik": [
+                    "waski kunsztowny sihill"
+                ],
+                "narzednik": [
+                    "waskim kunsztownym sihillem"
+                ],
+                "miejscownik": [
+                    "waskim kunsztownym sihillu"
+                ],
+                "mnoga_mianownik": [
+                    "waskie kunsztowne sihille"
+                ],
+                "mnoga_biernik": [
+                    "waskie kunsztowne sihille"
+                ]
+            }
+        },
+        "wielki runiczny mlot wojenny": {
+            "type": [
+                "dwureczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "wielki runiczny mlot wojenny"
+                ],
+                "dopelniacz": [
+                    "wielkiego runicznego mlota wojennego"
+                ],
+                "celownik": [
+                    "wielkiemu runicznemu mlotu wojennemu"
+                ],
+                "biernik": [
+                    "wielki runiczny mlot wojenny"
+                ],
+                "narzednik": [
+                    "wielkim runicznym mlotem wojennym"
+                ],
+                "miejscownik": [
+                    "wielkim runicznym mlocie wojennym"
+                ],
+                "mnoga_mianownik": [
+                    "wielkie runiczne mloty wojenne"
+                ],
+                "mnoga_biernik": [
+                    "wielkie runiczne mloty wojenne"
+                ],
+                "mnoga_miejscownik": [
+                    "wielkich runicznych mlotach wojennych"
+                ]
+            }
+        },
+        "zasniedzialy obosieczny topor": {
+            "type": [
+                "jednoreczny topor",
+                "dwureczny topor"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zasniedzialy obosieczny topor"
+                ],
+                "dopelniacz": [
+                    "zasniedzialego obosiecznego topora"
+                ],
+                "celownik": [
+                    "zasniedzialemu obosiecznemu toporowi"
+                ],
+                "biernik": [
+                    "zasniedzialy obosieczny topor"
+                ],
+                "narzednik": [
+                    "zasniedzialym obosiecznym toporem"
+                ],
+                "miejscownik": [
+                    "zasniedzialym obosiecznym toporze"
+                ],
+                "mnoga_mianownik": [
+                    "zasniedziale obosieczne topory"
+                ],
+                "mnoga_dopelniacz": [
+                    "zasniedzialych obosiecznych toporow"
+                ],
+                "mnoga_celownik": [
+                    "zasniedzialym obosiecznym toporom"
+                ],
+                "mnoga_biernik": [
+                    "zasniedziale obosieczne topory"
+                ],
+                "mnoga_narzednik": [
+                    "zasniedzialymi obosiecznymi toporami"
+                ],
+                "mnoga_miejscownik": [
+                    "zasniedzialych obosiecznych toporach"
+                ]
+            }
+        },
+        "zdobiona jasniejaca wlocznia": {
+            "type": [
+                "jednoreczna bron drzewcowa",
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zdobiona jasniejaca wlocznia"
+                ],
+                "dopelniacz": [
+                    "zdobionej jasniejacej wloczni"
+                ],
+                "celownik": [
+                    "zdobionej jasniejacej wloczni"
+                ],
+                "biernik": [
+                    "zdobiona jasniejaca wlocznie"
+                ],
+                "narzednik": [
+                    "zdobiona jasniejaca wlocznia"
+                ],
+                "miejscownik": [
+                    "zdobionej jasniejacej wloczni"
+                ],
+                "mnoga_mianownik": [
+                    "zdobione jasniejace wlocznie"
+                ],
+                "mnoga_biernik": [
+                    "zdobione jasniejace wlocznie"
+                ]
+            }
+        },
+        "zdobiony jasniejacy chepesz": {
+            "type": [
+                "jednoreczny miecz",
+                "dwureczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zdobiony jasniejacy chepesz"
+                ],
+                "dopelniacz": [
+                    "zdobionego jasniejacego chepesza"
+                ],
+                "celownik": [
+                    "zdobionemu jasniejacemu chepeszowi"
+                ],
+                "biernik": [
+                    "zdobiony jasniejacy chepesz"
+                ],
+                "narzednik": [
+                    "zdobionym jasniejacym chepeszem"
+                ],
+                "miejscownik": [
+                    "zdobionym jasniejacym chepeszu"
+                ],
+                "mnoga_mianownik": [
+                    "zdobione jasniejace chepesze"
+                ],
+                "mnoga_biernik": [
+                    "zdobione jasniejace chepesze"
+                ]
+            }
+        },
+        "zdobiony jasniejacy mlot": {
+            "type": [
+                "jednoreczny mlot",
+                "dwureczny mlot"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zdobiony jasniejacy mlot"
+                ],
+                "dopelniacz": [
+                    "zdobionego jasniejacego mlota"
+                ],
+                "biernik": [
+                    "zdobiony jasniejacy mlot"
+                ],
+                "narzednik": [
+                    "zdobionym jasniejacym mlotem"
+                ],
+                "miejscownik": [
+                    "zdobionym jasniejacym mlocie"
+                ],
+                "mnoga_mianownik": [
+                    "zdobione jasniejace mloty"
+                ],
+                "mnoga_biernik": [
+                    "zdobione jasniejace mloty"
+                ]
+            }
+        },
+        "zdobiony dlugi lewak": {
+            "type": [
+                "sztylet"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zdobiony dlugi lewak"
+                ],
+                "dopelniacz": [
+                    "zdobionego dlugiego lewaka"
+                ],
+                "biernik": [
+                    "zdobiony dlugi lewak"
+                ],
+                "narzednik": [
+                    "zdobionym dlugim lewakiem"
+                ],
+                "miejscownik": [
+                    "zdobionym dlugim lewaku"
+                ],
+                "mnoga_mianownik": [
+                    "zdobione dlugie lewaki"
+                ],
+                "mnoga_biernik": [
+                    "zdobione dlugie lewaki"
+                ]
+            }
+        },
+        "zdobiony zloty pierscien": {
+            "type": [
+                "pierscien"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zdobiony zloty pierscien"
+                ],
+                "dopelniacz": [
+                    "zdobionego zlotego pierscienia"
+                ],
+                "biernik": [
+                    "zdobiony zloty pierscien"
+                ],
+                "narzednik": [
+                    "zdobionym zlotym pierscieniem"
+                ],
+                "miejscownik": [
+                    "zdobionym zlotym pierscieniu"
+                ],
+                "mnoga_mianownik": [
+                    "zdobione zlote pierscienie"
+                ],
+                "mnoga_biernik": [
+                    "zdobione zlote pierscienie"
+                ]
+            }
+        },
+        "zielony luskowaty plaszcz": {
+            "type": [
+                "plaszcz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zielony luskowaty plaszcz"
+                ],
+                "dopelniacz": [
+                    "zielonego luskowatego plaszcza"
+                ],
+                "celownik": [
+                    "zielonemu luskowatemu plaszczowi"
+                ],
+                "biernik": [
+                    "zielony luskowaty plaszcz"
+                ],
+                "narzednik": [
+                    "zielonym luskowatym plaszczem"
+                ],
+                "miejscownik": [
+                    "zielonym luskowatym plaszczu"
+                ],
+                "mnoga_mianownik": [
+                    "zielone luskowate plaszcze"
+                ],
+                "mnoga_biernik": [
+                    "zielone luskowate plaszcze"
+                ]
+            }
+        },
+        "okragly migotliwy puklerz": {
+            "type": [
+                "tarcza"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "okragly migotliwy puklerz"
+                ],
+                "dopelniacz": [
+                    "okraglego migotliwego puklerza"
+                ],
+                "celownik": [
+                    "okraglemu migotliwemu puklerzowi"
+                ],
+                "biernik": [
+                    "okragly migotliwy puklerz"
+                ],
+                "narzednik": [
+                    "okraglym migotliwym puklerzem"
+                ],
+                "miejscownik": [
+                    "okraglym migotliwym puklerzu"
+                ],
+                "mnoga_mianownik": [
+                    "okragle migotliwe puklerze"
+                ],
+                "mnoga_dopelniacz": [
+                    "okraglych migotliwych puklerzow",
+                    "okraglych migotliwych puklerzy"
+                ],
+                "mnoga_biernik": [
+                    "okragle migotliwe puklerze"
+                ]
+            }
+        },
+        "star zawile zapiski": {
+            "type": [
+                "zapiski"
+            ],
+            "odmiana": {
+                "mnoga_mianownik": [
+                    "stare zawile zapiski"
+                ],
+                "mnoga_dopelniacz": [
+                    "starych zawilych zapiskow"
+                ],
+                "mnoga_celownik": [
+                    "starym zawilym zapiskom"
+                ],
+                "mnoga_biernik": [
+                    "stare zawile zapiski"
+                ],
+                "mnoga_narzednik": [
+                    "starymi zawilymi zapiskami"
+                ],
+                "mnoga_miejscownik": [
+                    "starych zawilych zapiskach"
+                ]
+            },
+            "dodatkowe_regexps": [
+                "stron starych zawilych zapiskow",
+                "strony starych zawilych zapiskow"
+            ]
+        },
+        "wiedzminski medalion w ksztalcie glowy kota": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "wiedzminski medalion w ksztalcie glowy kota"
+                ],
+                "dopelniacz": [
+                    "wiedzminskiego medalionu w ksztalcie glowy kota"
+                ],
+                "celownik": [
+                    "wiedzminskiemu medalionowi w ksztalcie glowy kota"
+                ],
+                "biernik": [
+                    "wiedzminski medalion w ksztalcie glowy kota"
+                ],
+                "narzednik": [
+                    "wiedzminskim medalionem w ksztalcie glowy kota"
+                ],
+                "miejscownik": [
+                    "wiedzminskim medalionie w ksztalcie glowy kota"
+                ],
+                "mnoga_mianownik": [
+                    "wiedzminskie medaliony w ksztalcie glowy kota"
+                ],
+                "mnoga_dopelniacz": [
+                    "wiedzminskich medalionow w ksztalcie glowy kota"
+                ],
+                "mnoga_celownik": [
+                    "wiedzminskim medalionom w ksztalcie glowy kota"
+                ],
+                "mnoga_biernik": [
+                    "wiedzminskie medaliony w ksztalcie glowy kota"
+                ],
+                "mnoga_narzednik": [
+                    "wiedzminskimi medalionami w ksztalcie glowy kota"
+                ],
+                "mnoga_miejscownik": [
+                    "wiedzminskich medalionach w ksztalcie glowy kota"
+                ]
+            }
+        },
+        "wiedzminski medalion w ksztalcie glowy wilka": {
+            "type": [
+                "naszyjnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "wiedzminski medalion w ksztalcie glowy wilka"
+                ],
+                "dopelniacz": [
+                    "wiedzminskiego medalionu w ksztalcie glowy wilka"
+                ],
+                "celownik": [
+                    "wiedzminskiemu medalionowi w ksztalcie glowy wilka"
+                ],
+                "biernik": [
+                    "wiedzminski medalion w ksztalcie glowy wilka"
+                ],
+                "narzednik": [
+                    "wiedzminskim medalionem w ksztalcie glowy wilka"
+                ],
+                "miejscownik": [
+                    "wiedzminskim medalionie w ksztalcie glowy wilka"
+                ],
+                "mnoga_mianownik": [
+                    "wiedzminskie medaliony w ksztalcie glowy wilka"
+                ],
+                "mnoga_dopelniacz": [
+                    "wiedzminskich medalionow w ksztalcie glowy wilka"
+                ],
+                "mnoga_celownik": [
+                    "wiedzminskim medalionom w ksztalcie glowy wilka"
+                ],
+                "mnoga_biernik": [
+                    "wiedzminskie medaliony w ksztalcie glowy wilka"
+                ],
+                "mnoga_narzednik": [
+                    "wiedzminskimi medalionami w ksztalcie glowy wilka"
+                ],
+                "mnoga_miejscownik": [
+                    "wiedzminskich medalionach w ksztalcie wilka"
+                ]
+            }
+        },
+        "srebrne zdobione puzderko puzderko": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "srebrne zdobione puzderko"
+                ],
+                "dopelniacz": [
+                    "srebrnego zdobionego puzderka"
+                ],
+                "celownik": [
+                    "srebrnemu zdobionemu puzderku"
+                ],
+                "biernik": [
+                    "srebrne zdobione puzderko"
+                ],
+                "narzednik": [
+                    "srebrnym zdobionym puzderkiem"
+                ],
+                "miejscownik": [
+                    "srebrnym zdobionym puzderku"
+                ],
+                "mnoga_mianownik": [
+                    "srebrne zdobione puzderka"
+                ],
+                "mnoga_biernik": [
+                    "srebrne zdobione puzderka"
+                ]
+            }
+        },
+        "dluga ciemna laska": {
+            "type": [
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "dluga ciemna laska"
+                ],
+                "dopelniacz": [
+                    "dlugiej ciemnej laski"
+                ],
+                "celownik": [
+                    "dlugiej ciemnej lasce"
+                ],
+                "biernik": [
+                    "dluga ciemna laske"
+                ],
+                "narzednik": [
+                    "dluga ciemna laska"
+                ],
+                "miejscownik": [
+                    "dlugiej ciemnej lasce"
+                ],
+                "mnoga_mianownik": [
+                    "dlugie ciemne laski"
+                ],
+                "mnoga_biernik": [
+                    "dlugie ciemne laski"
+                ]
+            }
+        },
+        "plytkowy runiczny pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "plytkowy runiczny pancerz"
+                ],
+                "dopelniacz": [
+                    "plytkowego runicznego pancerza"
+                ],
+                "celownik": [
+                    "plytkowemu runicznemu pancerzowi"
+                ],
+                "biernik": [
+                    "plytkowy runiczny pancerz"
+                ],
+                "narzednik": [
+                    "plytkowym runicznym pancerzem"
+                ],
+                "miejscownik": [
+                    "plytkowym runicznym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "plytkowe runiczne pancerze"
+                ],
+                "mnoga_biernik": [
+                    "plytkowe runiczne pancerze"
+                ]
+            }
+        },
+        "plytkowy iskrzacy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "plytkowy iskrzacy pancerz"
+                ],
+                "dopelniacz": [
+                    "plytkowego iskrzacego pancerza"
+                ],
+                "celownik": [
+                    "plytkowemu iskrzacemu pancerzowi"
+                ],
+                "biernik": [
+                    "plytkowy iskrzacy pancerz"
+                ],
+                "narzednik": [
+                    "plytkowym iskrzacym pancerzem"
+                ],
+                "miejscownik": [
+                    "plytkowym iskrzacym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "plytkowe iskrzace pancerze"
+                ],
+                "mnoga_biernik": [
+                    "plytkowe iskrzace pancerze"
+                ]
+            }
+        },
+        "plytkowy lsniacy pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "plytkowy lsniacy pancerz"
+                ],
+                "dopelniacz": [
+                    "plytkowego lsniacego pancerza"
+                ],
+                "celownik": [
+                    "plytkowemu lsniacemu pancerzowi"
+                ],
+                "biernik": [
+                    "plytkowy lsniacy pancerz"
+                ],
+                "narzednik": [
+                    "plytkowym lsniacym pancerzem"
+                ],
+                "miejscownik": [
+                    "plytkowym lsniacym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "plytkowe lsniace pancerze"
+                ],
+                "mnoga_biernik": [
+                    "plytkowe lsniace pancerze"
+                ]
+            }
+        },
+        "plytkowy roziskrzony pancerz": {
+            "type": [
+                "srednia zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "plytkowy roziskrzony pancerz"
+                ],
+                "dopelniacz": [
+                    "plytkowego roziskrzonego pancerza"
+                ],
+                "celownik": [
+                    "plytkowemu roziskrzonemu pancerzowi"
+                ],
+                "biernik": [
+                    "plytkowy roziskrzony pancerz"
+                ],
+                "narzednik": [
+                    "plytkowym roziskrzonym pancerzem"
+                ],
+                "miejscownik": [
+                    "plytkowym roziskrzonym pancerzu"
+                ],
+                "mnoga_mianownik": [
+                    "plytkowe roziskrzone pancerze"
+                ],
+                "mnoga_biernik": [
+                    "plytkowe roziskrzone pancerze"
+                ]
+            }
+        },
+        "kruczoczarny ornamentowany napiersnik": {
+            "type": [
+                "ciezka zbroja"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "kruczoczarny ornamentowany napiersnik"
+                ],
+                "dopelniacz": [
+                    "kruczoczarnego ornamentowanego napiersnika"
+                ],
+                "celownik": [
+                    "kruczoczarnemu ornamentowanemu napiersniku"
+                ],
+                "biernik": [
+                    "kruczoczarny ornamentowany napiersnik"
+                ],
+                "narzednik": [
+                    "kruczoczarnym ornamentowanym napiersnikiem"
+                ],
+                "miejscownik": [
+                    "kruczoczarnym ornamentowanym napiersniku"
+                ],
+                "mnoga_mianownik": [
+                    "kruczoczarne ornamentowane napiersniki"
+                ],
+                "mnoga_biernik": [
+                    "kruczoczarne ornamentowane napiersniki"
+                ]
+            }
+        },
+        "podluzna zdobiona skrzynka": {
+            "type": [
+                "pojemnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "otwarta podluzna zdobiona skrzynka",
+                    "zamknieta podluzna zdobiona skrzynka"
+                ],
+                "dopelniacz": [
+                    "otwartej podluznej zdobionej skrzynki",
+                    "zamknietej podluznej zdobionej skrzynki"
+                ],
+                "celownik": [
+                    "otwartej podluznej zdobionej skrzynce",
+                    "zamknietej podluznej zdobionej skrzynce"
+                ],
+                "biernik": [
+                    "otwarta podluzna zdobiona skrzynke",
+                    "zamknieta podluzna zdobiona skrzynke"
+                ],
+                "narzednik": [
+                    "otwarta podluzna zdobiona skrzynka",
+                    "zamknieta podluzna zdobiona skrzynka"
+                ],
+                "miejscownik": [
+                    "otwartej podluznej zdobionej skrzynce",
+                    "zamknietej podluznej zdobionej skrzynce"
+                ]
+            }
+        },
+        "mosiezna skrzynka z astrolabium": {
+            "type": [
+                "pojemnik"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "otwarta mosiezna skrzynka z astrolabium",
+                    "zamknieta mosiezna skrzynka z astrolabium"
+                ],
+                "dopelniacz": [
+                    "otwartej mosieznej skrzynki z astrolabium",
+                    "zamknietej mosieznej skrzynki z astrolabium"
+                ],
+                "celownik": [
+                    "otwartej mosieznej skrzynce z astrolabium",
+                    "zamknietej mosieznej skrzynce z astrolabium"
+                ],
+                "biernik": [
+                    "otwarta mosiezna skrzynke z astrolabium",
+                    "zamknieta mosiezna skrzynke z astrolabium"
+                ],
+                "narzednik": [
+                    "otwarta mosiezna skrzynka z astrolabium",
+                    "zamknieta mosiezna skrzynka z astrolabium"
+                ],
+                "miejscownik": [
+                    "otwartej mosieznej skrzynce z astrolabium",
+                    "zamknietej mosieznej skrzynce z astrolabium"
+                ]
+            }
+        },
+        "krolewskie ulaskawienie": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "krolewskie ulaskawienie"
+                ],
+                "dopelniacz": [
+                    "krolewskiego ulaskawienia"
+                ],
+                "celownik": [
+                    "krolewskiemu ulaskawieniu"
+                ],
+                "biernik": [
+                    "krolewskie ulaskawienie"
+                ],
+                "narzednik": [
+                    "krolewskim ulaskawieniem"
+                ],
+                "miejscownik": [
+                    "krolewskim ulaskawieniu"
+                ],
+                "mnoga_mianownik": [
+                    "krolewskie ulaskawienia"
+                ],
+                "mnoga_biernik": [
+                    "krolewskie ulaskawienia"
+                ]
+            }
+        },
+        "starozytny piecioboczny puklerz": {
+            "type": [
+                "tarcza"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "starozytny piecioboczny puklerz"
+                ],
+                "dopelniacz": [
+                    "starozytnego pieciobocznego puklerza"
+                ],
+                "celownik": [
+                    "starozytnemu pieciobocznemu puklerzowi"
+                ],
+                "biernik": [
+                    "starozytny piecioboczny puklerz"
+                ],
+                "narzednik": [
+                    "starozytnym pieciobocznym puklerzem"
+                ],
+                "miejscownik": [
+                    "starozytnym pieciobocznym puklerzu"
+                ],
+                "mnoga_mianownik": [
+                    "starozytne piecioboczne puklerze"
+                ],
+                "mnoga_biernik": [
+                    "starozytne piecioboczne puklerze"
+                ]
+            }
+        },
+        "dlugi mglisty poltorak": {
+            "type": [
+                "jednoreczny miecz",
+                "dwureczny miecz"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "dlugi mglisty poltorak"
+                ],
+                "dopelniacz": [
+                    "dlugiego mglistego poltoraka"
+                ],
+                "celownik": [
+                    "dlugiemu mglistemu poltorakowi"
+                ],
+                "biernik": [
+                    "dlugi mglisty poltorak"
+                ],
+                "narzednik": [
+                    "dlugim mglistym poltorakiem"
+                ],
+                "mnoga_mianownik": [
+                    "dlugie mgliste poltoraki"
+                ],
+                "mnoga_biernik": [
+                    "dlugie mgliste poltoraki"
+                ]
+            }
+        },
+        "zasniedziala kanciasta korona": {
+            "type": [
+                "helm"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "zasniedziala kanciasta korona"
+                ],
+                "dopelniacz": [
+                    "zasniedzialej kanciastej korony"
+                ],
+                "celownik": [
+                    "zasniedzialej kanciastej koronie"
+                ],
+                "biernik": [
+                    "zasniedziala kanciasta korone"
+                ],
+                "narzednik": [
+                    "zasniedziala kanciasta korona"
+                ],
+                "miejscownik": [
+                    "zasniedzialej kanciastej koronie"
+                ],
+                "mnoga_mianownik": [
+                    "zasniedziale kanciaste korony"
+                ],
+                "mnoga_biernik": [
+                    "zasniedziale kanciaste korony"
+                ]
+            }
+        },
+        "migocaca diamentowa maska": {
+            "type": [
+                "inne"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "migocaca diamentowa maska"
+                ],
+                "dopelniacz": [
+                    "migocacej diamentowej maski"
+                ],
+                "celownik": [
+                    "migocacej diamentowej masce"
+                ],
+                "biernik": [
+                    "migocaca diamentowa maske"
+                ],
+                "narzednik": [
+                    "migocaca diamentowa maska"
+                ],
+                "miejscownik": [
+                    "migocacej diamentowej masce"
+                ],
+                "mnoga_mianownik": [
+                    "migocace diamentowe maski"
+                ],
+                "mnoga_biernik": [
+                    "migocace diamentowe maski"
+                ]
+            }
+        }
+    }
+}

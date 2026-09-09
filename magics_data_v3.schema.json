@@ -1,0 +1,112 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://github.com/tjurczyk/arkadia-data/magics_data_v3.schema.json",
+    "type": "object",
+    "title": "The root schema",
+    "description": "Magics schema, version 3. Forms are split into grammatical cases instead of a flat regexp list.",
+    "default": {},
+    "required": [
+        "version",
+        "magics"
+    ],
+    "properties": {
+        "version": {
+            "$id": "#/properties/version",
+            "type": "integer",
+            "title": "The version of schema",
+            "default": 0,
+            "examples": [
+                3
+            ]
+        },
+        "magics": {
+            "default": {},
+            "required": [],
+            "title": "The magics schema",
+            "additionalProperties": true,
+            "patternProperties": {
+                "^.*$": {
+                    "type": "object",
+                    "required": [
+                        "type",
+                        "odmiana"
+                    ],
+                    "properties": {
+                        "type": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            },
+                            "minItems": 1
+                        },
+                        "odmiana": {
+                            "type": "object",
+                            "title": "Magic declination",
+                            "description": "Every case holds the list of forms seen in game - variants of the same item (zamknieta/otwarta, synonyms) share a case.",
+                            "minProperties": 1,
+                            "additionalProperties": false,
+                            "properties": {
+                                "mianownik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "dopelniacz": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "celownik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "biernik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "narzednik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "miejscownik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "mnoga_mianownik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "mnoga_dopelniacz": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "mnoga_celownik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "mnoga_biernik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "mnoga_narzednik": {
+                                    "$ref": "#/definitions/forms"
+                                },
+                                "mnoga_miejscownik": {
+                                    "$ref": "#/definitions/forms"
+                                }
+                            }
+                        },
+                        "dodatkowe_regexps": {
+                            "type": "array",
+                            "title": "Extra forms",
+                            "description": "Forms that belong to the item but do not fit a case - irregular phrases and typos kept for matching.",
+                            "items": {
+                                "type": "string"
+                            },
+                            "minItems": 1
+                        }
+                    }
+                }
+            },
+            "type": "object"
+        }
+    },
+    "definitions": {
+        "forms": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1
+        }
+    },
+    "additionalProperties": true
+}
