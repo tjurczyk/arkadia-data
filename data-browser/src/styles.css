@@ -1,0 +1,485 @@
+:root {
+  /* Ground: cool slate, so the game's own ANSI colours sit on it without clashing. */
+  --ground: #151a21;
+  --surface: #1c232c;
+  --surface-hover: #222b35;
+  --rule: #2b3541;
+  --rule-strong: #3a4553;
+
+  --text: #dfe5ed;
+  --text-dim: #8895a6;
+  --text-faint: #64707f;
+
+  --focus: #6fb3c4;
+  --hit: color-mix(in oklab, var(--focus) 30%, transparent);
+
+  /* Item families. Desaturated on purpose - structure, not speech. */
+  --family-weapon: #c4614c;
+  --family-armour: #4a8fa8;
+  --family-worn: #b08a3e;
+  --family-container: #6e8b4a;
+  --family-other: #6b7688;
+
+  /* The game's palette, as the MUD emits it, nudged up for a dark ground. */
+  --ansi-grey: #8895a6;
+  --ansi-olive: #9ab53f;
+  --ansi-lime: #4ade55;
+  --ansi-turquoise: #48d1cc;
+  --ansi-tomato: #ff7a61;
+
+  --sans: 'Lato', 'Segoe UI', system-ui, sans-serif;
+  --mono: 'JetBrains Mono', 'Cascadia Mono', 'Consolas', monospace;
+
+  --step: 4px;
+  --radius: 3px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+/* ---------------------------------------------------------------- shell */
+
+.app {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 24px 64px;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--ground);
+  border-bottom: 1px solid var(--rule);
+  padding: 20px 0 0;
+}
+
+.topbar__pad {
+  height: 14px;
+}
+
+.topbar__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 24px;
+  margin-bottom: 16px;
+}
+
+.brand {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: -0.01em;
+}
+
+.sections {
+  display: flex;
+  gap: 2px;
+  margin-left: auto;
+}
+
+.section-btn {
+  appearance: none;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--text-dim);
+  font: inherit;
+  font-size: 15px;
+  padding: 4px 12px 8px;
+  cursor: pointer;
+}
+
+.section-btn:hover {
+  color: var(--text);
+}
+
+.section-btn[aria-current='true'] {
+  color: var(--text);
+  border-bottom-color: var(--focus);
+}
+
+/* --------------------------------------------------------------- search */
+
+.search {
+  position: relative;
+  display: block;
+}
+
+.search__input {
+  width: 100%;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-family: var(--mono);
+  font-size: 15px;
+  padding: 12px 14px 12px 40px;
+}
+
+.search__input::placeholder {
+  color: var(--text-faint);
+  font-family: var(--sans);
+}
+
+/* Chrome draws its own clear affordance for type=search; we have our own. */
+.search__input::-webkit-search-cancel-button,
+.search__input::-webkit-search-decoration {
+  appearance: none;
+  display: none;
+}
+
+.search__input:focus {
+  border-color: var(--focus);
+  outline: none;
+}
+
+.search__icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-faint);
+  pointer-events: none;
+}
+
+.search__clear {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  appearance: none;
+  background: none;
+  border: none;
+  color: var(--text-faint);
+  cursor: pointer;
+  font: inherit;
+  padding: 4px 8px;
+}
+
+.search__clear:hover {
+  color: var(--text);
+}
+
+/* -------------------------------------------------------------- filters */
+
+.filterbar {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px 0;
+}
+
+.filterbar__chips {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.filterbar__label {
+  color: var(--text-faint);
+  font-size: 13px;
+}
+
+.chip {
+  appearance: none;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  color: var(--text-dim);
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  padding: 3px 10px;
+}
+
+.chip:hover {
+  border-color: var(--rule-strong);
+  color: var(--text);
+}
+
+.chip[aria-pressed='true'] {
+  background: color-mix(in oklab, var(--chip-tint, var(--focus)) 22%, var(--surface));
+  border-color: var(--chip-tint, var(--focus));
+  color: var(--text);
+}
+
+.chip--mono {
+  font-family: var(--mono);
+  font-size: 12px;
+}
+
+.count {
+  flex: none;
+  padding-top: 4px;
+  color: var(--text-faint);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* ----------------------------------------------------------------- grid */
+
+.section-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-dim);
+  margin: 28px 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.grid {
+  columns: 400px 4;
+  column-gap: 12px;
+}
+
+.card {
+  break-inside: avoid;
+  margin-bottom: 12px;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+}
+
+/* The spine is worn only where its colour means something. */
+.card--spined {
+  border-left: 3px solid var(--spine);
+}
+
+.card__name {
+  font-family: var(--mono);
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.card__meta {
+  color: var(--text-dim);
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.card__meta--game {
+  font-family: var(--mono);
+  font-size: 11.5px;
+}
+
+.card__body {
+  margin-top: 12px;
+}
+
+/* ------------------------------------------------------------- paradigm */
+
+.paradigm {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  row-gap: 3px;
+}
+
+.paradigm__case {
+  color: var(--text-dim);
+  font-size: 12px;
+  text-align: right;
+  padding: 1px 12px 0 0;
+  white-space: nowrap;
+}
+
+/* The hairline gutter runs the height of the block - a grammar-table device. */
+.paradigm__forms {
+  border-left: 1px solid var(--rule);
+  padding: 0 0 0 12px;
+  margin: 0;
+  list-style: none;
+}
+
+.paradigm__form {
+  font-family: var(--mono);
+  font-size: 12px;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+.paradigm-break {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--text-faint);
+  font-size: 11px;
+  margin: 10px 0 8px;
+}
+
+.paradigm-break::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--rule);
+}
+
+/* ----------------------------------------------------------------- uses */
+
+.uses {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.use {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px;
+  padding: 3px 0;
+  border-top: 1px solid var(--rule);
+}
+
+.use:first-child {
+  border-top: none;
+}
+
+.use__action {
+  font-family: var(--mono);
+  font-size: 12.5px;
+  color: var(--text);
+  min-width: 84px;
+}
+
+.use__effect {
+  font-family: var(--mono);
+  font-size: 12.5px;
+}
+
+.flag {
+  border: 1px solid var(--rule-strong);
+  border-radius: var(--radius);
+  color: var(--text-faint);
+  font-size: 11px;
+  padding: 0 5px;
+}
+
+/* --------------------------------------------------------------- lists */
+
+.taglist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 10px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tag {
+  background: var(--surface-hover);
+  border-radius: var(--radius);
+  color: var(--text-dim);
+  font-size: 12px;
+  padding: 1px 6px;
+}
+
+.keys {
+  columns: 4 260px;
+  column-gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.keys__item {
+  break-inside: avoid;
+  font-family: var(--mono);
+  font-size: 12.5px;
+  padding: 4px 0;
+  border-bottom: 1px solid var(--rule);
+  overflow-wrap: anywhere;
+}
+
+/* --------------------------------------------------------------- states */
+
+.hit {
+  background: var(--hit);
+  border-radius: 2px;
+  color: inherit;
+}
+
+.empty {
+  border: 1px dashed var(--rule-strong);
+  border-radius: var(--radius);
+  color: var(--text-dim);
+  padding: 40px 24px;
+  text-align: center;
+}
+
+.empty__query {
+  font-family: var(--mono);
+  color: var(--text);
+}
+
+.empty__hint {
+  color: var(--text-faint);
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+@media (max-width: 640px) {
+  .app {
+    padding: 0 14px 48px;
+  }
+
+  .topbar__row {
+    gap: 12px;
+  }
+
+  .sections {
+    margin-left: 0;
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .grid,
+  .keys {
+    columns: 1;
+  }
+
+  .filterbar {
+    flex-wrap: wrap;
+  }
+
+  .count {
+    margin-left: auto;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
