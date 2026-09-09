@@ -39,19 +39,19 @@ export function Chip({
   active,
   onClick,
   tint,
-  mono,
+  token,
   children,
 }: {
   active: boolean;
   onClick: () => void;
   tint?: string;
-  mono?: boolean;
+  token?: boolean;
   children: React.ReactNode;
 }) {
   return (
     <button
       type="button"
-      className={mono ? 'chip chip--mono' : 'chip'}
+      className={token ? 'chip chip--token' : 'chip'}
       aria-pressed={active}
       onClick={onClick}
       style={tint ? ({ '--chip-tint': tint } as React.CSSProperties) : undefined}

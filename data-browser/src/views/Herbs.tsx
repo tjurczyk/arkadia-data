@@ -67,7 +67,7 @@ export default function Herbs({ query }: { query: string }) {
         {allTokens.map((token) => (
           <Chip
             key={token}
-            mono
+            token
             active={effects.has(token)}
             tint={tokenColors.get(token)}
             onClick={() => setEffects((prev) => toggle(prev, token))}
