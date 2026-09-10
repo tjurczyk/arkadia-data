@@ -4027,6 +4027,38 @@
                     "migocace diamentowe maski"
                 ]
             }
+        },
+        "druidyczna rytualna rozdzka z debu": {
+            "type": [
+                "jednoreczna bron drzewcowa",
+                "dwureczna bron drzewcowa"
+            ],
+            "odmiana": {
+                "mianownik": [
+                    "druidyczna rytualna rozdzka z debu"
+                ],
+                "dopelniacz": [
+                    "druidycznej rytualnej rozdzki z debu"
+                ],
+                "celownik": [
+                    "druidycznej rytualnej rozdzce z debu"
+                ],
+                "biernik": [
+                    "druidyczna rytualna rozdzke z debu"
+                ],
+                "narzednik": [
+                    "druidyczna rytualna rozdzka z debu"
+                ],
+                "miejscownik": [
+                    "druidycznej rytualnej rozdzce z debu"
+                ],
+                "mnoga_mianownik": [
+                    "druidyczne rytualne rozdzki z debu"
+                ],
+                "mnoga_biernik": [
+                    "druidyczne rytualne rozdzki z debu"
+                ]
+            }
         }
     }
 }

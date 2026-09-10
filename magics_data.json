@@ -1715,6 +1715,19 @@
                 "migocaca diamentowa maske",
                 "migocace diamentowe maski"
             ]
+        },
+        "druidyczna rytualna rozdzka z debu": {
+            "type": [
+                "jednoreczna bron drzewcowa",
+                "dwureczna bron drzewcowa"
+            ],
+            "regexps": [
+                "druidyczna rytualna rozdzka z debu",
+                "druidyczna rytualna rozdzke z debu",
+                "druidyczne rytualne rozdzki z debu",
+                "druidycznej rytualnej rozdzce z debu",
+                "druidycznej rytualnej rozdzki z debu"
+            ]
         }
     }
 }
