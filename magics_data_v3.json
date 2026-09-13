@@ -277,6 +277,9 @@
                 "celownik": [
                     "ciemnej owalnej masce"
                 ],
+                "biernik": [
+                    "ciemna owalna maske"
+                ],
                 "narzednik": [
                     "ciemna owalna maska"
                 ],
@@ -1525,13 +1528,16 @@
             ],
             "odmiana": {
                 "mianownik": [
-                    "misterna spizowa paweza"
+                    "misterna spizowa pawez"
                 ],
                 "dopelniacz": [
                     "misternej spizowej pawezy"
                 ],
                 "celownik": [
                     "misternej spizowej pawezy"
+                ],
+                "biernik": [
+                    "misterna spizowa pawez"
                 ],
                 "narzednik": [
                     "misterna spizowa paweza"
@@ -1545,10 +1551,7 @@
                 "mnoga_biernik": [
                     "misterne spizowe paweze"
                 ]
-            },
-            "dodatkowe_regexps": [
-                "misterna spizowa pawez"
-            ]
+            }
         },
         "misterny obosieczny topor": {
             "type": [
