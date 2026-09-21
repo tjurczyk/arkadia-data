@@ -1,5 +1,16 @@
 {
   "books": {
+    "bialy opasly grymuar": {
+      "mianownik": "bialy opasly grymuar",
+      "dopelniacz": "bialego opaslego grymuaru",
+      "biernik": "bialy opasly grymuar",
+      "mnoga_mianownik": "biale opasle grymuary",
+      "mnoga_dopelniacz": "bialych opaslych grymuarow",
+      "mnoga_biernik": "biale opasle grymuary",
+      "categories": [
+        "magia i jej twory"
+      ]
+    },
     "ceramiczna wypalona tabliczka": {
       "mianownik": "ceramiczna wypalona tabliczka",
       "dopelniacz": "ceramicznej wypalonej tabliczki",
@@ -498,6 +509,7 @@
       "categories": [
         "goblinoidy",
         "nieumarli",
+        "ryboludzie",
         "starsze rasy",
         "stwory pokoniunkcyjne"
       ],
